@@ -1,0 +1,28 @@
+---
+title: "Why I Switched DuckDuckGo for Google"
+date: 2020-12-31
+classes: wide
+categories:
+  - Web Browsing
+header:
+  teaser: "/assets/blogs/2020-12-31-Why-I-Switched-DuckDuckGo-for-Google/Google.jpeg"
+---
+
+Yes, I have joined the dark side in terms of using the most despised Search Engine in the world. I have been using DuckDuckGo as my default search engine on all my devices for over three years, out of concern for privacy. While I don’t completely trust DuckDuckGo, I certainly trust a search engine branded as “a privacy respecting search engine” more than I trust one who are completely open with the data they collect and who they give it to. I have since changed back to Google for one simple reason; the indexing for finding relevant information is far superior.
+
+From changing to DuckDuckGo to Google I quickly realised how good Google is as a search engine. Its ability to know what you mean by certain phrases is phenomenal, its ability to give you good reliable sources of information, the layout of the website, its “did you mean” feature, its ability to autocomplete common search terms to give you the most common things people search for are all amazing features of a search engine. 
+
+However, It depends on how you use your search engine because I tend to use the image feature a lot  because I receive more information from images than I do words because I’m able to process the information quicker, than by having to read articles on the topic. As well I’m able to find images which match what I’m looking for and go on the website that image is on and read the contents there. As a wise man once said, “a picture contains a thousand words”. 
+
+The number one advantage in using Google is that it has more indexing (more websites it has information about) and more relevant indexing (you can find the information you’re looking for). In using DuckDuckGo that has less relevant indexing you make yourself less intelligent than you would be if you were using Google because you’re getting worse results if you had used Google. 
+
+I was blinded by how bad DuckDuckGo is compared to Google by the idea of me getting more privacy in using DuckDuckGo. But I’ve recently concluded that intellect is more important than privacy is this regard. But it goes without saying that if you are doing deep investigative journalist work into areas that certain people don’t want you to look, it’s probably an idea to use a more privacy respecting search engine, because you know for a fact that Google is [“Watching you"](https://moz.com/blog/the-evil-side-of-google-exploring-googles-user-data-collection) 
+
+When I would use DuckDuckGo nowadays is if I need an alternative search engine if I think Google has biased results (which they often do, but it’s a little difficult to identify when they are), when I need some level of privacy with my searches. Also, if the searches on Google are not enough then I would likely try the other search engines to see if I can find what I’m looking for on there.
+
+
+However, I do agree that Google isn’t 100% trustworthy. In the past they have done some shady things involving anti-competition such as buying out their competition, promoting their products over other third-party sellers and likely many other things which the public are unaware of. For all the public knows Google could be doing things with everyone’s data that isn’t in the public’s interest. We don’t know what goes on behind closed doors at Google… Therefore, I feel that more regulations and legislation to be brought out to fight Google’s dominant force on the world. The same could be said for all the big Tech companies, because they simply have far too much power on the world. Fortunately, some Governments have started to wake up these issues. But not enough is being done. 
+
+In the long-term I believe that the solution for search engines is to give “power back to the people” by having a decentralized search engine built on something like a blockchain, where the indexes are built through everyone using the search engine. Whereby each person’s search results are anonymously sent to the blockchain. The idea being is that everyone’s data is freely available for all to see and not held by a centralized corrupt corporation who have their own agenda and policies. Of course, a design like this still has a lot of issues, but it would definitely be in a step in the right direction for humanity. 
+
+In conclusion, Google is currently the best search engine today and DuckDuckGo really doesn’t compare. Google’s ability to give more relevant information is all topics make it a superior search engine. Yet this isn’t to say that DuckDuckGo is a terrible search engine. It does its job fairly well in finding relevant indexing and information. But Google is just far better at it. Until a search engine that can compete with Google comes about (which probably will not because Google won’t allow that to happen) and follows some of my philosophies I will be using Google. 

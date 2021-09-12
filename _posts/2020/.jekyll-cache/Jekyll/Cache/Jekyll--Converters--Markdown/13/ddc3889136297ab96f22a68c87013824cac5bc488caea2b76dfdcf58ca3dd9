@@ -1,0 +1,58 @@
+I"<p>This article will look at how to setup your own safe lab envrionment using virtualbox and pfsense</p>
+
+<p>First Download and install Virtualbox. You can download it from <a href="https://www.virtualbox.org/wiki/Downloads">here</a> You can also use VMware if you prefer that but this tutorial will look at how to do so on Virtualbox.</p>
+
+<p>Next download Pfsense from <a href="https://www.pfsense.org/download/">here</a> Pfsense will act as a firewall so that each client can communicate with each other. After you have downloaded Pfsense create a new Virtual machine using freebsd 64 as the version and give it about 512mb ram (as it really doesn’t need a lot)</p>
+
+<p>Then change the network settings for pfsense and change Adapter 1 to Bridged, and Adapater 2 to internal network and you can give it a different name from the default, I chose to name mine pentest</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/pfsense-network-1.PNG" alt="Unsplash image 9" /></p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/pfsense-network-2.PNG" alt="Unsplash image 9" /></p>
+
+<p>Next boot the Pfsense machine and make sure to choose the pfsense iso file that you downloaded. Once In the pfsense install let it autoboot and then just follow the installer, there isn’t much to configure and you can prety much press enter through the entire installer menu</p>
+
+<p>Once installed, boot it and let it autoboot (if it boots back into installer remove the iso disc in storage settings in virtualbox)</p>
+
+<p>Next you should be brought to a menu press 1 to setup interfaces</p>
+
+<p>when it asks to setup VLAN type “N”</p>
+
+<p>When asked to enter interfaces names use em0 for WAN and em1 for LAN.</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/interface-1.PNG" alt="Unsplash image 9" /></p>
+
+<p>Now set interfaces IP address by pressing 2 and 2 again for LAN</p>
+
+<p>when asked for LAN IPv4 addresses you can choose whichever you prefer I chose 10.0.0.1</p>
+
+<p>Then press 24 for subnet masks</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/ip-1.PNG" alt="Unsplash image 9" /></p>
+
+<p>After press enter and enter again for IPv6 (as you don’t need one)</p>
+
+<p>Next it will ask if you want to setup a DHCP server type “y”</p>
+
+<p>For the IP start/end range choose 10.0.0.1 and 10.0.0.255 if you have followed the ipv4 I choose</p>
+
+<p>When asked to revert HTTP as the webconfigurator protocol you can use either I chose “y”</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/ip-2.PNG" alt="Unsplash image 9" /></p>
+
+<p>That completes the pfsense setup</p>
+
+<p>Next change the network settings to internal network for the machines that you want connected to your lab environment</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/network.PNG" alt="Unsplash image 9" /></p>
+
+<p>Now you should be able to access the Pfsense webserver on 10.0.0.1 in a webbrowser and login (the default username and password is admin:pfsense)</p>
+
+<p>To block the internet you can change the Firewall Rules for Lan and turn the two rules that enable traffic off, as shown below, if you need to connect to the internet you can either turn the firewall rules back on, or in the machine that you want to connect to the internet add a bridged adapter as a second network</p>
+
+<p><img src="http://localhost:4000/assets/blogs/2020-09-18-How-to-create-a-hacking-envrionemnt/block-internet.PNG" alt="Unsplash image 9" /></p>
+
+<p>With this setup you will need to have pfsense running at all times (which is why I advised to use 512mb ram to conserve ram usage)</p>
+
+<p>For vulnerable machines there is <a href="https://www.vulnhub.com/">vulnhub</a> Just note than when setting them up in virtualbox you do need to change there networks to your internal network. Although most of their machines are Linux machines as I believe there are licencing issues with using Windows machines. However If you want Windows machines I highly suggest <a href="https://www.hackthebox.eu/">Hackthebox</a> they have really good windows machines and have decent Active directory machines.</p>
+:ET

