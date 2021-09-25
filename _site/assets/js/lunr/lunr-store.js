@@ -1,10 +1,4 @@
 var store = [{
-        "title": "Installing Instagram after 4 years",
-        "excerpt":"I decided to give Instagram a try mainly in an attempt to get girls. After spending some time taking a nice photo of myself and using it as my profile picture I decided to follow all the girls that follow my university. I then sat for 20 minutes and followed...","categories": ["Social Media","Self-Improvement"],
-        "tags": [],
-        "url": "http://localhost:4000/social%20media/self-improvement/Installing-Instagram-after-4-years/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-08-21-Installing-Instagram-after-4-years/instagram-logo.png"
-      },{
         "title": "Make your Browsing Experience Better",
         "excerpt":"The current state of internet browsing isn’t great. If you can get past the reCAPTCHA where Google forces users to help their algorthm for their own gain without clearly indicating it, get past the incessant and disruptive pop ups asking you to accept the websites Cookie Policy and get past...","categories": ["Web Browsing"],
         "tags": [],
@@ -107,12 +101,6 @@ var store = [{
         "url": "http://localhost:4000/wellbeing/spiritual/Learning-From-Mistakes/",
         "teaser": "http://localhost:4000/assets/blogs/2021-01-31-contentment/contentment.jpeg"
       },{
-        "title": "Stigma Around Mental Health",
-        "excerpt":"There is a stigma around mental health, because we like to think our mental health is all good, but let me just say that in my mental wellbeing article I said that everyone experiences mental health in their own way. Which is true. Some people hide it better than others...","categories": ["Wellbeing","Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/wellbeing/spiritual/Stigma-around-mental-health/",
-        "teaser": "http://localhost:4000/assets/blogs/2021-02-19-Stigma/stigma.jpg"
-      },{
         "title": "Black and White Thinking",
         "excerpt":"I really have some negative attitudes when it comes to black and white thinking which I’m slowly but surely learning to address. Black and white thinking is essentially seeing things or people as good or bad and not realising that there are so many blends of grey that you can’t...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
@@ -197,15 +185,15 @@ var store = [{
         "url": "http://localhost:4000/wellbeing/spiritual/Faults/",
         "teaser": null
       },{
-        "title": "How to Meditate",
-        "excerpt":"In this very short post, I will talk about how to meditate correctly and safely. Note that this is the recommendation from the Great White Brotherhood in their book linking with the 4th dimension linked here at the very last few pages. Firstly, a room should be selected where you...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/spiritual/How-To-Meditate/",
-        "teaser": null
-      },{
         "title": "Showing Respect and Love to God and his Kingdom",
         "excerpt":"Showing respect and love to God and his kingdom In this post I will outline some things which I think are quite important in showing respect and love to God and his kingdom. The first thing that I think is quite important in showing respect and love to God and...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Showing-Respect-and-love-to-God-and-his-kingdom/",
+        "teaser": null
+      },{
+        "title": "Practice Spirituality in Secret",
+        "excerpt":"In this short post I will give some reasons and justifications why those on the spiritual path should do so in secret and not announce it to others. The first reason why the path should be done so in secret is because generally people dislike someone standing in the light...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Practice-Spirtuality-in-secret/",
         "teaser": null
       }]

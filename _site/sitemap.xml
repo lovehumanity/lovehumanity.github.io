@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/social%20media/self-improvement/Installing-Instagram-after-4-years/</loc>
-<lastmod>2020-08-21T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/web%20browsing/make-your-browsing-experience-better/</loc>
 <lastmod>2020-09-10T00:00:00+01:00</lastmod>
 </url>
@@ -73,10 +69,6 @@
 <lastmod>2021-02-07T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/wellbeing/spiritual/Stigma-around-mental-health/</loc>
-<lastmod>2021-02-19T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/wellbeing/spiritual/Black-And-White-Thinking/</loc>
 <lastmod>2021-02-20T00:00:00+00:00</lastmod>
 </url>
@@ -133,12 +125,12 @@
 <lastmod>2021-08-03T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/spiritual/How-To-Meditate/</loc>
-<lastmod>2021-08-06T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/spiritual/Showing-Respect-and-love-to-God-and-his-kingdom/</loc>
 <lastmod>2021-08-14T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/spiritual/Practice-Spirtuality-in-secret/</loc>
+<lastmod>2021-09-25T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>
@@ -175,10 +167,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/essays/2010-dobelli.pdf</loc>
-<lastmod>2021-08-01T10:31:26+01:00</lastmod>
+<lastmod>2021-09-10T20:21:04+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/essays/smart-questions.html</loc>
-<lastmod>2021-08-01T10:31:26+01:00</lastmod>
+<lastmod>2021-09-10T20:21:04+01:00</lastmod>
 </url>
 </urlset>
