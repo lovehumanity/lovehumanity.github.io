@@ -46,25 +46,22 @@ I find that all subjects are linked together. Really it comes down to how you de
 
 ## Cool Quotes :speech_balloon:
 
-"I am but a mirror whose only real purpose is to show you what your own eyes do not see" ~ Kreia
-
-"Be the person that you want to be in life" ~ Me
-
-"Greater in battle than the man who would conquer a thousand-thousand men, is he who would conquer just one - himself" ~ Buddha
-
-"Peace begins when the expectation ends" ~ Buddha
-
-"When I let go of what I am, I become what I might be" ~ Lao Tzu
-
-"Be the change that you want to see in the world" ~ Ghandi
-
-"Pray for thy enemies" ~ Jesus Christ
-
-"None of us live in an objective world, but instead in a subjective world that we ourselves have given meaning to. The world you see is different from the one I see, and it's impossible to share your world with anoyne else" ~ The Courage to be Disliked
-
-"Your worst enemy can not harm you as much as your own thoughts unguarded. But once mastered, no on can help you as much, not even your mother or Father" ~ Buddha
-
+"I am but a mirror whose only real purpose is to show you what your own eyes do not see" ~ Kreia\\
+"Be the person that you want to be in life" ~ Me\\
+"Greater in battle than the man who would conquer a thousand-thousand men, is he who would conquer just one - himself" ~ Buddha\\
+"Peace begins when the expectation ends" ~ Buddha\\
+"When I let go of what I am, I become what I might be" ~ Lao Tzu\\
+"Be the change that you want to see in the world" ~ Ghandi\\
+"Pray for thy enemies" ~ Jesus Christ\\
+"None of us live in an objective world, but instead in a subjective world that we ourselves have given meaning to. The world you see is different from the one I see, and it's impossible to share your world with anoyne else" ~ The Courage to be Disliked\\
+"Your worst enemy can not harm you as much as your own thoughts unguarded. But once mastered, no on can help you as much, not even your mother or Father" ~ Buddha\\
 "The greatest warrior is the one that wins without fighting" ~ Lao Tzu
+
+## The Great White Brotherhood
+
+If you are serious about follow the spiritual path then I highly recommend that you study the teachings of this group who are a group of humans discarnate (in heaven) who transmit various messages to us down on earth. Great implying large in number, white implying nobility of intentions and brotherhood meaning a collective of like-minded people. Their book the stairway to freedom has had a profound impact on my life.\\ 
+<https://thegreatwhitebrotherhood.org/>\\
+<https://www.thestairwaytofreedom.org/>
 
 ## How this blog is hosted Completely Free :heavy_dollar_sign:
 
@@ -72,4 +69,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Upated 01/08/20
+Last Upated 25/09/20
