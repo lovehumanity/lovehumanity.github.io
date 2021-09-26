@@ -71,12 +71,6 @@ var store = [{
         "url": "http://localhost:4000/wellbeing/spiritual/self-improvement/How-Fear-Controls-You/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-30-How-Fear-Controls-You/fear.jpeg"
       },{
-        "title": "Why I Switched DuckDuckGo for Google",
-        "excerpt":"Yes, I have joined the dark side in terms of using the most despised Search Engine in the world. I have been using DuckDuckGo as my default search engine on all my devices for over three years, out of concern for privacy. While I don’t completely trust DuckDuckGo, I certainly...","categories": ["Web Browsing"],
-        "tags": [],
-        "url": "http://localhost:4000/web%20browsing/Why-I-Switched-DuckDuckGo-for-Google/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-12-31-Why-I-Switched-DuckDuckGo-for-Google/Google.jpeg"
-      },{
         "title": "Taking Responsibility for Your Actions",
         "excerpt":"Taking responsibility for your actions In this short post I will explain why you should be taking responsibility for your actions, because whether or not you like it, you are the person that dictates your actions, nobody else. When you don’t take responsibility for your actions you push away who...","categories": ["Wellbeing","Spiritual"],
         "tags": [],

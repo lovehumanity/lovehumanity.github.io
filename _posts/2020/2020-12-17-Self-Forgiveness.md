@@ -26,17 +26,3 @@ Therefore, to begin self-forgiveness and the healing that it brings to your soul
 From practicing this myself, I can tell you that it did unburden me a lot, as I really did have some negative practices that only had the effect of bringing me down. Things such as feeling like a failure, feeling defeated all the time or defeatism, whereby I just feel completely defeated and there isn't anything I can do. Both things have little truth both objectively speaking and subjectively speaking. The level of fulfilment that you receive from forgiving yourself is phenomenal. 
 
 I recommend all who read this post to please practice self-forgiveness. The feeling that it brings to your soul afterwards is something which needs to be experienced, of course the heavier the burden the greater the feeling it brings to your soul afterwards, because you have more things weighing you down. I end by saying that self-forgiveness isn't easy because you first need to look at those bad acts that you have done, all those times you've hurt yourself and others, all those times you've lied, manipulated and deceived for your own benefit at the cost of someone else. Obviously, most people would prefer to only look at the advantage that these things bring to themselves and ignore the negative side of things. People mistake the world as being full of bad people which justifies their bad actions, but this isn't truth. There is a good person in everyone. Its just bringing that person out that is what's important. 
-
-#### Further reading:
-
-[Radical Self-Forgiveness: The Direct Path to True Self-Acceptance Colin Tipping](https://www.amazon.co.uk/Radical-Self-Forgiveness-Direct-Path-Self-Acceptance/dp/1604070900/ref=sr_1_3?dchild=1&keywords=self+forgiveness&qid=1608213893&sr=8-3)
-
-<https://www.apa.org/monitor/2017/01/ce-corner>
-
-<https://link.springer.com/article/10.1007/s12144-018-9926-3>
-
-<https://www.researchgate.net/publication/319642364_Handbook_of_the_Psychology_of_Self-Forgiveness>
-
-<https://psycnet.apa.org/record/2016-57927-007>
-
-<https://www.thelawofattraction.com/forgive-techniques-self-forgiveness/>

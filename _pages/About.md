@@ -5,7 +5,7 @@ permalink: /About/
 classes: wide
 ---
 
-My name is Chris and welcome to my very small blog on the internet. I live in the UK and young. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles feel free to send me an email with your thoughts. This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
+My name is Chris and welcome to my very small blog on the internet. I live in the UK and am quite young. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles feel free to send me an email with your thoughts. This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
 
 In this Blog You'll find articles on the following topics:
 
@@ -19,7 +19,7 @@ Also a side note that the articles on this blog are not very long in length beca
 ## Awesome Subjects :mag:
 
 - Buddhism _(Desire is the cause of suffering)_   
-- Psychology _(Teleology - ALl human behaviour stems from a goal) _ 
+- Psychology _(Teleology - All human behaviour stems from a goal) _ 
 - Spirituality _(I can be better, therefore I will strive to be)_  
 - Economics _(The fed be printing money for days!)_  
 - Taoism _("When you identify a flaw as a flaw, you no longer be with that flaw")_

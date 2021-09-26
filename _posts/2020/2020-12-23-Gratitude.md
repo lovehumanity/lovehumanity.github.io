@@ -24,21 +24,3 @@ Furthermore, gratitude encompasses the practice of looking inwards at yourself r
 Let it also be said that there are a lot of people who feel a deep sense of lacking in themselves. They feel they need to have the latest fashion, the latest smartphones, watch the latest movies thinking that these will offer them more. Gratitude is the solution to a feeling of lacking. You fail to recognise that you already have so much, you are greedy in that you are not content with what you already have and think there is more that you can have. In practicing gratitude, you thereby force yourself to recognise just what exactly you already have and force yourself to stop focussing on what you don't have. If you do practice gratitude then believe me you will be richer than all who have the latest fashion, the latest smartphones and who watch the latest movies.
 
 In conclusion, I encourage all who read this to practice gratitude, it’s not easy to start doing. You may have thoughts of this is stupid, this isn’t going to do anything etc. But believe me if you practice it diligently and with sincerity, then life will be better, I promise you. As always, my words are meaningless if not applied to your life. In fact, don’t believe my words, test them yourself and see the truth in them yourself as I have done. Try starting a gratitude journal where you write about five things at the end of the day which you are grateful for, things will improve. Thank you for reading and blessings to all who read this message.
-
-Further Reading:
-
-<https://www.emergenetics.com/blog/workplace-appreciation-gratitude/>
-
-<https://positivepsychology.com/gratitude-research/>
-
-<https://www.health.harvard.edu/mind-and-mood/in-praise-of-gratitude>
-
-<https://positivepsychology.com/appreciative-inquiry-research/>
-
-<https://jkglei.com/appreciation/>
-
-<https://www.psychologytoday.com/us/blog/what-matters-most/201409/the-many-benefits-showing-appreciation>
-
-<https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier> 
-
-<https://journals.sagepub.com/doi/full/10.1177/2158244018818621> 
