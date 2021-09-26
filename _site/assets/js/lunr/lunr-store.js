@@ -196,4 +196,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Practice-Spirtuality-in-secret/",
         "teaser": null
+      },{
+        "title": "Positive Thinking",
+        "excerpt":"In this short post I will look at the importance and value of positive thinking. Positive thinking is the practice whereby you seek and actively go out of your way to see the positive in things, but more importantly is that you don’t dwell on the negative side of things...","categories": ["Wellbeing"],
+        "tags": [],
+        "url": "http://localhost:4000/wellbeing/Positive-Thinking/",
+        "teaser": null
       }]

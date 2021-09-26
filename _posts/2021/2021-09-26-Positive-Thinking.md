@@ -1,0 +1,21 @@
+﻿---
+title: "Positive Thinking"
+date: 2021-09-26
+classes: wide
+categories:
+  - Wellbeing
+---
+
+In this short post I will look at the importance and value of positive thinking. 
+
+Positive thinking is the practice whereby you seek and actively go out of your way to see the positive in things, but more importantly is that you don't dwell on the negative side of things and try to be as positive as you can about life in general. This is especially important when life has you down, because there is little use in being down and dwelling so much on the negatives, you should focus more on the positive aspects. Its a skill that is learned and is a skill that I have recently started to pick up, but have not yet mastered, so take what I say as just someone who is still learning how to be positive. 
+
+With positive thinking is pushes you to not give into negative thinking and encourages you to change your beliefs on things that cause you to be in a negative state. It also forces you have a healthier outlook on life. Being postie all the time makes you become a happier person because with looking for the positives you appreciate and accept that its not all so bad and that there are good things in life. Becoming a happier person is 100% beneficial towards you and allows you to better deal with problems, because being unhappy and negative you are more likely to struggle with problems and so give up on a problem more easily.  
+
+Being positive is closely linked to gratitude, but is different in that with gratitude you are appreciating what you already have, being positive is changing your outlook to a more positive one. You should seek to practice both being positive and gratitude. Please refer to my article on [gratitude]({% post_url 2020-12-23-Gratitude %})
+
+Life brings many challenges to everyone, some challenges are harder than others and you may make mistakes from time to time, but see them for what they are mistakes, because you can’t change your past mistakes, but you can change your outlook towards them now. Seek to change your outlook on your past mistakes and you will become a happier person. 
+  
+The key thing with being positive is that you don’t focus so much about the negative side of things, but trying to be positive in your outlook towards things. A basic example of changing your outlook may be that you couldn’t meet with some friends on a weekend, but the positive was that it gave you more time to work on an assignment and you focus on this rather than dwelling on the fact that you were unable to meet with your friends. Another basic example is you failed in an exam, having failed it now gives you an accurate perception of your gaps in knowledge and so is a positive because it allows you to study more on those gaps in your knowledge so that you can become better. 
+
+I will leave on a pleasant talk by a Buddist monk who gave a talk being positive link is [here](https://www.youtube.com/watch?v=goo2IMA-nBw)
