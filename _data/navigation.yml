@@ -6,8 +6,6 @@ main:
      url: /categories
    - title: "About"
      url: /About 
-   - title: "Contact"
-     url: /Contact
    - title: "Donate"
      url: /Donate
      # url: /Donate
