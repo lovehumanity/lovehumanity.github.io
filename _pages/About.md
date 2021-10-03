@@ -57,12 +57,6 @@ I find that all subjects are linked together. Really it comes down to how you de
 "Your worst enemy can not harm you as much as your own thoughts unguarded. But once mastered, no on can help you as much, not even your mother or Father" ~ Buddha\\
 "The greatest warrior is the one that wins without fighting" ~ Lao Tzu
 
-## The Great White Brotherhood
-
-If you are serious about follow the spiritual path then I highly recommend that you study the teachings of this group who are a group of humans discarnate (in heaven) who transmit various messages to us down on earth. Great implying large in number, white implying nobility of intentions and brotherhood meaning a collective of like-minded people. Their book the stairway to freedom has had a profound impact on my life.\\ 
-<https://thegreatwhitebrotherhood.org/>\\
-<https://www.thestairwaytofreedom.org/>
-
 ## How this blog is hosted Completely Free :heavy_dollar_sign:
 
 This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/) which allows me to host this blog completely free. I chose gitlab to host this blog because gitlab is [more open source](https://gitlab.com/gitlab-org/gitlab) than github which is completly [closed sourced](https://stackoverflow.com/questions/24254324/is-github-com-source-code-open-source). Personally I find it quite ironic that a website that hosts so much open source code isn't itself open source, its a bit like writing a book on the importance of giving to others, and yet turning a profit for said book. 
