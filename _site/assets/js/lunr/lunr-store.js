@@ -196,4 +196,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/wellbeing/Positive-Thinking/",
         "teaser": null
+      },{
+        "title": "Pray for your enemies",
+        "excerpt":"In this short article I will look at the importance of praying for your enemies. Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Pray-For-Your-Enemies/",
+        "teaser": null
       }]

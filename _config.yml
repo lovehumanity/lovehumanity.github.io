@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Chris's Blog"
+title                    : "Light's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chris"
+name                     : "Light"
 description              : "Place where I write stuff that may interest others"
 url                      : "https://lovehumanity.gitlab.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris" 
+  name             : "Light" 
   avatar           : "/assets/images/peace.jpeg"
   bio              : "Greater in battle than the man who would conquer a thousand-thousand men, is he who would conquer just one - himself ~ Buddha"
   location         : "United Kingdom"
-  email            : "chrisisamazing@protonmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

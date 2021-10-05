@@ -1,4 +1,4 @@
-I"G
+I"è
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,7 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Chris's Blog
+          Light's Blog
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
@@ -15,8 +15,6 @@
               <a href="/categories">Categories</a>
             </li><li class="masthead__menu-item">
               <a href="/About">About</a>
-            </li><li class="masthead__menu-item">
-              <a href="/Contact">Contact</a>
             </li><li class="masthead__menu-item">
               <a href="/Donate">Donate</a>
             </li></ul>
