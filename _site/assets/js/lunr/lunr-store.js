@@ -202,4 +202,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Pray-For-Your-Enemies/",
         "teaser": null
+      },{
+        "title": "People's Expectations of You",
+        "excerpt":"In this short post I will talk a little about other people’s expectations of you. Not meeting other people’s expectations of me has caused me a lot of pain and suffering and its actually only recently I realized that its not the other person’s expectations I’m not meeting but its...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/peoples-expectations-of-you/",
+        "teaser": null
       }]

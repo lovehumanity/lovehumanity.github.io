@@ -55,7 +55,8 @@ I find that all subjects are linked together. Really it comes down to how you de
 "Pray for thy enemies" ~ Jesus Christ\\
 "None of us live in an objective world, but instead in a subjective world that we ourselves have given meaning to. The world you see is different from the one I see, and it's impossible to share your world with anoyne else" ~ The Courage to be Disliked\\
 "Your worst enemy can not harm you as much as your own thoughts unguarded. But once mastered, no on can help you as much, not even your mother or Father" ~ Buddha\\
-"The greatest warrior is the one that wins without fighting" ~ Lao Tzu
+"The greatest warrior is the one that wins without fighting" ~ Lao Tzu\\
+"The greatest teacher failure is" ~ Yoda
 
 ## How this blog is hosted Completely Free :heavy_dollar_sign:
 
