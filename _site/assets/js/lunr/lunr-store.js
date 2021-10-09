@@ -208,4 +208,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/peoples-expectations-of-you/",
         "teaser": null
+      },{
+        "title": "Journaling",
+        "excerpt":"In this very short post I will talk about the importance of journaling. Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyze myself daily. In my view analyzing yourself is an important aspect of following the spiritual life...","categories": ["Spiritual","Wellbeing"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/wellbeing/Journaling/",
+        "teaser": null
       }]
