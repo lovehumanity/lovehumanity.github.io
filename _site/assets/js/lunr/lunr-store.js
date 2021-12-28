@@ -214,4 +214,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/wellbeing/Journaling/",
         "teaser": null
+      },{
+        "title": "Becoming a Child",
+        "excerpt":"I realized recently that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is so become like a child again...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Becoming-a-Child/",
+        "teaser": null
       }]
