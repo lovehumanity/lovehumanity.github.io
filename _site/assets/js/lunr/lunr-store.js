@@ -220,4 +220,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Becoming-a-Child/",
         "teaser": null
+      },{
+        "title": "Judgement",
+        "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have caused myself. Its also caused...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Judgement/",
+        "teaser": null
       }]
