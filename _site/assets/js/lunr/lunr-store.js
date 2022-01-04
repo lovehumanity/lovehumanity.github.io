@@ -226,4 +226,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Judgement/",
         "teaser": null
+      },{
+        "title": "Evil",
+        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Evil/",
+        "teaser": null
       }]
