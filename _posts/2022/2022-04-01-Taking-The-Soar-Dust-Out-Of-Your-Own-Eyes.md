@@ -1,6 +1,6 @@
 ---
 title: "Taking the Soar Dust out of Your own Eyes"
-date: 2021-01-04
+date: 2022-01-04
 classes: wide
 categories:
   - Spiritual 
