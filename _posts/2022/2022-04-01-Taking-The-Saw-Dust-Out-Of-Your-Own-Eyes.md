@@ -1,5 +1,5 @@
 ---
-title: "Taking the Soar Dust out of Your own Eyes"
+title: "Taking the Saw Dust out of Your own Eyes"
 date: 2022-01-04
 classes: wide
 categories:
