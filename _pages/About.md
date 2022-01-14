@@ -16,6 +16,18 @@ In this Blog You'll find articles on the following topics:
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do.
 
+## The Great White Brotherhood
+
+I work with a group of beings that live in the heavenly spheres that call themselves The Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name, but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their inention of spreading various spiritual teachings to the world and spreading the truths of the world. 
+
+Here are their websites and the Youtube Channel of Bob Sanders who channels their messages and works for them. 
+
+[https://thegreatwhitebrotherhood.org/](https://thegreatwhitebrotherhood.org/)
+
+[https://www.thestairwaytofreedom.org/](https://www.thestairwaytofreedom.org/)
+
+[https://www.youtube.com/c/BobSanders](https://www.youtube.com/c/BobSanders)
+
 ## Awesome Subjects :mag:
 
 - Buddhism _(Desire is the cause of suffering)_   
