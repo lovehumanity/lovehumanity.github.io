@@ -53,10 +53,6 @@
 <lastmod>2021-01-05T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/spiritual/Impressing-Others/</loc>
-<lastmod>2021-01-17T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/wellbeing/spiritual/Mental-Wellbeing/</loc>
 <lastmod>2021-01-30T00:00:00+00:00</lastmod>
 </url>
@@ -167,6 +163,10 @@
 <url>
 <loc>http://localhost:4000/spiritual/Virtue-Signaling/</loc>
 <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/spiritual/Impressing-Others/</loc>
+<lastmod>2022-01-17T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>

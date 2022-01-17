@@ -77,12 +77,6 @@ var store = [{
         "url": "http://localhost:4000/wellbeing/spiritual/Taking-responsbility-for-your-actions/",
         "teaser": "http://localhost:4000/assets/blogs/2021-01-05-Taking-Responsibility-for-Your-Actions/500.webp"
       },{
-        "title": "Impressing Others",
-        "excerpt":"Impressing Others In this short post I will talk a little about my experiences with impressing others. I realized that one thing that holds me back a lot in my progress towards God is impressing others, which is a little different to virtue signaling in my eyes. When you feel...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/spiritual/Impressing-Others/",
-        "teaser": null
-      },{
         "title": "Mental Wellbeing",
         "excerpt":"In this article I will outline and talk about some things which help to maintain your mental wellbeing. Mental wellbeing is a large topic with a lots of studies and research and isn’t a single set thing and so therefore I will only cover a handful of things which has...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
@@ -249,5 +243,11 @@ var store = [{
         "excerpt":"I thought I would write a short peice on virtue signaling. One of the things that I think have been causing me to not do as well as I could be doing is due to virtue signaling. I tend to think that God is watching and so will do things...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Virtue-Signaling/",
+        "teaser": null
+      },{
+        "title": "Impressing Others",
+        "excerpt":"Impressing Others In this short post I will talk a little about my experiences with impressing others. I realized that one thing that holds me back a lot in my progress towards God is impressing others, which is a little different to virtue signaling in my eyes. When you feel...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Impressing-Others/",
         "teaser": null
       }]
