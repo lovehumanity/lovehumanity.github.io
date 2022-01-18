@@ -250,4 +250,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Impressing-Others/",
         "teaser": null
+      },{
+        "title": "Rushing Spirituality",
+        "excerpt":"Rushing Spirituality I realized that one thing that is holding me back a lot now that I am starting to see some results with my spiritual advances I feel the need to rush spirituality for more gains because I have been in the dark for so long now and given...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Rushing-Spirituality/",
+        "teaser": null
+      },{
+        "title": "Self-Worth",
+        "excerpt":"Self-Worth Self-Worth is something I have struggled with my entire life, I guess its like somewhat due to my personality flaws and how due to these flaws others don’t accept me as much because I kind of like think its right to put myself down in some way because of...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Self-Worth/",
+        "teaser": null
       }]
