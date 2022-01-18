@@ -227,12 +227,6 @@ var store = [{
         "url": "http://localhost:4000/spiritual/Judgement/",
         "teaser": null
       },{
-        "title": "Evil",
-        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/spiritual/Evil/",
-        "teaser": null
-      },{
         "title": "Taking the Saw Dust out of Your own Eyes",
         "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eight foldpaths were...","categories": ["Spiritual"],
         "tags": [],
@@ -243,6 +237,12 @@ var store = [{
         "excerpt":"I thought I would write a short peice on virtue signaling. One of the things that I think have been causing me to not do as well as I could be doing is due to virtue signaling. I tend to think that God is watching and so will do things...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Virtue-Signaling/",
+        "teaser": null
+      },{
+        "title": "Evil",
+        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Evil/",
         "teaser": null
       },{
         "title": "Impressing Others",
