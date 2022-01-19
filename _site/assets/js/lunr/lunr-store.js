@@ -262,4 +262,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Self-Worth/",
         "teaser": null
+      },{
+        "title": "Patronizing Others",
+        "excerpt":"Patronizing Others I realized that one thing that has caused me suffering and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviors which condescend them in someway. But its also about thinking that you can...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Patronizing-Others/",
+        "teaser": null
       }]
