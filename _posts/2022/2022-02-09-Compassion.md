@@ -6,7 +6,7 @@ categories:
   - Spiritual 
 ---
 
-I thought I would write this articcle on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion.
+I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion.
 
 The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion. If there isn’t good intent, then comapssion will not be as effective. As with any other chirst like emotion.
 
