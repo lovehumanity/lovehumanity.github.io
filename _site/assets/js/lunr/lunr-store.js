@@ -270,7 +270,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Compassion",
-        "excerpt":"I thought I would write this articcle on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion. The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion....","categories": ["Spiritual"],
+        "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion. The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion....","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Compassion/",
         "teaser": null
