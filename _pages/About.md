@@ -5,7 +5,7 @@ permalink: /About/
 classes: wide
 ---
 
-Welcome to my very small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles feel free to send me an email with your thoughts. This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
+Welcome to my very small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles feel free to send me an email with your thoughts chrisisamazing@protonmail.com . This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
 
 In this Blog You'll find articles on the following topics:
 
@@ -76,4 +76,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Upated 05/10/20
+Last Upated 09/02/22
