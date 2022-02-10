@@ -275,8 +275,14 @@ var store = [{
         "url": "http://localhost:4000/spiritual/Compassion/",
         "teaser": null
       },{
+        "title": "Suffering and the Four Noble Truths",
+        "excerpt":"In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. I will first say that I have suffered tremendously as a result of demonic possession,...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/buddhism/Self-Importance/",
+        "teaser": null
+      },{
         "title": "Sexual Frustration",
-        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to a...","categories": ["Spiritual"],
+        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to my...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Sexual-Frustration/",
         "teaser": null
