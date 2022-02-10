@@ -1,26 +1,25 @@
 ---
-title: "Suffering and the Four Noble Truths"
+title: "Self-Importance"
 date: 2022-02-10
 classes: wide
 categories:
   - Spiritual 
-  - Buddhism
 ---
 
-In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering.
+I realize that I can be incredibly foolish, silly and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t think they are better than others because of their perceived spiritual blessings they have received as a result of their faifth in God. 
 
-I will first say that I have suffered tremendously as a result of demonic possession, I have experienced considerable mental suffering as a result of being possessed when I was 17 because the demonic personality is still there, but it has somewhat lessened a lot due to not being tempted to use its personality which is still there. I will also just add that I was exercised with help from The Great White Brotherhood, which you can find a link in the about page of my blog to their website.
+I’ve let myself and the world down considerably due to thinking that I’m more important than others which is wrong because everyone and everything is equal even God himself in the eyes of God. 
 
-I also foolishly believed that the means out of suffering was to give way to evil, but it defintelety wasn’t because I just suffered a great deal more and it has cost me more than anyone could ever know. I don’t think that anyone should resolve their problems by giving way to evil or give way to evil for that mattar – feel free to check out my article on evil that I wrote which may help you with your own evil [https://lovehumanity.gitlab.io/spiritual/Evil/](https://lovehumanity.gitlab.io/spiritual/Evil/)
+I foolishly chose self-importance over others and I was too arrogant and blinded by ignorance and prideful to see what it was I was doing to myself. All those times I hurt and deceived people and lied to their faces when they said “are you ok”? And not being as honest as I should be to them and saying “yeam i’m fine” when I just wasn’t. But also not being true to myself and my own beliefs.
 
-Furhtermore I also realized that I make myself suffer in the present moment through like mental suffering, emotional suffering, making others suffer in the hopes of preventing further suffering, which is just not the means out of suffering. I guess it was mainly due to a total lack of courage in terms of worrying too much for the future and thinking that other people have more power over me. But you should know that you have complete autotomy over yourself whether you belive it or not.
+But my own self-importance got in the way significantly in terms of making real tangeable progress towards God and I have been a complete and utter fool towards myself and let others down which isn’t what I stand for. But I have let others down and more importantly I’ve let myself down and the life of progress towards God which I would like to lead.
 
-In Buddhism the means out of suffering is to follow the four noble truths and to meditate on them as it is wisdom from a very wise master the Buddha. Practicing the eightfold path is indeed the path out of suffering, but for me I struggle with understanding why that is and should really meditate and spend more time contemplating why it is the noble eightfold path is the means out of suffering. 
+I will continue to pray and meditate as best as I can each day to God in the hopes that I can change for the benefit of the human species and more importantly for the benefit of myself. Its wrong what I’ve done to myself and zeaoulsly evil to have done all the things that I’ve done to myself and to think I can get away with it is stupid and foolish and to think that others can’t see my own actions is fooling myself. Praying that I reduce my pride (which I have done now) and reduce my own sense of importance. But I feel the pace of spirtuality is far too fast and should slow down. 
 
-The first noble truth is that life is inheriently suffering, in life we suffer through things like physical suffering, mental suffering, emotional suffering and it is an inevitability that everyone will suffer in some way in their lives.
+My own sense of self-importance isn’t who I want to be anymore in terms of how I identify with being very important. I should respect myself and others more to recognize that I have been given life and so should put efforts into doing God’s work and not the work of the devil/evil. I’m sorry towards myself for having done the things that I have done to myself.
 
-The second noble truth is that change is a constant thing in life, and there is no stopping change suffering has a cause and we try to manipulate sitations, people and try to get our way. But the important thing to remember about the second noble truth is that disastification arises within us. Its you that are disasstified with the current position of the fact that you are going to suffer and that no mattar what you do life is inherientely suffering
+I guess its also about how I was in darkness for so long and now I’m begginging to see the light considerably more I wandered why I was in darkness for so so long. 
 
-The third noble truth which is perhaps the hardest one to grasp is that the cause of suffering is desire and attachment to things or disasstification as the Buddha describes it, because for me I realize that I have a lot of wants and also somewhat realize that not everyone can have what they want in life which is a universal truth and I guess I just need to be more accepting of this fact. Then I realize that I take it out on myself somewhat when I can’t have what I want because of my own arrognace. 
+The work of God should be in creating beautfy, lifting people’s spirits especially people who are down, expressing christ like emotions to others and more importantly yourself, striving to be happy, striving to be joyful, giving to others especially because the power of giving is true in the sense that what you give to others you get in return in the sense that you reap what you sow, but you should give with the belief that God will return to you what you give to others, but you shouldn’t to so for yourself – you should do so with the intent of serving God. Practing self-love more and being more positive.
 
-The fourth noble truth is the promise that you can end your suffering and the suffering of others by teaching the noble four truths through ahering to the noble eightfold path. Which is right understanding, right intentions, right speech, right action, right livelihood, right effort, right concentration, right mindfulness. I won’t go into too much detail but this is the means out of suffering. Which I am still putting efforts to recognize. 
+The reason I gave way to so much self-importance is due to me not recognizeing the oneness of all life and realizing that I’m not the only person in the world and its also incredibly selfish to not believe in the word of God.
