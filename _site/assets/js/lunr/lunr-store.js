@@ -274,4 +274,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Compassion/",
         "teaser": null
+      },{
+        "title": "Sexual Frustration",
+        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to a...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Sexual-Frustration/",
+        "teaser": null
       }]
