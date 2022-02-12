@@ -293,15 +293,15 @@ var store = [{
         "url": "http://localhost:4000/spiritual/buddhism/Suffering-and-the-four-noble-truths/",
         "teaser": null
       },{
-        "title": "Too much of a good thing",
-        "excerpt":"Recently I realized that I was praying and asking for too much and it was being given to me, but it was a bit off because it was too much of a good thing and there is such thing as praying for too many good things because the prayers that...","categories": [],
+        "title": "Too Much Of A Good Thing",
+        "excerpt":"Recently I realized that I was praying and asking for too much and it was being given to me, but it was a bit off because it was too much of a good thing and there is such thing as praying for too many good things because the prayers that...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/Too-Much-of-a-Good-thing/",
+        "url": "http://localhost:4000/spiritual/Too-Much-Of-A-Good-Thing/",
         "teaser": null
       },{
-        "title": "When You Cant Do Good Do Good Elsewhere",
-        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": [],
+        "title": "When You Can't Do Good In Your Own Home, Do Good Elsewhere",
+        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
+        "url": "http://localhost:4000/spiritual/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
         "teaser": null
       }]
