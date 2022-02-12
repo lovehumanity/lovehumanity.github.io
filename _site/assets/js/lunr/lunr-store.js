@@ -275,15 +275,33 @@ var store = [{
         "url": "http://localhost:4000/spiritual/Compassion/",
         "teaser": null
       },{
-        "title": "Suffering and the Four Noble Truths",
-        "excerpt":"In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. I will first say that I have suffered tremendously as a result of demonic possession,...","categories": ["Spiritual","Buddhism"],
+        "title": "Self-Importance",
+        "excerpt":"I realize that I can be incredibly foolish, silly and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/spiritual/buddhism/Self-Importance/",
+        "url": "http://localhost:4000/spiritual/Self-Importance/",
         "teaser": null
       },{
         "title": "Sexual Frustration",
         "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to my...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Sexual-Frustration/",
+        "teaser": null
+      },{
+        "title": "Suffering and the Four Noble Truths",
+        "excerpt":"In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. I will first say that I have suffered tremendously as a result of demonic possession,...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/buddhism/Suffering-and-the-four-noble-truths/",
+        "teaser": null
+      },{
+        "title": "Too much of a good thing",
+        "excerpt":"Recently I realized that I was praying and asking for too much and it was being given to me, but it was a bit off because it was too much of a good thing and there is such thing as praying for too many good things because the prayers that...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/Too-Much-of-a-Good-thing/",
+        "teaser": null
+      },{
+        "title": "When You Cant Do Good Do Good Elsewhere",
+        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
         "teaser": null
       }]
