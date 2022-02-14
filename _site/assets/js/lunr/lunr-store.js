@@ -293,6 +293,12 @@ var store = [{
         "url": "http://localhost:4000/spiritual/buddhism/Suffering-and-the-four-noble-truths/",
         "teaser": null
       },{
+        "title": "Taking Things To Extremes",
+        "excerpt":"Sometimes I take things to extremes and it has caused me and others alot of suffering. I guess the reason I do that is because I desire something and don’t yet fully appreciate that all desire and wants will inveitably lead to suffering and it’s as the saying goes you...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Taking-Things-To-Extremes/",
+        "teaser": null
+      },{
         "title": "Too Much Of A Good Thing",
         "excerpt":"Recently I realized that I was praying and asking for too much and it was being given to me, but it was a bit off because it was too much of a good thing and there is such thing as praying for too many good things because the prayers that...","categories": ["Spiritual"],
         "tags": [],
