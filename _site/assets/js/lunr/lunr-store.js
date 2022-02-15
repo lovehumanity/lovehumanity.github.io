@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taking the Saw Dust out of Your own Eyes",
-        "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eight foldpaths were...","categories": ["Spiritual"],
+        "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes/",
         "teaser": null
@@ -309,5 +309,11 @@ var store = [{
         "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
+        "teaser": null
+      },{
+        "title": "Giving to Others",
+        "excerpt":"In this short post I will talk a little bit about why giving to others is so important in life. You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Giving-To-Others/",
         "teaser": null
       }]

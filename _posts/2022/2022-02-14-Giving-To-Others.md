@@ -16,3 +16,5 @@ A basic example is when you pray for others with the intent of helping them, the
 
 There was also a really good video on Youtube that said that giving to others will make you a lot happier and a lot more cheerful [Ted Talk](https://www.youtube.com/watch?v=78nsxRxbf4w)
 
+This is information which I got from The Great White Brotherhood's book "Linking with the 4th dimension" Chapter 27 The Giving Plane, you can find a link to the book here [Linking with the 4th Dimension](https://thegreatwhitebrotherhood.org/books/) and I have found it to be true in my life. 
+
