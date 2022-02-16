@@ -294,7 +294,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taking Things To Extremes",
-        "excerpt":"Sometimes I take things to extremes and it has caused me and others alot of suffering. I guess the reason I do that is because I desire something and don’t yet fully appreciate that all desire and wants will inveitably lead to suffering and it’s as the saying goes you...","categories": ["Spiritual"],
+        "excerpt":"Sometimes I take things to extremes and it has caused me and others a lot of suffering. I guess the reason I do that is because I desire something and don’t yet fully appreciate that all desire and wants will inevitably lead to suffering and it’s as the saying goes...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Taking-Things-To-Extremes/",
         "teaser": null
@@ -315,5 +315,11 @@ var store = [{
         "excerpt":"In this short post I will talk a little bit about why giving to others is so important in life. You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Giving-To-Others/",
+        "teaser": null
+      },{
+        "title": "The Law of Mutual Attraction",
+        "excerpt":"The Law of Mutual Attraction is a univerisal law which quite simply means that like attracts like. A basic example is your own thoughts that you put out to the world you receive in return, so if you are having lots of negative thoughts, then the world will respond to...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/The-Law-of-Mutual-Attraction/",
         "teaser": null
       }]
