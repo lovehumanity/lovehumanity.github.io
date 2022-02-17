@@ -5,7 +5,7 @@ permalink: /About/
 classes: wide
 ---
 
-Welcome to my very small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles feel free to send me an email with your thoughts chrisisamazing@protonmail.com . This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
+Welcome to my very small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
 
 In this Blog You'll find articles on the following topics:
 
@@ -18,7 +18,7 @@ Also a side note that the articles on this blog are not very long in length beca
 
 ## The Great White Brotherhood
 
-I work with a group of beings that live in the heavenly spheres that call themselves The Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name, but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their inention of spreading various spiritual teachings to the world and spreading the truths of the world. 
+I work with a group of humans that live in the heavenly spheres that call themselves The Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name, but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their inention of spreading various spiritual teachings to the world and spreading the truths of the world. 
 
 Here are their websites and the Youtube Channel of Bob Sanders who channels their messages and works for them. 
 
