@@ -322,4 +322,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/The-Law-of-Mutual-Attraction/",
         "teaser": null
+      },{
+        "title": "Taking a Break From Spirtuality",
+        "excerpt":"I will outline why its so important to take a break from spirutality, especially in times when you feel you have had enough. The spirutal journey should be trod carefully and in good time. Most of the time people who are on their spiritual journey feel that they are doing...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Taking-A-Break-From-Spirtuality/",
+        "teaser": null
       }]
