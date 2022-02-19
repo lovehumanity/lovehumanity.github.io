@@ -1,5 +1,5 @@
 ---
-title: "Taking a Break From Spirtuality"
+title: "Taking a Break From Spirituality"
 date: 2022-02-17
 classes: wide
 categories:
