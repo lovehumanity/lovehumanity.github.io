@@ -9,15 +9,10 @@ I believe in freedom of information, but if you feel like donating to me feel fr
 
 I speak from experience in my articles and so they are not your typical articles you find on popular search engines. 
 
-I only accept crypto as this is apart of my philosophy democracy - power to the people which is what I view crypto currency as. 
+Please only give what you can absolutely afford and choose whichever payment method is more convenient for you (Generally I would prefer buymeacoffee as that is more convenient for me)
 
-Please only give what you can absolutely afford. 
+If you require a refund for any reason at all for your donation then please do email me at chrisisamazing@protonmail.com and I will get back to you as soon as possible via email.
 
-BTC: 1EcpXdGRJLL7r7nGFr7ViUrUFW2UmaBujE
+<https://www.buymeacoffee.com/chrisblog1>
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/bitcoin-qr.png)
-
-
-XMR: 45B6cfBkxuvBiCnmyVqa5KEdyH2pDRvc96KQ5S3rcZwHcdHi8L9FwqFNC2PF9miLcNYBm261Kizh57qSDwqdKrLj1zoqWnH
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/monero.png)
+Bitcoin Address: 121bueFKwqFN9gmMKxx8bfJ5mW2UnwS1uo

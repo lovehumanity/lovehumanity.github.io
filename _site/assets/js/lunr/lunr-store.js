@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taking the Saw Dust out of Your own Eyes",
-        "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eight foldpaths were...","categories": ["Spiritual"],
+        "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes/",
         "teaser": null
@@ -267,5 +267,71 @@ var store = [{
         "excerpt":"Patronizing Others I realized that one thing that has caused me suffering and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviors which condescend them in someway. But its also about thinking that you can...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Patronizing-Others/",
+        "teaser": null
+      },{
+        "title": "Compassion",
+        "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion. The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion....","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Compassion/",
+        "teaser": null
+      },{
+        "title": "Self-Importance",
+        "excerpt":"I realize that I can be incredibly foolish, silly and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Self-Importance/",
+        "teaser": null
+      },{
+        "title": "Sexual Frustration",
+        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to my...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Sexual-Frustration/",
+        "teaser": null
+      },{
+        "title": "Suffering and the Four Noble Truths",
+        "excerpt":"In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. I will first say that I have suffered tremendously as a result of demonic possession,...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/buddhism/Suffering-and-the-four-noble-truths/",
+        "teaser": null
+      },{
+        "title": "Taking Things To Extremes",
+        "excerpt":"Sometimes I take things to extremes and it has caused me and others a lot of suffering. I guess the reason I do that is because I desire something and don’t yet fully appreciate that all desire and wants will inevitably lead to suffering and it’s as the saying goes...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Taking-Things-To-Extremes/",
+        "teaser": null
+      },{
+        "title": "Too Much Of A Good Thing",
+        "excerpt":"Recently I realized that I was praying and asking for too much and it was being given to me, but it was a bit off because it was too much of a good thing and there is such thing as praying for too many good things because the prayers that...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Too-Much-Of-A-Good-Thing/",
+        "teaser": null
+      },{
+        "title": "When You Can't Do Good In Your Own Home, Do Good Elsewhere",
+        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
+        "teaser": null
+      },{
+        "title": "Giving to Others",
+        "excerpt":"In this short post I will talk a little bit about why giving to others is so important in life. You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Giving-To-Others/",
+        "teaser": null
+      },{
+        "title": "The Law of Mutual Attraction",
+        "excerpt":"The Law of Mutual Attraction is a univerisal law which quite simply means that like attracts like. A basic example is your own thoughts that you put out to the world you receive in return, so if you are having lots of negative thoughts, then the world will respond to...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/The-Law-of-Mutual-Attraction/",
+        "teaser": null
+      },{
+        "title": "Taking a Break From Spirtuality",
+        "excerpt":"I will outline why its so important to take a break from spirutality, especially in times when you feel you have had enough. The spirutal journey should be trod carefully and in good time. Most of the time people who are on their spiritual journey feel that they are doing...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Taking-A-Break-From-Spirtuality/",
+        "teaser": null
+      },{
+        "title": "Meditation",
+        "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Meditation/",
         "teaser": null
       }]
