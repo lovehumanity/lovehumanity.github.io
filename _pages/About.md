@@ -76,4 +76,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Upated 09/02/22
+Last Upated 19/02/22
