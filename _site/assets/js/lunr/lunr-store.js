@@ -328,4 +328,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/spiritual/Taking-A-Break-From-Spirtuality/",
         "teaser": null
+      },{
+        "title": "Meditation",
+        "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Meditation/",
+        "teaser": null
       }]
