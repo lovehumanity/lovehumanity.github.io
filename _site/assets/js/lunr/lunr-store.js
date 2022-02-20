@@ -239,16 +239,16 @@ var store = [{
         "url": "http://localhost:4000/spiritual/Virtue-Signaling/",
         "teaser": null
       },{
-        "title": "Evil",
-        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/spiritual/Evil/",
-        "teaser": null
-      },{
         "title": "Impressing Others",
         "excerpt":"Impressing Others In this short post I will talk a little about my experiences with impressing others. I realized that one thing that holds me back a lot in my progress towards God is impressing others, which is a little different to virtue signaling in my eyes. When you feel...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Impressing-Others/",
+        "teaser": null
+      },{
+        "title": "Evil",
+        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/Evil/",
         "teaser": null
       },{
         "title": "Rushing Spirituality",
@@ -323,15 +323,21 @@ var store = [{
         "url": "http://localhost:4000/spiritual/The-Law-of-Mutual-Attraction/",
         "teaser": null
       },{
-        "title": "Taking a Break From Spirtuality",
+        "title": "Taking a Break From Spirituality",
         "excerpt":"I will outline why its so important to take a break from spirutality, especially in times when you feel you have had enough. The spirutal journey should be trod carefully and in good time. Most of the time people who are on their spiritual journey feel that they are doing...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/spiritual/Taking-A-Break-From-Spirtuality/",
+        "url": "http://localhost:4000/spiritual/Taking-A-Break-From-Spirituality/",
         "teaser": null
       },{
         "title": "Meditation",
         "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Meditation/",
+        "teaser": null
+      },{
+        "title": "Right Intention",
+        "excerpt":"Now I believe that right intention is one of the more important parts of the eightfold path because if you don’t have right intention then all else fails in terms of freeing yourself from suffering. Right intention begins by becoming more mindful of your intentions and so I believe that...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/buddhism/Right-Intention/",
         "teaser": null
       }]
