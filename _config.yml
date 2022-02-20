@@ -221,6 +221,7 @@ plugins:
   - jekyll-include-cache
   - jemoji 
   - jekyll-auto-image
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:

@@ -270,7 +270,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Compassion",
-        "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion but it applies to giving others compassion. The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion....","categories": ["Spiritual"],
+        "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Compassion/",
         "teaser": null
@@ -288,7 +288,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Suffering and the Four Noble Truths",
-        "excerpt":"In this artcile I will talk about suffering. Which for me is a subject mattar that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. I will first say that I have suffered tremendously as a result of demonic possession,...","categories": ["Spiritual","Buddhism"],
+        "excerpt":"In this article I will talk about suffering. Which for me is a subject matter that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. In general, I have had a very unusual relationship with suffering and a somewhat I...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/buddhism/Suffering-and-the-four-noble-truths/",
         "teaser": null
@@ -312,7 +312,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Giving to Others",
-        "excerpt":"In this short post I will talk a little bit about why giving to others is so important in life. You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself...","categories": ["Spiritual"],
+        "excerpt":"You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Giving-To-Others/",
         "teaser": null
@@ -339,5 +339,11 @@ var store = [{
         "excerpt":"Now I believe that right intention is one of the more important parts of the eightfold path because if you don’t have right intention then all else fails in terms of freeing yourself from suffering. Right intention begins by becoming more mindful of your intentions and so I believe that...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/buddhism/Right-Intention/",
+        "teaser": null
+      },{
+        "title": "Sloth and Torpor",
+        "excerpt":"Sloth and Torpor is described as an unwholesome state whereby the mind is dulled, and it leads one into a thick and irritable depression. It is one of the 5 hindrances in Buddhism and is I think quite a significant hindrance for following the path. I have suffered tremendously from...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/spiritual/buddhism/Sloth-and-Torpor/",
         "teaser": null
       }]
