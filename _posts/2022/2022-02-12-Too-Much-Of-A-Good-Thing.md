@@ -12,8 +12,11 @@ The solution I feel to not having too much of a good thing is only take that whi
 
 It's also about slowing down because with me being in dark for so long and suddenly being in the light I realized that like I was just having so many good things as a means of compensating for being in dark for so long.
 
-My general advice would be to realize when you are having too much of a good thing and so slow down when you feel your having too much of a good thing and also to not be greedy in the good things that you have, but express gratitude for all the good things that are coming your way and the good things that you already have. 
+My general advice would be to realize when you are having too much of a good thing and so slow down when you feel you’re having too much of a good thing and also to not be greedy in the good things that you have, but express gratitude for all the good things that are coming your way and the good things that you already have. 
 
-I know that I've put a lot of posts on my blog,, but the reason I put these all in a massive batch like this is due to me being in a mental hospital and having a lot more time to better understand myself and thereby make considerable progress towards God. 
+I know that I've put a lot of posts on my blog, but the reason I put these all in a massive batch like this is due to me being in a mental hospital and having a lot more time to better understand myself and thereby make considerable progress towards God. 
 
-Also, it's about taking your time and don't feel you need to rush because of others, because when you rush the whole world rushes because you make up the world. So take your time and remember that the journey is a marathon not a sprint so enjoy each and every moment of it. 
+Also, it's about taking your time and don't feel you need to rush because of others, because when you rush the whole world rushes because you make up the world. So, take your time and remember that the journey is a marathon not a sprint so enjoys each and every moment of it.
+
+As Lao Tzu once said, “Know what is enough”. 
+
