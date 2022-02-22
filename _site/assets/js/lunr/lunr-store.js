@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Pray for your enemies",
-        "excerpt":"In this short article I will look at the importance of praying for your enemies. Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that...","categories": ["Spiritual"],
+        "excerpt":"Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that work for bad or evil are the forces that we should pray for because they...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Pray-For-Your-Enemies/",
         "teaser": null
@@ -210,19 +210,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Journaling",
-        "excerpt":"In this very short post I will talk about the importance of journaling. Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyze myself daily. In my view analyzing yourself is an important aspect of following the spiritual life...","categories": ["Spiritual","Wellbeing"],
+        "excerpt":"Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyse myself daily. In my view analysing yourself is an important aspect of following the spiritual life because it forces you to recognize more of your bad habits/behaviours that you...","categories": ["Spiritual","Wellbeing"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/wellbeing/Journaling/",
         "teaser": null
       },{
         "title": "Becoming a Child",
-        "excerpt":"I realized recently that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is so become like a child again...","categories": ["Spiritual"],
+        "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is so become like a child again...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Becoming-a-Child/",
         "teaser": null
       },{
         "title": "Judgement",
-        "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have caused myself. Its also caused...","categories": ["Spiritual"],
+        "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have given to myself. It’s also...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Judgement/",
         "teaser": null
@@ -276,13 +276,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Self-Importance",
-        "excerpt":"I realize that I can be incredibly foolish, silly and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t...","categories": ["Spiritual"],
+        "excerpt":"I realize that I can be incredibly foolish, silly, and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Self-Importance/",
         "teaser": null
       },{
         "title": "Sexual Frustration",
-        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has mainfested itself in very peculiar ways, and much of which i’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to my...","categories": ["Spiritual"],
+        "excerpt":"This one is a touchy subject for me because I have experienced considerable sexual frustration and has manifested itself in very peculiar ways, and much of which I’m not very proud of. I guess the reason that I haven’t spoken to many woman in my life is due to my...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Sexual-Frustration/",
         "teaser": null
@@ -305,14 +305,14 @@ var store = [{
         "url": "http://localhost:4000/spiritual/Too-Much-Of-A-Good-Thing/",
         "teaser": null
       },{
-        "title": "When You Can't Do Good In Your Own Home, Do Good Elsewhere",
-        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. Firstly, I’ve suffered a lot and that suffering has really made me into the...","categories": ["Spiritual"],
+        "title": "When You Can't Do Good in Your Own Home, Do Good Elsewhere",
+        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. But if I’m being completely honest, you should aim to do good in your...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/When-You-Cant-Do-Good-Do-Good-Elsewhere/",
         "teaser": null
       },{
         "title": "Giving to Others",
-        "excerpt":"You should first start by recognizing that its not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
+        "excerpt":"You should first start by recognizing that it’s not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Giving-To-Others/",
         "teaser": null
