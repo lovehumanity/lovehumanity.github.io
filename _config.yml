@@ -20,7 +20,7 @@ title                    : "Chris' Blog"
 title_separator          : "-"
 subtitle                 : "Spirituality and Wellbeing" # site tagline that appears below site title in masthead
 name                     : "Chris"
-description              : "Place where I talk about my journey of spirtuality and other various stuff"
+description              : "Place where I talk about my journey of spirtuality. Here you will find articles on Buddhism, Wellbeing, Health and various other things. Here I also talk about Buddhism and a little bit about psychology"
 url                      : "https://lovehumanity.gitlab.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "chrisisamazing@protonmail.com"
+      url: "chrisisamazing@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
