@@ -8,7 +8,7 @@ header:
   teaser: "/assets/blogs/2020-11-03-Creating-a-free-blog/blog.jpeg"
 ---
 
-This guide will look at how to use jekyll to create your own static blog hosted completely free using either gitlab or github. This guide will use Arch Linux as the system, although others distros will have a similar install procedure.
+This guide will look at how to use jekyll to create your own static blog hosted completely free using either GitLab or GitHub. This guide will use Arch Linux as the system, although others distros will have a similar install procedure.
 
 First start by installing ruby on your system
 
@@ -105,18 +105,18 @@ in .config.yml
 
 Also edit .config.yml title,description 
 
-To edit the defautl size of the font you can change the file /_saas/minimal-mistakes/_reset.scss and edit the pixel sizes. See [this](https://github.com/mmistakes/minimal-mistakes/issues/1219) and [this](https://github.com/mmistakes/minimal-mistakes/issues/1184)
+To edit the default size of the font you can change the file /_saas/minimal-mistakes/_reset.scss and edit the pixel sizes. See [this](https://github.com/mmistakes/minimal-mistakes/issues/1219) and [this](https://github.com/mmistakes/minimal-mistakes/issues/1184)
 
 ## Publishing 
 
-So after you have the blog setup in the way that you want you can publish it for free on github/gitlab as they both allow for free hosting of static content.
+So after you have the blog setup in the way that you want you can publish it for free on GitHub/GitLab as they both allow for free hosting of static content.
 
-I will show how to publish in gitlab.
+I will show how to publish in GitLab.
 
-First create a repository in gitlab and name it USERNAME.gitlab.io where USERNAME is the username of your gitlab account. 
+First create a repository in GitLab and name it USERNAME.gitlab.io where USERNAME is the username of your GitLab account. 
 
-Next you need to push the files that you have on your local computer to that gitlab repository 
-but before you do that you need to initialise a git repo in that folder, so go into the folder with your template and rename it to be USERNAME.gitlab.io where USERNAME is your gitlab username. Then run
+Next you need to push the files that you have on your local computer to that GitLab repository 
+but before you do that you need to initialise a git repo in that folder, so go into the folder with your template and rename it to be USERNAME.gitlab.io where USERNAME is your GitLab username. Then run
 git init 
 which will initialise the git repos on in that folder
 if you haven't done so already you need to add an email address and a name for git to do this run
@@ -140,23 +140,24 @@ git remote set-url origin https://gitlab.com/lovehumanity/lovehumanity.gitlab.io
 ```
 
 
-For whatever reason the gitlab repo was different to my local repo so if you run in to the same issue you can just use git pull to ensure that you don't have any errors of the gitlab repo having extra files than your local repo 
+For whatever reason the GitLab repo was different to my local repo so if you run in to the same issue you can just use git pull to ensure that you don't have any errors of the GitLab repo having extra files than your local repo 
 ```
 git pull origin master
 ```
-and this should ensure that your local repo is the same as your gitlab repo
+and this should ensure that your local repo is the same as your GitLab repo
 
-After that you need to now create a new file in that repository and have that file be a \_gitlab\_config.xml and choose the jekyll template. Once that has been added gitlab should automaitcally start building your static website. To check look at pipelines and you should see it running/completed there  
+After that you need to now create a new file in that repository and have that file be a \_gitlab\_config.xml and choose the jekyll template. Once that has been added GitLab should automatically start building your static website. To check look at pipelines and you should see it running/completed there  
 
-After the runner has completed you should be able to visit USERNAME.gitlab.io and see your newly created website. If you don't see your new website it may be that you need to change permissions of the repository to be public. 
+After the runner has completed you should be able to visit USERNAME.gitlab.io and see your newly created website. If you don't see your new website, it may be that you need to change permissions of the repository to be public. 
 
 To do that goto the repository's settings and it should give you the option to change it to public.
 
 
-To make changes, you can make the changes locally and then use git to apply those changes to your gitlab repo using;
+To make changes, you can make the changes locally and then use git to apply those changes to your GitLab repo using.
 ```
 git add .
 git push origin master
 git commit -m "Second post published"
 git push origin master
 ```
+
