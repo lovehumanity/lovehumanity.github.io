@@ -20,7 +20,7 @@ title                    : "Chris' Blog"
 title_separator          : "-"
 subtitle                 : "Spirituality and Wellbeing" # site tagline that appears below site title in masthead
 name                     : "Chris"
-description              : "Place where I talk about my journey of spirtuality. Here you will find articles on Buddhism, Wellbeing, Health and various other things. Here I also talk about Buddhism and a little bit about psychology"
+description              : "Place where I talk about my journey of spirtuality. Here you will find articles on Buddhism, Wellbeing, Health and various other things. Here I also talk about Buddhism and a little bit about Psychology."
 url                      : "https://lovehumanity.gitlab.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -206,7 +206,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:slug/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
