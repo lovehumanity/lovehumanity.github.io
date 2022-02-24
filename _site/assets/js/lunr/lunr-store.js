@@ -12,13 +12,13 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/2020-10-31-Books-that-have-changed-my-life/tree.jpg"
       },{
         "title": "Creating a Blog for Free",
-        "excerpt":"This guide will look at how to use jekyll to create your own static blog hosted completely free using either gitlab or github. This guide will use Arch Linux as the system, although others distros will have a similar install procedure. First start by installing ruby on your system Arch:...","categories": ["Productivity"],
+        "excerpt":"This guide will look at how to use jekyll to create your own static blog hosted completely free using either GitLab or GitHub. This guide will use Arch Linux as the system, although others distros will have a similar install procedure. First start by installing ruby on your system Arch:...","categories": ["Productivity"],
         "tags": [],
         "url": "http://localhost:4000/productivity/Creating-a-blog-for-free/",
         "teaser": "http://localhost:4000/assets/blogs/2020-11-03-Creating-a-free-blog/blog.jpeg"
       },{
         "title": "Managing Your Time and Energy",
-        "excerpt":"In this article I will be talking about managing your own time and energy. The first thing I should make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you...","categories": ["Spiritual","Self-Improvement"],
+        "excerpt":"The first thing I should make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are people...","categories": ["Spiritual","Self-Improvement"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/self-improvement/Managing-Your-Time-And-Energy/",
         "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
@@ -30,13 +30,13 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
       },{
         "title": "Stop Consuming New Content",
-        "excerpt":"In this article I will talk about why you should stop consuming content because it is new and why you should be more selective on the content that you do consume. Everyone is a consumer of some sort. You consume the news, films, music, YouTube, books, essays etc. These could...","categories": ["Self-Improvement"],
+        "excerpt":"Everyone is a consumer of some sort. You consume the news, films, music, YouTube, books, essays etc. These could be paid or free it doesn’t matter. Either way everybody consumes something. Think of what you consume as the food you feed your mind, you consume poor and unhealthy content, you...","categories": ["Self-Improvement"],
         "tags": [],
         "url": "http://localhost:4000/self-improvement/Stop-Consuming-New-Content/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-19-Stop-Consuming-New-Content/new-content.jpg"
       },{
         "title": "Good vs Evil",
-        "excerpt":"In this article I will talk a little about the ongoing battle of good vs evil. Most people will generally say that one person’s good is different to another person’s good- that good and evil are subjective. However, this is isn’t accurate. Good are things that are constructive; things that...","categories": ["Spiritual"],
+        "excerpt":"Most people will generally say that one person’s good is different to another person’s good- that good and evil are subjective. However, this isn’t accurate. Good are things that are constructive; things that build things. While evil are things that are destructive, things that unbuild things. Evil isn’t confined to...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/spiritual/Good-Vs-Evil/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-20-Good-Vs-Evil/pheonix.jpg"
