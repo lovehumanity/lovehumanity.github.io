@@ -4,10 +4,10 @@ main:
      url: /year-archive
    - title: "Categories"
      url: /categories
-   - title: "Donate"
-     url: /Donate
    - title: "About"
      url: /About
+   - title: "Donate"
+     url: /Donate
      # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/
