@@ -8,6 +8,8 @@ main:
      url: /About
    - title: "Donate"
      url: /Donate
+   - title: "Important Articles"
+     url: /Important
      # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/

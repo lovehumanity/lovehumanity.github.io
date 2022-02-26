@@ -1,4 +1,4 @@
-I"$
+I"ê
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -17,6 +17,8 @@
               <a href="/About">About</a>
             </li><li class="masthead__menu-item">
               <a href="/Donate">Donate</a>
+            </li><li class="masthead__menu-item">
+              <a href="/Important">Important Articles</a>
             </li></ul>
         
         <button class="search__toggle" type="button">

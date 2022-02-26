@@ -227,6 +227,12 @@ var store = [{
         "url": "http://localhost:4000/judgement/",
         "teaser": null
       },{
+        "title": "Evil",
+        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
+        "tags": ["Evil","Philosophy","My Journey","Good","Prayer"],
+        "url": "http://localhost:4000/evil/",
+        "teaser": null
+      },{
         "title": "Taking the Saw Dust out of Your own Eyes",
         "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were...","categories": ["Spiritual"],
         "tags": [],
@@ -243,12 +249,6 @@ var store = [{
         "excerpt":"I realized that one thing that holds me back a lot in my progress towards God is impressing others, which is a little different to virtue signalling in my eyes. When you feel you need to impress others you just become a slave to other people’s opinions of you and...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/impressing-others/",
-        "teaser": null
-      },{
-        "title": "Evil",
-        "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
-        "tags": ["Evil","Philosophy","My Journey","Good","Prayer"],
-        "url": "http://localhost:4000/evil/",
         "teaser": null
       },{
         "title": "Rushing Spirituality",
@@ -349,7 +349,13 @@ var store = [{
       },{
         "title": "Prayer",
         "excerpt":"Praying is one of the things that I think a lot of people can benefit from. The secret with prayer is to have the genuine intention of helping the person/thing you are praying and doing it for them and not for yourself. To progress towards God, it’s important to serve...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Jesus","God","Christianity"],
         "url": "http://localhost:4000/prayer/",
+        "teaser": null
+      },{
+        "title": "How to Remove Bad Spirits - Possession",
+        "excerpt":"I don’t take credit for the techniques outlined here - they come from The Great White Brotherhood. Link to original article is here link to their website is here Number 1: I am going to put here a technique that you can do to get rid of any bad spirit...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/possession/",
         "teaser": null
       }]
