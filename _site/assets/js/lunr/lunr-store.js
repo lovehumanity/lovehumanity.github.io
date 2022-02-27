@@ -358,4 +358,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/possession/",
         "teaser": null
+      },{
+        "title": "Fake Spirituality",
+        "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/fake-spirituality/",
+        "teaser": null
       }]
