@@ -359,6 +359,12 @@ var store = [{
         "url": "http://localhost:4000/possession/",
         "teaser": null
       },{
+        "title": "Crisis in Ukraine",
+        "excerpt":"Hello all, it saddens me to see war in Ukraine. I don’t know much about Ukraine and the politics involved in that area, but I know that all war isn’t good. I don’t actually watch the news, but I have heard from the forums and friends/family that I visit that...","categories": ["Current Affairs"],
+        "tags": [],
+        "url": "http://localhost:4000/crisis-in-ukraine/",
+        "teaser": null
+      },{
         "title": "Fake Spirituality",
         "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
         "tags": [],
