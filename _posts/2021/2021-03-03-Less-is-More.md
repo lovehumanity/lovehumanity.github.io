@@ -4,6 +4,13 @@ date: 2021-03-03
 classes: wide
 categories:
   - Spiritual 
+tags:
+  - Less
+  - Minimalism
+  - Consumerism
+  - Efficiency
+  - Light
+  - Captialism
 header:
   teaser: "/assets/blogs/2021-03-03-less-is-more/less.jpg"
 ---

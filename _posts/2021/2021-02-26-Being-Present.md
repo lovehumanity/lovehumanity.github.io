@@ -4,6 +4,16 @@ date: 2021-02-26
 classes: wide
 categories:
   - Spiritual
+tags:
+  - Spiritual
+  - Presense
+  - Now
+  - Wellbeing
+  - Love
+  - Healing
+  - I AM
+  - Jesus
+  - Christianity
 header:
   teaser: "/assets/blogs/2021-02-26-Being-Present/present.jpeg"
 ---

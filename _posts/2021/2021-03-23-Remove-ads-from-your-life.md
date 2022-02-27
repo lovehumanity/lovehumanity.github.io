@@ -4,6 +4,10 @@ date: 2021-03-23
 classes: wide
 categories:
   - advertisement
+tags:
+  - Ads
+  - Capitalism
+  - Consumerism
 header:
   teaser: "/assets/blogs/2021-03-23-ads/ads.png"
 ---

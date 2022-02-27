@@ -217,13 +217,13 @@ var store = [{
       },{
         "title": "Becoming a Child",
         "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is so become like a child again...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Jesus","Christianity","Arrogance","Truthful","Spirituality","Wellbeing","Hindrance","Ego","Ignorance","Evil","Child"],
         "url": "http://localhost:4000/becoming-a-child/",
         "teaser": null
       },{
         "title": "Judgement",
         "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have given to myself. It’s also...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Judging others","Buddha","Buddhism","Evil","Judgement","Suffering","God","Christianity","Jesus","Prayer","Spirituality","Wellbeing","Love","Healing","Meditation","Why Buddhism is True"],
         "url": "http://localhost:4000/judgement/",
         "teaser": null
       },{
@@ -235,7 +235,7 @@ var store = [{
       },{
         "title": "Taking the Saw Dust out of Your own Eyes",
         "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Jesus","Christianity","Arrogance","Truthful","Spirituality","Wellbeing"],
         "url": "http://localhost:4000/taking-the-saw-dust-out-of-your-own-eyes/",
         "teaser": null
       },{

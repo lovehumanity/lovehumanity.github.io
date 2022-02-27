@@ -10,6 +10,8 @@ main:
      url: /Donate
    - title: "Important Articles"
      url: /Important
+   - title: "Tags"
+     url: /tags
      # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/
