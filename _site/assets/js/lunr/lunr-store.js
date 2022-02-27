@@ -115,7 +115,7 @@ var store = [{
       },{
         "title": "Being Present",
         "excerpt":"Here I will discuss being present, which just means that you are more focused on the moment right now. A lot of people generally tend to drift their thoughts and ideas either to the past and future and neglect the only real thing they have control over - the present....","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Spiritual","Presense","Now","Wellbeing","Love","Healing","I AM","Jesus","Christianity"],
         "url": "http://localhost:4000/being-present/",
         "teaser": "http://localhost:4000/assets/blogs/2021-02-26-Being-Present/present.jpeg"
       },{
@@ -127,13 +127,13 @@ var store = [{
       },{
         "title": "Less is More",
         "excerpt":"In this article I will talk a little bit about materialism and why less is more. We live in a materialistic society whereby great focus is put on material things such as clothing, tech, food, appliances etc. The idea being that these things will bring us something more than we...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Less","Minimalism","Consumerism","Efficiency","Light","Captialism"],
         "url": "http://localhost:4000/less-is-more/",
         "teaser": "http://localhost:4000/assets/blogs/2021-03-03-less-is-more/less.jpg"
       },{
         "title": "Remove ads from your life",
         "excerpt":"In this short post I will lay out some things you can do to remove ads from your life. This post is in no way definitive and only a few ways will be explored. I am very much against ads hence why I’m making this post. Install an ad-blocker in...","categories": ["advertisement"],
-        "tags": [],
+        "tags": ["Ads","Capitalism","Consumerism"],
         "url": "http://localhost:4000/remove-ads-from-your-life/",
         "teaser": "http://localhost:4000/assets/blogs/2021-03-23-ads/ads.png"
       },{
@@ -211,7 +211,7 @@ var store = [{
       },{
         "title": "Journaling",
         "excerpt":"Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyse myself daily. In my view analysing yourself is an important aspect of following the spiritual life because it forces you to recognize more of your bad habits/behaviours that you...","categories": ["Spiritual","Wellbeing"],
-        "tags": [],
+        "tags": ["Jouranling","Self-help","Self-Improvement","Spirituality","Analysing","Love"],
         "url": "http://localhost:4000/journaling/",
         "teaser": null
       },{
@@ -229,7 +229,7 @@ var store = [{
       },{
         "title": "Evil",
         "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
-        "tags": ["Evil","Philosophy","My Journey","Good","Prayer"],
+        "tags": ["Evil","Philosophy","My Journey","Good","Prayer","Bad","Philosphy","Love","Wellbeing","Spirituality"],
         "url": "http://localhost:4000/evil/",
         "teaser": null
       },{
