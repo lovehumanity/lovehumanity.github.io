@@ -1,0 +1,98 @@
+I"P
+<div class="feature__wrapper">
+
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/splash/feat1-1.jpg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 1</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Sample text 1 with <strong>markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/splash/feat1-2.jpg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 2</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--secondar">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/splash/feat1-3.jpg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 3</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET

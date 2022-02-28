@@ -1,0 +1,24 @@
+I"t<p>In this post I will be reviewing <a href="https://www.virtualhackinglabs.com/">Virtual Hacking Labs</a> (VHL). Virtual Hacking Labs is a lab environment where you have about 40 machines each having a difficulty associated with it, Beginner, Advanced and Advanced+. You also have one practice machine. When you purchase VHL you are given lab credentials, the .ovpn file and the course material. VHL also offer two certifications the Certication of completion (Obtained by documenting 20 machines) and the VHL Advanced+ certifcate (obtained by documenting 10 advanced+ machines two of them being exploited manually)</p>
+
+<p>My background before taking VHL was I had done about 40 machines in the PWK Labs and also done a few Hackthebox machines that were on TJNulls OSCP like boxes. I wanted to do VHL because it was heavily recommened in the OSCP subreddit and the price was a lot cheaper than extending lab time in the PWK labs, so I decided to give VHL a go. I decided to go with three month membership because I felt I could easily do all the machines in that time.</p>
+
+<h2 id="material">Material</h2>
+
+<p>The course material was a lot shorter than the PWK material because VHL doesn’t cover as much stuff as the PWK material. But for what its worth I thought that the VHL material was dense and to the point with its information. I found it had some useful information that the PWK material didn’t have, so I thought it was a nice suplimentary addition to the PWK material.</p>
+
+<h2 id="lab">Lab</h2>
+
+<p>I thought that the machines had lot of diversity in the vulnerabilites that were exploited to gain access, which is good. I also liked that you had unlimited machine resets. I felt that the machines were also quite realistic and that most vulnerabilites were relatively new (within the last 4 years). There were a fair few kernel exploits that were the intended path to priv esc, which is a lot different to the OSCP labs because they didn’t have nearly as much kernel exploits. But I feel that its good to learn about a wide range of priv esc vectors, so in that sense the kernel exploits made VHL different to the OSCP labs. Also apart from 1 machine all the machines in the VHL labs could be exploited without a dependency, which is a lot different to the OSCP labs, which puts a fair amount of focus on looting machines to compromise another machine. I also felt that VHL was really good because it was made by another group remote from Offsec, so there were a different set of machines that the put focus on other areas that I didn’t see in the PWK labs.</p>
+
+<p>However I felt that VHL were lacking on in terms of the number of Windows machines they had available and I felt there quality was quite different to the Windows machines that Hackthebox has on offer. VHL also doesn’t have any Active Directory machines which is little sad because <a href="https://www.adaxes.com/active-directory_infographics-directory.htm">95% of Fortune 1000 Companies use it</a></p>
+
+<p>After about a month and a half I had finished all the VHL machines apart from the practice machine and a machine that had a dependency and I also managed to pass the OSCP during that time.</p>
+
+<p>My favouite machines were Dolphin, Graphs, Trails was fun, Trace was also fun because I think its quite unique.</p>
+
+<p>I think the real value that I received from VHL was the fact that there were not as many hints for the machines as the OSCP labs which had hints for the machines on the forums. I found that for the OSCP labs as soon as I was stuck I would go and look at hints, which is really bad because I found through VHL that its more beneficial to stuggle with the machine, than go for hints as soon as you’re stuck. So for anyone currently studying for OSCP I would advise you to use hints as an absolute last resort. I argue its better to stuggle and do one machine without hints than five machines with hints. Although I only found out after I had completed most of the machines that the lab panel in the webpage did have hints (although Advanced+ machines didn’t)</p>
+
+<p>Thanks for reading!</p>
+
+<p>I will be making a post about my OSCP experience very soon, so be sure to stay tuned for that…</p>
+:ET

@@ -1,0 +1,80 @@
+I";<h2 id="about-the-oscp">About the OSCP</h2>
+
+<p>The OSCP is a highly respected certification in the infosec community. The OSCP is an entry level certification into the field of penetration testing. Note that although it is an entry level penetration testing certification, that is not to say its an entry level certification into computer science (note the difference). To become OSCP certified students need to pass an exam. The exam is 23 hours and 45 minutes, and students are tasked with getting remote access into five machines (a shell of some sort). One of the machines is a stack-based Buffer overflow machine with no mitigations, the student is told which machine the buffer overflow is. Students that obtain 70 out of 100 points on the exam, input the proof.txt contents in exam web panel and submit the documentation with correct writeups and screenshots pass and become OSCP certified.</p>
+
+<p>Prior to starting the training for the OSCP, I was competent with using a terminal having used Linux for about 4 years. I had only done several Vulnhub machines before starting the training. As a side note I see people taking all these various courses before taking the OSCP. Just take the OSCP if you want to get it. Don’t waste your time with other courses, when you could be going straight into the course that is designed specifically for the OSCP. Also appreciate that burnout it a very real thing, that I think a lot of people experience after passing the OSCP.</p>
+
+<p>Once you enrol you will receive an email to the address you used upon enrolling that is your welcome pack. You will be given a vpn connection file for connecting to their lab environment, where there are over 70 machines you need to compromise along with your username and password for using the vpn file, your username and password to access the student forums and the material itself, which is a set of videos and a 850+ page pdf document. Be sure to back up the material because if you lose them, they charge a small fee for sending them again.</p>
+
+<h2 id="why-i-took-the-oscp">Why I took the OSCP</h2>
+
+<p>I took the OSCP because I wanted to learn more about the field of ethical hacking/pentesting and get better at it, as I have always been interested in hacking. Looking for good certifications online everyone was praising the OSCP for how practical it is compared to other certifications and for how good the training is. Therefore, I enrolled on it near the start of this year 2020.</p>
+
+<h2 id="the-good">The Good</h2>
+
+<p>Some good things about the course are the course material is well made. The pdf is easy to follow, being clear in its reasoning and explaining things well for beginners. A lot of effort was put into making the videos look good and professional, which I found to be a little distracting, as I prefer to have someone explaining things off the top of their head and not reading from a script, which the videos seem to suggest.</p>
+
+<p>The lab machines are the most fun part about taking PKW and this is where I spent 2/3rd of my time doing PWK. I bought 90 days and spent 30 going through the course material and doing the exercises for a bonus 5 points. The exercises were good, some more challenging than others, but there is a gap between the time you put into the exercises and the reward – only five bonus points. The machines were quite diverse and had a wide range of vulnerabilities, I think of the 38 machines that I did there were only 1 or 2 machines that had the same or similar kind of vulnerability. I also liked some of the lab machines are from vulnerabilities that were found in the real world.</p>
+
+<p>Also, the fact that offsec give a support chat I thought was good because there needs to be some way for students to talk with offsec about the course if they are stuck and need help. Another good thing about the OSCP is that it is really well respected in the industry, so it helps stand out in the real world when it comes to applying for jobs.</p>
+
+<h2 id="the-bad">The Bad</h2>
+
+<p>With all that said I do have some negative things to say about the OSCP. The first being I found the infosec community leaning on the side of toxicity, whereby users will not help one another. I do get that there are students who have an attitude of wanting others to solve everything for them, because they’re too lazy to attempt to solve it themselves. But, there needs to be a balance that needs to be had. Each person needs to respect each other’s time and energy. But let me also say that you don’t need to be rude/toxic when someone does ask an easy question, you should politely tell the person that they are asking a common question and that they should look online.</p>
+
+<p>The student admins were not that great in helping me maybe 70% of the time, but there were some helpful student admins who were good though. There was this one instance where I was talking to someone in support chat about a machine and the person was flat out telling me the wrong thing to do, arguing that it was the payload that was the issue, which annoyed me at the time. I also really dislike when you take the time and effort to describing an issue, for a student admin to tell you that this course is a “self-study course”. It’s extremely patronising to be told something like that.</p>
+
+<p>The lab machines baring 2 do not have any kind of writeups, so after you did a machine, there is not anyway for you to know for sure that there is another way into that machine. Your just supposed to keep trying. Which can see the value of because in the real world you’re not going to have anyone tell you that there is or is not another way into a machine. But the way I see it, you’re supposed to be teaching students how to become pentesters - not encouraging them to waste their time attempting to get into a machine that has no other way in. If offsec were to provide in depth detailed writeups for how more machines can be done I feel it would improve student’s methodology.</p>
+
+<p>Also, the lab isn’t at all good  value for money, there are 150+ machines on Hackthebox and a year membership costs £100 compared to Offsec lab costing $799 for just 90 days for around 70 machines, and Hackthebox has a much wider range of machines because they are submitted by various users and of course some of HTB machines are similar if not the same to Offsec’s lab machines. Point being is that the cost of the labs is overpriced when compared to other platforms like Tryhackme and Hackthebox.</p>
+
+<p>Furthermore, some of the Lab machines I felt were ‘filler’ machines because some of them were just get the password from this other machine and use that password and root. Also, the one active directory domain that I did I thought was made poorly, because you do the a similar thing to root on each machine. Which to me shows how much thought went into making some of these active directory domains they have. With that said however, there may be some reasoning behind why they had it like that, and it could be because that is what they have seen on real engagements, as the people at Offsec are well experienced in pentesting.</p>
+
+<p>I also dislike how offsec have essentially a monopoly when it comes to infosec related things; they own ExploitDB which is where most exploit code is submitted, they own Kali Linux the most popular pentesting distribution (although parrot is gaining popularity with it being sponsored by Hackthebox), they recently acquired Vulnhub, it’s only a matter of time before they outright buy out HacktheBox and Tryhackme.  With this said the infosec community is small but has been gaining in numbers recently.</p>
+
+<p>Finally, I dislike how the people that run the company Offensive Security hide being the face of the company (which isn’t exclusive to Offsec, a lot of companies do this). There is no person to person type engagements you get from Offsec, the only engagements you really get are from the people who are doing the OSCP also. There is no feeling that Offsec really care for any of their students as there is no direct communication at all with their students. The people in support chat don’t really seem to be apart of Offsec, they seem to just be working for Offsec. Offsec just have a strong corporation type feel to them, everything is done by offsec – not the people that run the show there.</p>
+
+<h2 id="exam-experiences">Exam experiences</h2>
+
+<h3 id="first-exam-trouble">First exam trouble</h3>
+
+<p>I intended to do my exam near the end of July, but that did not go according to plan because the proctor software did not work on my Debian laptop that I had planned to the exam on. The person in support chat with me did not provide any help in terms of troubleshooting what was wrong, the person in support chat argued that I had not read the minimum software requirements correctly and linked me to it arguing that it was because I was running Debian 10 and not Debian 9.3, which I then argued that it meant Debian 9.3 AND ABOVE would work, he did not seem to have this interpretation. I shortly got an email saying that my exam had been cancelled and that I now need to fork over the fees for an exam retake.</p>
+
+<p>As you can imagine I was not at all happy with this outcome. The next day I emailed saying that I refused to pay for an exam retake when there was no help given on offsec’s end to help make the proctor software work and that I was completely misled into believing that Debian 10 would work for the exam proctor software. It was here that I really got tired of dealing with Offsec, there was a complete lack of compassion on their part.</p>
+
+<p>While waiting for a response I spoke to an admin in support chat and told them the issue, and he was understanding of my issue and helped to resolve the situation. So, shout out to that person.</p>
+
+<p>A few days passed and they emailed me granting me a free exam retake.</p>
+
+<p>No money wasn’t the reason I was so annoyed – it was principle. there was a lack of engagement from Offsec to help resolve the issues I was experiencing and for them to email me saying that I now need to give them money for an exam retake for an exam I had not taken, was quite disgusting.</p>
+
+<h3 id="first-exam-attempt">First exam Attempt</h3>
+
+<p>My first exam was a fail, and it was rough, and I mean rough. This exam started in the morning, I did the buffer overflow machine in about an hour and a half, and then after that nothing. I spent most of my time trying the 10 pointer and the 25 pointer machines and was close I felt to achieving a shell for both, but the mental drain got to me. The next day I got up and asked to finish my exam early, because I was mentally drained from the exam and could see that I was not going to achieve much with my current state of mind.</p>
+
+<p>This was a rough experience for me, having spent 5 months studying for this exam and then not having much to show in terms of results. I felt like a failure. Fortunately, I had people around me who were supportive and reminded me how hard this exam is. So, it made me appreciate that I shouldn’t feel like a failure because it is a difficult certification.</p>
+
+<p>The next day I pushed through and bought an exam retake.</p>
+
+<h3 id="second-exam-attempt">Second exam Attempt</h3>
+
+<p>My second exam went a lot better. The difference between my first exam and second was like night and day. I managed to get enough points to pass within four hours of doing the exam. I started with the buffer overflow and finished it within the first 45 minutes of having started the exam. I then started with the 10-point machine which I felt was quite straightforward and got within 20 minutes. I then went for a break for about 10 minutes, once back I started on the first 20-point machine and got a shell within the hour, and then spent another hour on the priv esc. After I went for another break and got some lunch. After I went for the other 20 pointer and this one was quite straightforward and the priv esc did not take that long. The rest of my exam I spent doing the 25 pointer, which seemed uncrackable and spent some time doing my exam report.</p>
+
+<p>However, I felt that my second exam was objectively easier than my first, which changed my perspective on the OSCP because I felt the exams were inconsistent in that one exam can be easier/harder. Or perhaps I just improved my methodology with having taken Virtual Hacking Labs, but it didn’t feel that way.</p>
+
+<p>After a few days, I got the email saying that I had passed the OSCP. I was more relieved that I did not need to practice for the OSCP anymore and that I did not need to deal with offsec anymore because I really did have some difficult times engaging with Offsec. My life for several months was essentially just preparing for the OSCP, and it took a toll on me. I’m just glad to have it out of the way now, so that I can continue with my life.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The OSCP is a solid certification, but with that said it is the only certification I have done (ignoring the VHL Advanced+ Certificate) so there is a bias with my opinion. But really the OSCP taught me the art of methodology creation. I’m now able to quickly learn a methodology and apply it. Which I think is an invaluable skill in life. Most people generally only have one methodology and limit themselves to that one.</p>
+
+<p>The OSCP also taught me about perseverance, or “trying harder” as they term it. Which again is a valuable skill in life, so often I see people give up on their projects and ideas because they don’t have the drive to struggle through it and make it work, and because most people are lazy. With this said though its very easy to allow this mindset to take a toll on your wellbeing, I think that learning to take breaks is important, because it allows you to refresh your mind and focus on something else as it can be really frustrating banging your head, not having a clue and trying the same things over and over again. Learning to take breaks is vital.</p>
+
+<p>If you are starting the OSCP expect to stuggle and endure some difficulty. It is not easy.</p>
+
+<h2 id="for-the-future">For the Future</h2>
+
+<p>Looking forward I am still not sure what I would like to specialize in. Exploit development seems cool, but I am leaning more towards building things. With ethical hacking you look to destroy things to make them more secure. Also, I find the community to be quite toxic, nobody really wants to share information, they want everyone to go through the struggle of finding the information themselves – which is toxic. Ideally, I want to go into a branch of cyber security that has some decent people, because I’m a little tired of some of the behaviours I’ve seen since starting the OSCP.</p>
+
+<p>That about wraps up my OSCP Review, I will eventually get around to publishing some of the material that helped me on my OSCP journey, thank you for reading and I wish you all good luck in your exam. If you disagree with anything I say here feel free to reach out to me via email.</p>
+:ET

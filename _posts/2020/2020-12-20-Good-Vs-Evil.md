@@ -1,0 +1,20 @@
+---
+title: "Good vs Evil"
+date: 2020-12-20
+classes: wide
+categories:
+  - Spiritual
+header:
+  teaser: "/assets/blogs/2020-12-20-Good-Vs-Evil/pheonix.jpg"
+---
+
+Most people will generally say that one person's good is different to another person's good- that good and evil are subjective. However, this isn’t accurate. Good are things that are constructive; things that build things. While evil are things that are destructive, things that unbuild things. Evil isn't confined to just destroying others, it can be destructive behaviours to yourself, for example eating unhealthily. Equally constructive things are not limited to things you do for others, it’s also things you do for yourself, for example doing the work you need to do, so that you stop yourself from having to stress about it, eating healthier things such as fruit and vegetables (because when you eat healthy you feel better within your soul) 
+
+As Jesus once said, "you reap what you sow", what this means is that what you give to the world you receive back. If you are a liar, you will have around you people who also lie. If you are a thief, you will also have things stolen from you. If you put others down for your own advantage, then others will do the same to you. However, the same applies for more positive things. If you seek to help people, then others will help you, if you seek to raise people's spirits, then you attract to you the kinds of people who do the same. If you help people in need, then you attract to you people who will help you if you are in need. If you are kind to people, then others will be kind to you. Don't forget this truth. As time goes on you will learn to see the truth in this principle as Jesus did. 
+
+Most people because they don't know what good and evil are, have negative, destructive habits and behaviours without any knowledge. You either work for the forces of chaos, or you work for the forces of construction. There is no in-between. As much as you can fool yourself into thinking that there is an in-between, there isn't. Most people are asleep to this truth, and because of this by default they work for the forces of chaos without any realisation. 
+
+When I ask people what they want the world to be in the future, I most often get answers that amount to a world where there is world peace. With the idea being that it is in other people's control if the world will be peaceful in the future. Failing to realise that each person is a part of the world. As Gandhi once said, "Be the change you wish to see in the world". If you are a peaceful, loving person then this encourages others to be more peaceful and loving, if you are unkind, arrogant, and selfish then this encourages others to be unkind, arrogant and selfish. 
+
+In conclusion, don't not make the mistake of overestimating how much you understand yourself. Don't be arrogant. Analyse your motives behind your actions and behaviours and do this regularly. Seek to better understand yourself. If you don't put the time and effort into understanding yourself no one will. Aim to remove toxic, negative habits and behaviours that you have, so that you can replace these with more positive and constructive behaviours. In doing so you lessen the power that the forces of chaos have and thereby increase the power that the forces of construction have.
+

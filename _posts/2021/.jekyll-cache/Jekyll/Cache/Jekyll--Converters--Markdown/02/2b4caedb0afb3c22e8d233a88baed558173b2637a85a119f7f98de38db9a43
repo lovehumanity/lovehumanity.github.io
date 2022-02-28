@@ -1,0 +1,12 @@
+I"�<p>In this article I will talk about operation security or opsec in a universal way but more so relates to computer security.</p>
+
+<p>The first thing to do is to ask who are you defending against and what resources do they have at their disposal. What kind of things have they done in the past and what can you deduce about them of how they will be now? As Sun Tzu once said “know yourself and know your enemy”. You really need to first have a good understanding of your enemy and the kind of things you can expect from them.</p>
+
+<p>After you have assessed your enemy, you should look at actionable things that will help you to defend against them. An example is the rise of ransomeware and ‘hacktivists’ you could decide to do backups of data each week to ensure that if ransomware gets to a computer then it won’t hurt you as much and can just restore from backup.</p>
+
+<p>The key thing with Opsec is understanding your threat model. If you are an investigative journalist doing undercover work, it wouldn’t be a bad idea to encrypt your laptop with a secure password in case it gets stolen. Point is you need to be able to understand who you are defending against, otherwise you might be doing things which are overkill.</p>
+
+<p>Do your best to follow the 80/20 principle which is that 20% of the work you put in gives you 80% of the result. Look for small meaningful things you can do that willl bring about a big impact for your security. There is little need to waste all your money on buying a special laptop that has one extra feature that other cheaper ones have. Look at the impact that doing x will bring and look to maximise the value you get out of the things you do by following the 80/20 principle.</p>
+
+<p>Conclusion, know who you are defending against. Don’t be paranoid about security as it doesn’t achieve anything. Make good judgements on actionable things understanding what your enemy is capable of. Good luck!</p>
+:ET

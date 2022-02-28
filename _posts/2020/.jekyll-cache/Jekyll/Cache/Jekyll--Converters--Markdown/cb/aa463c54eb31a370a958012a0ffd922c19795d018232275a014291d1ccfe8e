@@ -1,0 +1,140 @@
+I"�<p>This guide will look at how to use jekyll to create your own static blog hosted completely free using either gitlab or github. This guide will use Arch Linux as the system, although others distros will have a similar install procedure.</p>
+
+<p>First start by installing ruby on your system</p>
+
+<p>Arch:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo pacman -S ruby
+</code></pre></div></div>
+
+<p>Debian</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install ruby ruby-dev
+</code></pre></div></div>
+
+<p>Next you need to prepend the ruby path into your path variable
+add this to your ~/.profile
+PATH=”$PATH:$(ruby -e ‘puts Gem.user_dir’)/bin”
+or you can execute this in terminal and it will change your PATH variable until the next reboot
+see https://wiki.archlinux.org/index.php/Ruby</p>
+
+<p>After install jekyll and bundler with</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install jekyll bundler
+</code></pre></div></div>
+
+<p>Next you can look in jekyll for a theme that you like
+http://jekyllthemes.org/</p>
+
+<p>In this guide I will be using Minimal mistakes, but the installation will be similar for other themes</p>
+
+<p>Next you will need the theme you can either download the file in releases or do a git clone</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/mmistakes/minimal-mistakes
+cd minimal-mistakes
+bundle install
+</code></pre></div></div>
+
+<p>Next to confirm that it is working as expected you can serve the blog locally using</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div></div>
+
+<p>And you should be able to visit the website under http://127.0.0.1:4000</p>
+
+<p>You then run this same command from within the main directory to view your posts locally before publishing them</p>
+
+<h2 id="creating-posts">Creating posts</h2>
+
+<p>Create a directory in the root dir _posts</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mkdir \_posts 
+mkdir \_posts/2020
+</code></pre></div></div>
+
+<p>the basic format for file names is 2020-08-21-new-blog.md</p>
+
+<h2 id="some-basic-configurations">Some Basic Configurations</h2>
+
+<p>For this blog I wanted the navigation bar to have some other pages so I changed _data/navigation.yml with 
+# main links
+main:</p>
+<ul>
+  <li>title: “About”
+url: /About</li>
+  <li>title: “Contact”
+url: /Contact</li>
+</ul>
+
+<p>Next I made a directory in the root dir _pages and made the files about.md and contact.md</p>
+
+<p>In both there contents I used the format</p>
+
+<hr />
+<p>title:  “Contact”
+layout: archive
+permalink: /Contact/
+—</p>
+
+<p>Check out the official documentation, the way you want it configured is likely there, you can also look at the sample blog that it has and look at the source files for them on their github page</p>
+
+<p>https://mmistakes.github.io/minimal-mistakes/year-archive/
+https://github.com/mmistakes/minimal-mistakes/tree/master/docs</p>
+
+<h2 id="other-stuff">Other Stuff</h2>
+
+<p>I didn’t want to share links on the blog so needed to edit ~.config.yml
+and edit 
+defaults
+share: false</p>
+
+<p>I also didn’t want to show a profile on the home page so edited 
+author_profile: false
+in .config.yml</p>
+
+<p>Also edit .config.yml title,description</p>
+
+<p>To edit the defautl size of the font you can change the file /_saas/minimal-mistakes/_reset.scss and edit the pixel sizes. See <a href="https://github.com/mmistakes/minimal-mistakes/issues/1219">this</a> and <a href="https://github.com/mmistakes/minimal-mistakes/issues/1184">this</a></p>
+
+<h2 id="publishing">Publishing</h2>
+
+<p>So after you have the blog setup in the way that you want you can publish it for free on github/gitlab as they both allow for free hosting of static content.</p>
+
+<p>I will show how to publish in gitlab.</p>
+
+<p>First create a repository in gitlab and name it USERNAME.gitlab.io where USERNAME is the username of your gitlab account.</p>
+
+<p>Next you need to push the files that you have on your local computer to that gitlab repository 
+but before you do that you need to initialise a git repo in that folder, so go into the folder with your template and rename it to be USERNAME.gitlab.io where USERNAME is your gitlab username. Then run
+git init 
+which will initialise the git repos on in that folder
+if you haven’t done so already you need to add an email address and a name for git to do this run</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config --global user.email \&lt;Your email\&gt;
+git config --global user.name "\&lt;Your name\&gt;
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add --all
+git commit -m "Initial commit of Jekyll blog"
+</code></pre></div></div>
+
+<p>Then you need to set the origin</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote add origin https://gitlab.com/lovehumanity/lovehumanity.gitlab.io.git
+</code></pre></div></div>
+<p>If you get the remote origin wrong you can change it using</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote set-url origin https://gitlab.com/lovehumanity/lovehumanity.gitlab.io.git
+</code></pre></div></div>
+
+<p>For whatever reason the gitlab repo was different to my local repo so if you run in to the same issue you can just use git pull to ensure that you don’t have any errors of the gitlab repo having extra files than your local repo</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git pull origin master
+</code></pre></div></div>
+<p>and this should ensure that your local repo is the same as your gitlab repo</p>
+
+<p>After that you need to now create a new file in that repository and have that file be a _gitlab_config.xml and choose the jekyll template. Once that has been added gitlab should automaitcally start building your static website. To check look at pipelines and you should see it running/completed there</p>
+
+<p>After the runner has completed you should be able to visit USERNAME.gitlab.io and see your newly created website. If you don’t see your new website it may be that you need to change permissions of the repository to be public.</p>
+
+<p>To do that goto the repository’s settings and it should give you the option to change it to public.</p>
+
+<p>To make changes, you can make the changes locally and then use git to apply those changes to your gitlab repo using;</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .
+git push origin master
+git commit -m "Second post published"
+git push origin master
+</code></pre></div></div>
+:ET
