@@ -24,7 +24,3 @@ Spiritual:
 [Evil]({% post_url 2021-12-31-Evil %})
 
 [How to Remove Bad Spirits - Possession]({% post_url 2022-02-26-Possession %})
-
-"github test"
-
-

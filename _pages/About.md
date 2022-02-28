@@ -5,6 +5,8 @@ permalink: /About/
 classes: wide
 ---
 
+## About this Blog
+
 Welcome to my small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
 
 In this Blog You'll find articles on the following topics:
@@ -14,6 +16,12 @@ In this Blog You'll find articles on the following topics:
 - Self-Improvement
 - Buddhism
 - Anything else I deem important enough to share with the world
+
+This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
+
+[https://lovehumanity.gitlab.io/](https://lovehumanity.github.io/)
+
+[https://lovehumanity.github.io/](https://lovehumanity.github.io/)
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
@@ -77,4 +85,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Updated 19/02/22
+Last Updated 28/02/22
