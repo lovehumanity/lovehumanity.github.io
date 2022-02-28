@@ -1,0 +1,23 @@
+I"/<p>Here are some of the most important articles on my blog which I thought I would share in its own seperate page.</p>
+
+<p>Spiritual:</p>
+
+<p><a href="{% post_url 2022-02-19-Meditation %}">Meditating</a></p>
+
+<p><a href="{% post_url 2022-02-22-Prayer %}">Prayer</a></p>
+
+<p><a href="{% post_url 2021-12-28-Becoming-a-Child %}">Becoming a Child</a></p>
+
+<p><a href="{% post_url 2022-01-04-Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes %}">Taking the Saw Dust out of Your Own Eyes</a></p>
+
+<p><a href="{% post_url 2022-02-20-Right-Intention %}">Right Intention</a></p>
+
+<p><a href="{% post_url 2022-02-09-Compassion %}">Compassion</a></p>
+
+<p><a href="{% post_url 2021-12-31-Evil %}">Evil</a></p>
+
+<p><a href="{% post_url 2022-02-26-Possession %}">How to Remove Bad Spirits - Possession</a></p>
+
+<p>TESTING 123456789</p>
+
+:ET
