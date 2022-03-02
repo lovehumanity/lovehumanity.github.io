@@ -376,4 +376,10 @@ var store = [{
         "tags": ["Jesus","God","Christianity","Love","Love thy neighbour","Prayer","Meditationg","Enemies","Evil"],
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
         "teaser": null
+      },{
+        "title": "Right Speech",
+        "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
+        "url": "http://localhost:4000/right-speech/",
+        "teaser": null
       }]
