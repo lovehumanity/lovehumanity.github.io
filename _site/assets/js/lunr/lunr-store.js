@@ -370,4 +370,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/fake-spirituality/",
         "teaser": null
+      },{
+        "title": "Doing The Most Loving Thing",
+        "excerpt":"In this short article I will talk a little about love and doing the most loving thing. I will just say now that love is the strongest force in the universe and love is what gives us strength in this world and also should be the force that guides us...","categories": ["Spiritual"],
+        "tags": ["Jesus","God","Christianity","Love","Love thy neighbour","Prayer","Meditationg","Enemies","Evil"],
+        "url": "http://localhost:4000/doing-the-most-loving-thing/",
+        "teaser": null
       }]
