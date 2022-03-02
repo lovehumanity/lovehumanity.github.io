@@ -19,7 +19,7 @@ In this Blog You'll find articles on the following topics:
 
 This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
 
-[https://lovehumanity.gitlab.io/](https://lovehumanity.github.io/)
+[https://lovehumanity.gitlab.io/](https://lovehumanity.gitlab.io/)
 
 [https://lovehumanity.github.io/](https://lovehumanity.github.io/)
 
