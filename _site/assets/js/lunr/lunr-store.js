@@ -382,4 +382,10 @@ var store = [{
         "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
         "url": "http://localhost:4000/right-speech/",
         "teaser": null
+      },{
+        "title": "The First Noble Truth",
+        "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-first-noble-truth/",
+        "teaser": null
       }]
