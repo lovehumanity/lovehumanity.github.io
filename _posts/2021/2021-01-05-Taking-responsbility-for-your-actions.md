@@ -23,12 +23,12 @@ Of course, as the saying goes ‘the bigger they are the harder they fall’, if
 
 Useful articles that I have wrote that relate to this are here that may be helpful to you;
 
-[Self-Forgiveness](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Forgiveness/)
+[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})
 
-[Self-Acceptance](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Acceptance/)
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
 
-[Self-Image](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Image/)
+[Self Image]({% post_url 2020-12-25-Self-Image %})
 
-[Self-Compassion](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Compassion/)
+[Self Compassion]({% post_url 2020-12-21-Self-Compassion %})
 
 Conclusion, start taking responsibility and accountability for your actions, no one else will. Only then can you start to change and become better. But I will also say that beginning to take responsibility is difficult. Just know that it will be worth it in the end.

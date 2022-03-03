@@ -40,13 +40,13 @@ In conclusion, mental health isn't as discussed as it should be due to stigma su
 
 Below are some articles I have written of relevance to this discussion that you may find useful and a video on depression.
 
-[Self Acceptance](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Acceptance/)
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
 
-[Self Compassion](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Compassion/)
+[Self Compassion]({% post_url 2020-12-21-Self-Compassion %})
 
-[Self Image](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Image/)
+[Self Image]({% post_url 2020-12-25-Self-Image %})
 
-[Self Forgiveness](https://lovehumanity.gitlab.io/wellbeing/spiritual/Self-Forgiveness/)
+[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})
 
 [Video on Depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU&t=7s)
 
