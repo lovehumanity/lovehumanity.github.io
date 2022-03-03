@@ -388,4 +388,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-first-noble-truth/",
         "teaser": null
+      },{
+        "title": "The Second Noble Truth",
+        "excerpt":"In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-second-noble-truth/",
+        "teaser": null
       }]
