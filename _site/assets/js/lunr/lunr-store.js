@@ -395,6 +395,12 @@ var store = [{
         "url": "http://localhost:4000/the-second-noble-truth/",
         "teaser": null
       },{
+        "title": "Finding your Ideal Partner",
+        "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/finding-your-ideal-partner/",
+        "teaser": null
+      },{
         "title": "Found at Sea",
         "excerpt":"This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak. I guess the thing that really did it was prayer. Prayer is...","categories": ["life"],
         "tags": [],
