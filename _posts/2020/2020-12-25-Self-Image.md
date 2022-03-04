@@ -28,6 +28,6 @@ Finally, the only person that can make you change is yourself! As much as others
 I also highly recommend my other posts which will help with healing in the process;
 [Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})
 [Self Compassion]({% post_url 2020-12-21-Self-Compassion %})
-[Gratitude]({% post_url 2020-12-23-Gratitude}) 
+[Gratitude]({% post_url 2020-12-23-Gratitude %}) 
 
 I will also be working on a new post which will be about self-love which will be out very soon. 

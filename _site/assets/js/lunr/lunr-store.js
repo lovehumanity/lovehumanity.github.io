@@ -394,4 +394,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-second-noble-truth/",
         "teaser": null
+      },{
+        "title": "Found at Sea",
+        "excerpt":"This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak. I guess the thing that really did it was prayer. Prayer is...","categories": ["life"],
+        "tags": [],
+        "url": "http://localhost:4000/found-at-sea/",
+        "teaser": null
+      },{
+        "title": "Lost at Sea",
+        "excerpt":"I thought I would share here this poem I wrote in December 2021 to share here that in life it hasn’t always been easy sailing so to speak. I felt I owe it to myself to share this short poem because people oft get the wrong idea about me that...","categories": ["life"],
+        "tags": [],
+        "url": "http://localhost:4000/lost-at-sea-poem/",
+        "teaser": null
       }]
