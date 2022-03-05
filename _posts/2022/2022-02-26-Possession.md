@@ -6,7 +6,7 @@ categories:
   - Spiritual 
 ---
 
-I don't take credit for the techniques outlined here - they come from The Great White Brotherhood. Link to original article is [here](https://thegreatwhitebrotherhood.org/lessons/possession/) link to their website is [here](https://thegreatwhitebrotherhood.org/)
+I don't take credit for the techniques outlined here - they come from The Great White Brotherhood. Link to original article is [here](https://thegreatwhitebrotherhood.org/lessons/possession/) link to their website is [here](https://thegreatwhitebrotherhood.org/) 
 
 Number 1:
 
@@ -67,3 +67,9 @@ So, sleep peacefully.
 When you wake up in the morning, thank God for sending His angels to keep you safe all night, imagine the eggshell dissolving and just carry on with your day.
 
 Obviously, do not go to bed having taken drugs or strong drink.
+
+Update 1: 05/03/22
+
+There is another technqiue for cleaning yourself of a negative spirit and that is praying for cleansing, and when you pray really feel yourself being cleansed and feeling that cleaning power.
+
+But its also about doing things true to your heart throughout the day because you just feel so dirty doing things that others whom are attached to you want you to do and like it says in the first technique you really need to want to have that spirit removed from you. 
