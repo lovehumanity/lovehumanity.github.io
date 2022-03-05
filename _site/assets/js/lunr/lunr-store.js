@@ -412,4 +412,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": null
+      },{
+        "title": "The True Aliens",
+        "excerpt":"In this article I will give my rough understanding of the alien topic. Which has nowadays become virtually a household topic. Most of the information I have received here has been from The Great White Brotherhood’s book “Aliens the Strange Truth” and you can find a link to that book...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/the-true-aliens/",
+        "teaser": null
       }]
