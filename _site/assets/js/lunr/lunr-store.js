@@ -418,4 +418,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-true-aliens/",
         "teaser": null
+      },{
+        "title": "The Third Noble Truth",
+        "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-third-noble-truth/",
+        "teaser": null
       }]

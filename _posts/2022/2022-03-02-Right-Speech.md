@@ -31,3 +31,16 @@ For me its also about control – because I feel that by not being 100% truthful
 
 In conclusion, right speech is not lying to others, having good conversations with people using the correct body language and tone of voice, speaking to others at the correct times in conversations. But its also about ensuring that you avoid from idle talk, gossip and speaking ill of others (even in your own mind and in a way plays a lot into judging others which is something that everyone should strive to do because it causes others suffering how others are judged – which isn’t good). Its also about saying what you mean and believing in what you say because its important to do that to free yourself from suffering. 
 
+
+Further Reading:
+
+<https://tricycle.org/trikedaily/family-dharma-right-speech-reconsidered/>\\
+<https://www.learnreligions.com/right-speech-450072>\\
+<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-vaca/index.html>\\
+<https://zenstudiespodcast.com/right-speech/>\\
+<https://www.buddhistdoor.net/features/right-speech-is-responsible-speech/>\\
+<https://www.sryahwapublications.com/journal-of-religion-and-theology/pdf/v3-i3/4.pdf>\\
+<https://blogs.dickinson.edu/buddhistethics/files/2017/09/King-Right-Speech-final-1.pdf>\\
+<https://www.youtube.com/watch?v=19VdkH0DqRU>\\
+<https://www.unhcr.org/50be10cb9.pdf>\\
+<https://en.wikipedia.org/wiki/Buddhism>\\

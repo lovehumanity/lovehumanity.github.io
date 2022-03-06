@@ -20,3 +20,24 @@ It is on each and everyone of us and our responsibility as people to pray for th
 
 Feel free to give my article on prayer a read, linked [Here]({% post_url 2022-02-22-Prayer%}), which also gives the prayer which I have made, which may be of use to you who read this message and also give my article on meditation a read, linked [Here]({% post_url 2022-02-19-Meditation %}), on the technique which I have used for over 3 and a half years now which has helped me significantly. 
 
+Further Reading:
+
+<https://www.theguardian.com/world/live/2022/mar/06/russia-ukraine-war-biden-and-zelenskiy-discuss-more-support-for-ukraine-as-visa-mastercard-pull-out-of-russia-live>\\
+<https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine>\\
+<https://www.politico.eu/tag/crisisinukraine/>\\
+<https://www.nbcnews.com/nightly-news/video/ukraine-crisis-images-of-hope-loss-uncertainty-and-defiance-134635077796>\\
+<https://en.wikipedia.org/wiki/2021%E2%80%932022_Russo-Ukrainian_crisis>\\
+<https://www.economist.com/ukraine-crisis>\\
+<https://indianexpress.com/article/world/ukraine-russia-war-putin-zelenskyy-kyiv-invasion-europe-nato-indian-evacuation-live-updates-7801923/>\\
+<https://www.aljazeera.com/tag/ukraine-russia-crisis/>\\
+<https://www.theatlantic.com/ideas/archive/2022/02/how-crisis-ukraine-will-end/622942/>\\
+<https://www.rescue.org/article/ukraine-russia-crisis-what-happening>\\
+<https://edition.cnn.com/specials/europe/ukraine>\\
+<https://www.newyorker.com/news/q-and-a/why-john-mearsheimer-blames-the-us-for-the-crisis-in-ukraine>\\
+<https://www.euronews.com/tag/crisis-in-ukraine>\\
+<https://www.vox.com/22917719/russia-ukraine-invasion-border-crisis-nato-explained>\\
+<https://www.crisisgroup.org/europe-central-asia/eastern-europe/ukraine>\\
+<https://www.bbc.co.uk/news/world-europe-60468237>\\
+<https://www.gov.uk/government/news/statement-on-ukraine-crisis-and-its-implications-for-charities>\\
+<https://www.bbc.co.uk/news/world-europe-56720589>\\
+<https://www.icrc.org/en/humanitarian-crisis-ukraine>\\

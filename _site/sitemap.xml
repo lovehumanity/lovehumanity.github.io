@@ -281,6 +281,10 @@
 <lastmod>2022-03-05T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/the-third-noble-truth/</loc>
+<lastmod>2022-03-06T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/About/</loc>
 </url>
 <url>
@@ -324,6 +328,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page8/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/essays/2010-dobelli.pdf</loc>

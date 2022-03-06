@@ -20,3 +20,16 @@ The third and final form of dukka is one which requires serious contemplation an
 As always put my words to the test and see the truth for yourself.
 
 
+Further Reading:
+
+<https://www.rickhanson.net/four-noble-truths-noble-truth-suffering/>\\
+<https://www.britannica.com/topic/Four-Noble-Truths>\\
+<https://www.buddhanet.net/4noble4.htm>\\
+<https://www.mediation1st.co.uk/?blog=blogs/archive/2014/11/05/the.first.noble.truth.aspx>\\
+<https://www.pbs.org/edens/thailand/buddhism.htm>\\
+<https://www.youtube.com/watch?v=G54Ap3NiS_o>\\
+<https://www.youtube.com/watch?v=2XdhxTXuxRY>\\
+<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca1/index.html>\\
+
+
+
