@@ -199,7 +199,7 @@ var store = [{
       },{
         "title": "Pray for your enemies",
         "excerpt":"Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that work for bad or evil are the forces that we should pray for because they...","categories": ["Spiritual"],
-        "tags": [],
+        "tags": ["Prayer","Enemies","Jesus","The Bible","Chirstianity"],
         "url": "http://localhost:4000/pray-for-your-enemies/",
         "teaser": null
       },{
@@ -343,7 +343,7 @@ var store = [{
       },{
         "title": "Sloth and Torpor",
         "excerpt":"Sloth and Torpor is described as an unwholesome state whereby the mind is dulled, and it leads one into a thick and irritable depression. It is one of the 5 hindrances in Buddhism and is I think quite a significant hindrance for following the path. I have suffered tremendously from...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
+        "tags": ["Sloth and Torpor","Accomplishments","Death","Life after death"],
         "url": "http://localhost:4000/sloth-and-torpor/",
         "teaser": null
       },{

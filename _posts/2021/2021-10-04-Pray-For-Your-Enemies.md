@@ -4,6 +4,12 @@ date: 2021-10-04
 classes: wide
 categories:
   - Spiritual
+tags:
+  - Prayer
+  - Enemies
+  - Jesus
+  - The Bible
+  - Chirstianity
 ---
 
 Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that work for bad or evil are the forces that we should pray for because they have succumb to evil and are actively working to bring harm and mayhem throughout the world, these are people that hold positions of power as these positions allows them to harm as many people as possible, so these evil people hold positions as bankers, politicians, religious leaders, trade unionists, business leaders, people that work in Government such as civil servants, education leaders etc. It is our job as good people to send the power of God to these people through the act of prayer. I also wanted to just note that those who are not spiritually awake generally tend to work for the forces of evil as they are asleep in a spiritual sense. You either work for the forces of evil, or you work for the forces of good in the world. There is no in-between.
@@ -18,3 +24,20 @@ The story of David and Goliath simply means that through our connection with God
 
 Therefore, it’s important that each and every one of us begins to pray for our world leaders, the bankers, the politicians, the business leaders, the religious leaders, trade union leaders etc. So that we can reduce their evil on the world and help to bring about a better world for humanity.
 
+Further Reading:
+
+<https://biblehub.com/matthew/5-44.htm>\\
+<https://www.crosswalk.com/faith/prayer/a-powerful-prayer-for-your-enemies.html>\\
+<https://www.christianity.com/wiki/prayer/what-does-it-mean-to-pray-for-your-enemies.html>\\
+<https://www.thegospelcoalition.org/article/3-ways-to-pray-for-our-enemies/>\\
+<https://www.harvestprayer.com/resources/personal-2/praying-for-enemies/>\\
+<https://www.biblegateway.com/passage/?search=Matthew%205%3A43-48&version=NIV>\\
+<https://www.abwe.org/blog/15-convicting-bible-verses-pray-over-enemies>\\
+<https://www.youtube.com/watch?v=mQa-GseMSI4>\\
+<https://www.biblegateway.com/passage/?search=1%20Samuel%2017&version=NIV>\\
+<https://www.biblestudytools.com/bible-stories/david-and-goliath.html>\\
+<https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/david-and-goliath?lang=eng>\\
+<https://www.littlebrown.com/titles/malcolm-gladwell/david-and-goliath/9780316204361/>\\
+<https://interestingliterature.com/2021/05/david-and-goliath-story-summary-analysis/>\\
+<https://www.inc.com/issie-lapowsky/malcolm-gladwell-david-and-goliath.html>\\
+<https://en.wikipedia.org/wiki/Goliath>\\

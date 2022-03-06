@@ -28,4 +28,13 @@ In my personal experience, I already was aware of Jesus saying you should become
 
 In conclusion, its very important to become more like a child again so that you can further progress towards God and progress in spirituality. In putting efforts to become more like a child again it will allow you to empty your cup more and allow you to remove things more easily like arrogance, ignorance, pride, selfishness, evil etc. I also realized that growth in spirituality is very much just a process of becoming less ignorant of the reality of things. I also want to add here that you can put efforts to become more like a child at any age, even if you are elderly – it’s never too late to make progress in spirituality. 
 
+Further Reading:
 
+<https://www.desiringgod.org/messages/how-to-become-a-child-of-god>\\
+<https://www.compellingtruth.org/child-of-God.html>\\
+<https://biblehub.com/matthew/18-3.htm>\\
+<https://lifehopeandtruth.com/god/who-is-god/how-to-become-a-child-of-god/>\\
+<https://faculty.wts.edu/posts/enteringthekingdomaschildren/>\\
+<https://www.bible.ca/interactive/salvation-16-becoming-gods-child.htm>\\
+<https://www.christianity.com/wiki/salvation/what-does-it-mean-to-be-a-child-of-god-as-an-adult.html>\\
+<https://www.biblword.net/what-does-it-mean-to-be-a-child-of-god/>\\
