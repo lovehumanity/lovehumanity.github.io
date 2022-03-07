@@ -21,3 +21,20 @@ After you have finished 15 minutes of meditation, then you should send this ener
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. 
 
 [Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate 
+
+Further Research:
+
+<https://www.healthline.com/nutrition/12-benefits-of-meditation>\\
+<https://www.forbes.com/sites/alicegwalton/2015/02/09/7-ways-meditation-can-actually-change-the-brain/?sh=7ee5a6161465>\\
+<https://www.nccih.nih.gov/health/meditation-in-depth>\\
+<https://www.headspace.com/meditation/benefits>\\
+<https://positivepsychology.com/benefits-of-meditation/>\\
+<https://www.insider.com/benefits-of-meditation>\\
+<https://parade.com/969668/ericasweeney/benefits-of-meditation/>\\
+<https://www.healthline.com/health/mental-health/types-of-meditation>\\
+<https://www.headspace.com/meditation/techniques>\\
+<https://www.medicalnewstoday.com/articles/320392>\\
+<https://www.everydayhealth.com/meditation/types/>\\
+<https://mindworks.org/blog/different-types-meditation-technique/>\\
+<https://liveanddare.com/types-of-meditation/>\\
+<https://www.insider.com/types-of-meditation>\\

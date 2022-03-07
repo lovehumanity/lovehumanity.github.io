@@ -24,3 +24,24 @@ You should also not beat yourself too much in the ways that you express your sex
 
 Lastly, I just wanted to add that I really lack affection a lot and have suffered tremendously from a lack of affection and that is mainly due to feeling the need to be ‘strong’ and is due to toxic masculinity which I feel our society doesn’t address enough because I still suffer from a lack of affection towards others and struggle to receive affection.
 
+Further Research:
+
+<https://www.verywellmind.com/how-to-cope-with-sexual-frustration-5199418>\\
+<https://www.mindbodygreen.com/articles/how-to-deal-with-being-sexually-frustrated>\\
+<https://www.healthline.com/health/healthy-sex/sexual-frustration>\\
+<https://en.wikipedia.org/wiki/Sexual_frustration>\\
+<https://www.oprahdaily.com/life/relationships-love/a33435407/sexual-frustration/>\\
+<https://greatist.com/health/sexual-frustration>\\
+<https://www.medicalnewstoday.com/articles/sexually-frustrated>\\
+<https://www.redonline.co.uk/health-self/relationships/a32446080/sexual-frustration/>\\
+<https://britishcondoms.uk/learn/sexual-health/what-are-the-signs-of-sexual-frustration/>\\
+<https://www.wikihow.com/Deal-With-Sexual-Frustration>\\
+<https://www.cosmopolitan.com/uk/love-sex/sex/a221/sexually-frustrated/>\\
+<https://www.mensxp.com/relationships/relationship-advice/92799-how-men-can-deal-with-sexual-frustration.html>\\
+<https://badgirlsbible.com/how-to-deal-with-sexual-frustration>\\
+<https://www.forhims.com/blog/sexually-frustrated>\\
+<https://www.condomdepot.com/condom-information/10-telltale-signs-of-sexual-frustration/>\\
+<https://www.womansday.com/relationships/a31087358/what-to-do-when-sexually-frustrated/>\\
+<https://www.sciencedirect.com/topics/medicine-and-dentistry/sexual-frustration>\\
+<https://www.sassyhongkong.com/manage-sexual-frustration-dating-sex-lifestyle/>\\
+<https://www.womenshealthmag.com/sex-and-love/a32190027/sexually-frustrated/>\\
