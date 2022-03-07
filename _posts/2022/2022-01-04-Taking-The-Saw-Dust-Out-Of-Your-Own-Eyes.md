@@ -20,3 +20,20 @@ I've been betraying myself and what I truly stand for. I've just been acting lik
 Jesus also understood that you shouldn't like go around teaching others things that they don't wish to understand or as he put it do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you. But this is also true of yourself, you shouldn't put efforts to change too quickly too fast because otherwise you could damage yourself and also you should be willing to learn new things. Jesus also understood that you shouldn't go around boasting to others about your spiritual advances because you yourself are far from perfect.
   
 It's also about seeing things more clearly, because generally I find a lot of people live in their own worlds and no two people live in the same world and so everyone has their own reality to which they conform to and so sometimes people will live in alternative realities which are deluding them from the truth and causing them considerable harm to themselves which isn't good. I find that something I haven't really been practicing is good intentions and I haven't been very kind to myself because I guess in part because I was afraid of what people may think of me, which is very unkind towards myself because why should I care what others think of me, more than I care about what I think of myself, because it's related to others in terms of because there are others that have opinions, I care about what they think of me or may think of me. 
+
+Further Reading:
+
+<https://biblehub.com/matthew/7-3.htm>\\
+<https://www.biblegateway.com/passage/?search=Matthew%207%3A3-5&version=NIV>\\
+<https://www.dougbrittonbooks.com/onlinebiblestudies-personalgrowthanddevelopment/changeyourselffirst-takethebeamoutofyourowneye/>\\
+<https://www.bibleref.com/Matthew/7/Matthew-7-3.html>\\
+<https://www.christianity.com/jesus/life-of-jesus/teaching-and-messages/the-serious-humor-of-a-speck-and-a-plank.html>\\
+<https://www.quotes.net/mquote/37516>\\
+<https://www.biblestudytools.com/matthew/7-5-compare.html>\\
+<https://www.bibleref.com/Matthew/7/Matthew-7-5.html>\\
+<https://www.youtube.com/watch?v=SLZcrSApcnY>\\
+<https://www.preceptaustin.org/matthew_73-5>\\
+<https://www.gotquestions.org/Bible-hypocrisy.html>\\
+<https://www.crossrhythms.co.uk/articles/life/When_You_Cant_See_The_Woods_For_The_Trees/31188/p1/>\\
+<https://medium.com/@tonypowell53/as-jesus-said-mathew-7-5-ccc3657a2359>\\
+<https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=5379618>\\

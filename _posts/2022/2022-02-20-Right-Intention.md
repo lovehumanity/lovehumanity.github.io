@@ -23,3 +23,19 @@ Right intention is also about not giving way to thoughts of ill will or harming 
 
 Lastly, don't just read these words blindly and practice here what I have said today because you are able to change yourself through these very wise words and thereby change the world for the betterment of mankind and when you help others and work for others then by the law of mutual attraction which I have an article on [The Law Mutual Attraction]({% post_url 2022-02-16-The-Law-of-Mutual-Attraction %}) you will attract towards you people/guides/angels who will work with you to help you. 
 
+Further Reading:
+
+<https://en.wikipedia.org/wiki/Noble_Eightfold_Path>\\
+<https://www.learnreligions.com/right-intention-450069>\\
+<https://www.buddhistdoor.net/features/on-right-intention-and-right-action/>\\
+<https://oneminddharma.com/right-intention/>\\
+<https://www.lionsroar.com/one-simple-practice-that-changes-everything/>\\
+<https://www.hinduwebsite.com/buddhism/eightfoldpath4.asp>\\
+<https://www.thecontemplativelife.org/blog/eightfold-noble-path-right-view-right-intention>\\
+<https://www.youtube.com/watch?v=lr_PY2NHZ5k>\\
+<https://www.youtube.com/watch?v=bNNH_hebC50>\\
+<http://contemplative-studies.org/wp/index.php/2018/02/04/2556/>\\
+<https://rubinmuseum.org/blog/good-intentions-the-power-and-purpose-of-human-intention-in-buddhism>\\
+<https://www.rickhanson.net/right-intention/>\\
+<https://dharmawisdom.org/the-hearts-intention/>\\
+<https://imperfectbuddha.com/category/right-intention/>\\

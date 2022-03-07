@@ -16,3 +16,19 @@ You should learn to have the courage to stand up to people whom patronize you in
 
 In conclusion, seek to understand people a lot more and be forgiving to those who patronize you and forgiving to those who judge you. But learn to be your own person and not allow yourself to patronize another and not allow yourself to be patronized by others but stand up for yourself and what you believe. Not what others want you to believe. Become more mindful of your intentions and recognize more when you patronize others. It’s in very subtle ways that people patronize you and you patronize others. But learn to be more understanding and forgiving of when people do this kind of thing because they don’t recognize the oneness of all of life.
 
+Further Reading:
+
+<https://www.merriam-webster.com/dictionary/patronizing>\\
+<https://www.mindtools.com/blog/kind-or-patronizing-mttalk/>\\
+<https://www.dictionary.com/browse/patronizing>\\
+<https://www.entrepreneur.com/article/346238>\\
+<https://www.prevention.com/life/a20450205/steps-to-handle-patronizing-people/>\\
+<https://www.vocabulary.com/dictionary/patronizing>\\
+<https://www.collinsdictionary.com/dictionary/english/patronizing>\\
+<https://www.quora.com/How-do-I-deal-with-patronizing-people>\\
+<https://hackspirit.com/signs-and-how-to-deal-a-condescending-person/>\\
+<https://www.wellandgood.com/patronizing-phrases-at-work/>\\
+<https://oureverydaylife.com/deal-patronizing-behavior-33428.html>\\
+<https://dictionary.cambridge.org/dictionary/english/patronize>\\
+<https://www.fatherly.com/love-money/condescending-behavior-signs-help/>\\
+<https://www.hrmonline.com.au/section/featured/dont-patronise-me/>\\
