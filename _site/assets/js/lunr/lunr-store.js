@@ -180,8 +180,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Showing Respect and Love to God and his Kingdom",
-        "excerpt":"Showing respect and love to God and his kingdom In this post I will outline some things which I think are quite important in showing respect and love to God and his kingdom. The first thing that I think is quite important in showing respect and love to God and...","categories": ["Spiritual"],
-        "tags": [],
+        "excerpt":"The first thing that I think is quite important in showing respect and love to God and his kingdom is to show kindness, understanding, forgiveness, love, compassion, and respect to all of Gods creation regardless of who or what they are. This could be paying respect to a flower by...","categories": ["Spiritual"],
+        "tags": ["Chirstianity","Saint Christopher","Gods Kingdom","God","Love","Respect","Ten Commandments"],
         "url": "http://localhost:4000/showing-respect-and-love-to-god-and-his-kingdom/",
         "teaser": null
       },{
