@@ -339,13 +339,13 @@ var store = [{
         "excerpt":"Now I believe that right intention is one of the more important parts of the eightfold path because if you don’t have right intention then all else fails in terms of freeing yourself from suffering. Right intention begins by becoming more mindful of your intentions and so I believe that...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/right-intention/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "Sloth and Torpor",
         "excerpt":"Sloth and Torpor is described as an unwholesome state whereby the mind is dulled, and it leads one into a thick and irritable depression. It is one of the 5 hindrances in Buddhism and is I think quite a significant hindrance for following the path. I have suffered tremendously from...","categories": ["Spiritual","Buddhism"],
         "tags": ["Sloth and Torpor","Accomplishments","Death","Life after death"],
         "url": "http://localhost:4000/sloth-and-torpor/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "Prayer",
         "excerpt":"Praying is one of the things that I think a lot of people can benefit from. The secret with prayer is to have the genuine intention of helping the person/thing you are praying and doing it for them and not for yourself. To progress towards God, it’s important to serve...","categories": ["Spiritual"],
@@ -381,25 +381,25 @@ var store = [{
         "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],
         "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
         "url": "http://localhost:4000/right-speech/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "The First Noble Truth",
         "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/the-first-noble-truth/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "The Second Noble Truth",
         "excerpt":"In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/the-second-noble-truth/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Finding your Ideal Partner",
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/finding-your-ideal-partner/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/Ideal-partner/partner.jpg"
       },{
         "title": "Found at Sea",
         "excerpt":"This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak. I guess the thing that really did it was prayer. Prayer is...","categories": ["life"],
@@ -423,5 +423,5 @@ var store = [{
         "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/the-third-noble-truth/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       }]

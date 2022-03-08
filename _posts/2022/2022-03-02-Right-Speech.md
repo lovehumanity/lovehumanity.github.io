@@ -9,7 +9,12 @@ tag:
   - Right Speech
   - Noble EightFoldPath
   - Noble Four Truths
+header:
+  teaser: "/assets/blogs/Buddhism/eightfold-path.jpg"
 --- 
+
+![Eightfoldpath]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/eightfold-path.jpg)
+
 
 In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech.
 

@@ -5,7 +5,11 @@ classes: wide
 categories:
   - Spiritual 
   - Buddhism
+header:
+  teaser: "/assets/blogs/Buddhism/Statue.jpg"
 ---
+
+![Truths]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/Statue.jpg)
 
 The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not able to satisfy anything into a permanent state and because of this we suffer and that it is unavoidable due to there being existence – this is just one aspect of dukka that the Buddha meant and I think one of the more important aspects of dukka. 
 

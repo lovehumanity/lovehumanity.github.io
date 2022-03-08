@@ -4,7 +4,11 @@ date: 2022-03-04
 classes: wide
 categories:
   - Spiritual
+header: 
+  teaser: "/assets/Ideal-partner/partner.jpg"
 ---
+
+![Partner]({{ site.url }}{{ site.baseurl }}/assets/blogs/Ideal-partner/partner.jpg)
 
 In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in life, because the world would be a lot more beautiful.
 
@@ -14,3 +18,22 @@ When you meet your ideal partner, I am told that it is like an explosion when yo
 
 Lastly, don’t beat yourself up too much if you haven’t had much experience with the opposite gender even if you are at an old age in life. There is always room for growth no matter how much you think you know. But seek to say this short prayer if you are still without your ideal partner and don’t think that you are silly for saying this prayer if you don’t prayer often. But seek to be the best version of yourself and being so full of sexual frustration isn’t in my opinion being the best version of yourself.
 
+There is also a nice video that more or less says the same thing from Bob Sanders who works with The Great White Brotherhood, link to the video is [Here](https://www.youtube.com/watch?v=TzONRXw_x5s)
+
+Further Reading:
+
+<https://www.truity.com/test/which-personality-type-your-love-match>\\
+<https://play.howstuffworks.com/quiz/whos-your-ideal-partner>\\
+<https://brightside.me/inspiration-relationships/scientists-reveal-how-to-choose-the-perfect-partner-before-you-turn-35-737760/>\\
+<https://www.marriage.com/advice/relationship/characteristics-of-a-good-partner/>\\
+<https://www.lifehack.org/articles/communication/25-qualities-the-person-you-should-marry.html>\\
+<https://www.quora.com/What-qualities-are-you-looking-for-in-an-ideal-partner>\\
+<https://blog.imagorelationshipswork.com/qualities-to-look-for-in-a-partner>\\
+<https://technology.inquirer.net/101840/got-specifics-for-your-ideal-partner-research-says-most-are-looking-for-the-same-qualities>\\
+<https://liveboldandbloom.com/12/relationships/qualities-good-woman>\\
+<https://www.3dservicad.com/three-qualities-of-the-ideal-partner/>\\
+<https://www.bonobology.com/must-have-relationship-qualities/>\\
+<https://www.wikihow.com/Find-Your-Ideal-Partner>\\
+<https://tinybuddha.com/blog/key-finding-ideal-partner-life/>\\
+<https://www.nbcnews.com/better/health/how-use-love-list-find-your-ideal-romantic-partner-ncna847641>\\
+<https://www.psychologytoday.com/gb/blog/the-art-closeness/201710/the-surprising-key-finding-the-perfect-partner>\\

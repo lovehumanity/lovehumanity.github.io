@@ -10,7 +10,11 @@ tags:
   - Accomplishments
   - Death
   - Life after death
+header: 
+  teaser: "/assets/blogs/Buddhism/eightfold-path.jpg"
 ---
+
+![Eightfoldpath]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/eightfold-path.jpg)
 
 Sloth and Torpor is described as an unwholesome state whereby the mind is dulled, and it leads one into a thick and irritable depression. It is one of the 5 hindrances in Buddhism and is I think quite a significant hindrance for following the path.
 

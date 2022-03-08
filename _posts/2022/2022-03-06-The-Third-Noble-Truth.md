@@ -5,7 +5,11 @@ classes: wide
 categories:
   - Spiritual 
   - Buddhism
+header: 
+  teaser: "/assets/blogs/Buddhism/Statue.jpg"
 ---
+
+![Truths]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/Statue.jpg)
 
 In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this [Here]({% post_url 2022-03-02-The-First-Noble-Truth %})  and then the second noble truth is that dukka has a cause and that cause arises from within us through what he described as wanting/thirst/trying/desire and you can give my article on this second noble truth [Here]({% post_url 2022-03-03-The-Second-Noble-Truth %})
 

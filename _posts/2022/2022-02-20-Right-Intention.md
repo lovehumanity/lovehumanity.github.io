@@ -5,7 +5,11 @@ classes: wide
 categories:
   - Spiritual 
   - Buddhism
+header:
+  teaser: "/assets/blogs/Buddhism/eightfold-path.jpg"
 ---
+
+![Eightfoldpath]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/eightfold-path.jpg)
 
 Now I believe that right intention is one of the more important parts of the eightfold path because if you don't have right intention then all else fails in terms of freeing yourself from suffering. 
 

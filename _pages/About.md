@@ -19,9 +19,8 @@ In this Blog You'll find articles on the following topics:
 
 This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
 
-[https://lovehumanity.gitlab.io/](https://lovehumanity.gitlab.io/)
-
-[https://lovehumanity.github.io/](https://lovehumanity.github.io/)
+<https://lovehumanity.gitlab.io/>\\
+<https://lovehumanity.github.io/>
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 

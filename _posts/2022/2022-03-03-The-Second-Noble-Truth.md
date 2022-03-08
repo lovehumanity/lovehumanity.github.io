@@ -5,7 +5,11 @@ classes: wide
 categories:
   - Spiritual 
   - Buddhism
+header:
+  teaser: "/assets/blogs/Buddhism/Statue.jpg"
 ---
+
+![Truths]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/Statue.jpg)
 
 In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka inevitably has a cause which the Buddha saw as wanting/thirst/trying to get the object of desire into our hands. This wanting/thirst/trying/desire arises from within us (which I agree with). 
 
