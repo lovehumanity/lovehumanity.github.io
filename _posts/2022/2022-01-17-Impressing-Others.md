@@ -4,7 +4,6 @@ date: 2022-01-17
 classes: wide
 categories:
   - Spiritual 
-description: "Here's a detailed tutorial on how to set up a free contact form on static websites like Jekyll"
 ---
 
 I realized that one thing that holds me back a lot in my progress towards God is impressing others, which is a little different to virtue signalling in my eyes. When you feel you need to impress others you just become a slave to other people’s opinions of you and don’t become who you want to be. I realized also that I somewhat don’t respect my own spiritual advances and so somewhat try to impress others with the decisions I take. But I wouldn’t say I outright try to use my advanced level of spirituality to impress others that much, but it’s just sometimes.
@@ -17,3 +16,15 @@ I also feel like I just want to be praised which is why I want and care about ot
 
 I will end by saying that the only person that you should be putting efforts to impress is yourself and God.
 
+Further Reading:
+
+<https://mike-robbins.com/who-are-you-trying-to-impress/>\\
+<https://neostrategy.in/lesson-two-why-do-we-try-to-impress-others/>\\
+<https://thoughtcatalog.com/rachel-fenimore/2017/09/i-finally-stopped-trying-to-impress-everyone-and-am-happier-than-ever-before/>\\
+<https://thriveglobal.com/stories/why-we-should-stop-trying-to-impress-others/>\\
+<https://medium.com/@michaelchidozie/things-are-not-the-way-they-always-seem-dont-fall-for-the-snare-6c0512f84c46>\\
+<https://www.quora.com/How-do-I-stop-myself-from-always-trying-to-impress-others>\\
+<https://www.psychologytoday.com/gb/blog/how-should-we-live/201303/who-are-you-trying-impress>\\
+<https://www.lifehack.org/526961/yourself-instead-trying-impress-others-people-will-judge-you-anyway>\\
+<https://www.morninglazziness.com/life/reasons-why-you-stop-trying-to-impress-other/>\\
+<https://www.scotthyoung.com/blog/2008/06/24/stop-trying-to-impress-people/>

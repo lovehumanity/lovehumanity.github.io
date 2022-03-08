@@ -16,3 +16,21 @@ One thing that I realize also is it should be about the journey that is of impor
 
 In conclusion, go at your own pace in spirituality and only practice spirituality if you do want to develop. You don’t have to practice spirituality if you don’t choose to and also its important to take breaks with spirituality when you feel the need to. But the gains that can be made are big.
 
+Further Reading:
+
+<https://tinybuddha.com/blog/some-things-take-time-slow-down-and-stop-pushing/>\\
+<https://www.spiritualityandpractice.com/practices/features/view/16794>\\
+<https://pubmed.ncbi.nlm.nih.gov/29476299/>\\
+<https://thedailyguardian.com/stop-rushing-and-be-in-the-present/>\\
+<https://www.ignatianspirituality.com/rushing-to-get-home/>\\
+<https://www.rcpsych.ac.uk/docs/default-source/members/sigs/spirituality-spsig/a-personal-experience-of-kundalini-sarah-sourial-editedx.pdf?sfvrsn=31808fe9_2>\\
+<https://spiritualdirection.com/2019/01/26/rushing-an-enemy-of-recollection>\\
+<https://www.reddit.com/r/civ/comments/wmz3y/rushing_religion_or_how_i_stopped_worrying_about/>\\
+<https://www.healthline.com/health/mind-body/spiritual-meditation>\\
+<https://www.mentalhelp.net/stress/religious-spiritual-practice-for-stress-reduction/>\\
+<https://www.salaamgateway.com/story/why-youre-always-rushed-and-what-you-can-do-about-it>\\
+<https://abdn.pure.elsevier.com/en/publications/spiritual-care-in-general-practice-rushing-in-or-fearing-to-tread>\\
+<https://www.jstor.org/stable/10.1086/677881?seq=1#metadata_info_tab_contents>\\
+<https://news.stanford.edu/news/2014/december/spiritual-christian-buddhist-12-16-14.html>\\
+<https://www.researchgate.net/publication/323372832_Spiritual_Care_in_General_Practice_Rushing_in_or_Fearing_to_Tread_An_Integrative_Review_of_Qualitative_Literature>\\
+<https://www.walmart.com/ip/To-Heal-Sin-sick-Soul-Toward-Spirituality-Anti-Racist-Ministry-Pre-Owned-Paperback-B000K0AYRO-Kenneth-Leech-Byron-Rushing-Paul-Abernathy-Pamela-Chinn/444937978?wmlspartner=wlpa&selectedSellerId=1719>
