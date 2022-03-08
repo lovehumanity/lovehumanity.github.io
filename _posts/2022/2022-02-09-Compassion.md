@@ -26,3 +26,22 @@ Desire can be anything, you desire for the future to be a certain way, you desir
 
 So instead of trying to change the world, seek to change yourself before you change others because you are not yet perfect and have a long journey ahead of you as do, we all. But just take the journey in strides and don’t try to rush it because of others, enjoy every moment of it.
 
+Further Reading:
+
+<https://www.pulse.ng/communities/religion/pulse-list-5-times-jesus-showed-human-emotions-in-the-bible/qnfrn9c>\\
+<https://www.soulshepherding.org/how-to-feel-your-emotions-with-jesus/>\\
+<https://www.biblword.net/did-jesus-experience-all-emotions>\\
+<https://www.ctsnet.edu/at-this-point/emotions-faith-perplexing-relationship-feel-believe/>\\
+<https://plato.stanford.edu/entries/emotion-Christian-tradition/>\\
+<https://www.christianitytoday.com/ct/1997/february3/7t2042.html>\\
+<https://www.ligonier.org/learn/articles/dont-pursue-feelings-pursue-christ>\\
+<https://www.christiancourier.com/articles/20-the-emotions-of-jesus>\\
+<https://www.thegospelcoalition.org/article/emotions-important/>\\
+<https://www.crossway.org/articles/how-to-embrace-your-emotions-without-being-ruled-by-them/>\\
+<https://www.desiringgod.org/articles/your-emotions-are-a-gauge-not-a-guide>\\
+<https://www.biblestudytools.com/bible-study/topical-studies/what-does-the-bible-say-about-emotions.html>\\
+<https://greatergood.berkeley.edu/topic/compassion/definition>\\
+<https://www.mindful.org/how-to-be-more-compassionate-a-mindful-guide-to-compassion/>\\
+<https://self-compassion.org/>\\
+<https://en.wiktionary.org/wiki/compassion>\\
+<https://www.psychologicalscience.org/observer/the-compassionate-mind>

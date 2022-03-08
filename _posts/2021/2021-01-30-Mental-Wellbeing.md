@@ -40,13 +40,34 @@ In conclusion, mental health isn't as discussed as it should be due to stigma su
 
 Below are some articles I have written of relevance to this discussion that you may find useful and a video on depression.
 
-[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Self Compassion]({% post_url 2020-12-21-Self-Compassion %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})\\
+[Video on Depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU&t=7s)\\
 
-[Self Compassion]({% post_url 2020-12-21-Self-Compassion %})
+Update 1: 08/03/22
 
-[Self Image]({% post_url 2020-12-25-Self-Image %})
+[Giving To Others]({% post_url 2020-12-25-Self-Image %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
+[Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
+[Lost at Sea]({% post_url 2022-03-04-Lost-at-Sea-Poem.md %})\\
+[Found at Sea]({% post_url 2022-03-04-Found-at-Sea %})\\
+[Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself.md %})
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})
+[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})
+[Judgement]({% post_url 2021-12-30-Judgement %})
 
-[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})
 
-[Video on Depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU&t=7s)
+Further Reading:
+
+<https://www.nhsinform.scot/healthy-living/mental-wellbeing>\\
+<https://www.who.int/news-room/feature-stories/mental-well-being-resources-for-the-public>\\
+<https://www.wm.edu/offices/wellness/about/eight-dimensions/index.php>\\
+<https://www.samhealth.org/about-samaritan/good-life/why-8-aspects-of-wellness>\\
+<https://nationalwellness.org/resources/six-dimensions-of-wellness/>\\
 

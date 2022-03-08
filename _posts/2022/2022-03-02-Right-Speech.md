@@ -36,6 +36,9 @@ For me its also about control – because I feel that by not being 100% truthful
 
 In conclusion, right speech is not lying to others, having good conversations with people using the correct body language and tone of voice, speaking to others at the correct times in conversations. But its also about ensuring that you avoid from idle talk, gossip and speaking ill of others (even in your own mind and in a way plays a lot into judging others which is something that everyone should strive to do because it causes others suffering how others are judged – which isn’t good). Its also about saying what you mean and believing in what you say because its important to do that to free yourself from suffering. 
 
+Update 1: 08/03/22
+
+Right Speech is also about having conversations when appropriate and meaning in what you say i.e saying something and then having an ulterior motive because this brings suffuring. 
 
 Further Reading:
 
