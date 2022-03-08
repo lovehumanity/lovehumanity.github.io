@@ -4,7 +4,11 @@ date: 2022-02-27
 classes: wide
 categories:
   - Current Affairs
+header: 
+  teaser: "/assets/blogs/Ukraine/test.webp"
 ---
+
+![Image]({{ site.url }}{{ site.baseurl }}/assets/blogs/Ukraine/test.webp)
 
 Hello all, it saddens me to see war in Ukraine. I don’t know much about Ukraine and the politics involved in that area, but I know that all war isn’t good. I don’t actually watch the news, but I have heard from the forums and friends/family that I visit that the situation is dire in Ukraine.
 

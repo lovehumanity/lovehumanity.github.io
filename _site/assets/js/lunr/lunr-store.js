@@ -327,7 +327,7 @@ var store = [{
         "excerpt":"I will outline why its so important to take a break from spirutality, especially in times when you feel you have had enough. The spirutal journey should be trod carefully and in good time. Most of the time people who are on their spiritual journey feel that they are doing...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/taking-a-break-from-spirituality/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/break/spiritual.webp"
       },{
         "title": "Meditation",
         "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
@@ -363,7 +363,7 @@ var store = [{
         "excerpt":"Hello all, it saddens me to see war in Ukraine. I don’t know much about Ukraine and the politics involved in that area, but I know that all war isn’t good. I don’t actually watch the news, but I have heard from the forums and friends/family that I visit that...","categories": ["Current Affairs"],
         "tags": [],
         "url": "http://localhost:4000/crisis-in-ukraine/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Ukraine/test.webp"
       },{
         "title": "Fake Spirituality",
         "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
@@ -399,7 +399,7 @@ var store = [{
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/finding-your-ideal-partner/",
-        "teaser": "http://localhost:4000/assets/Ideal-partner/partner.jpg"
+        "teaser": "http://localhost:4000/assets/blogs/Ideal-partner/partner.jpg"
       },{
         "title": "Found at Sea",
         "excerpt":"This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak. I guess the thing that really did it was prayer. Prayer is...","categories": ["life"],
@@ -424,4 +424,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-third-noble-truth/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
+      },{
+        "title": "Being Authentic and True to Yourself",
+        "excerpt":"In this short post I will talk a little about why it’s so important to be authentic and true to yourself and do what is right in your heart and not the hearts of others. When you don’t do right in terms of what is right in your heart you...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/being-authentic-and-true-to-yourself/",
+        "teaser": null
       }]

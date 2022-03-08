@@ -5,7 +5,7 @@ classes: wide
 categories:
   - Spiritual
 header: 
-  teaser: "/assets/Ideal-partner/partner.jpg"
+  teaser: "/assets/blogs/Ideal-partner/partner.jpg"
 ---
 
 ![Partner]({{ site.url }}{{ site.baseurl }}/assets/blogs/Ideal-partner/partner.jpg)
