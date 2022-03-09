@@ -9,7 +9,7 @@ Here are some of the most important articles on my blog which I thought I would 
 
 Spiritual:
 
-[Meditating]({% post_url 2022-02-19-Meditation %})
+[Meditation]({% post_url 2022-02-19-Meditation %})
 
 [Prayer]({% post_url 2022-02-22-Prayer %})
 

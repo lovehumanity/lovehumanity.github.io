@@ -1,4 +1,36 @@
 ---
-layout: home
+title: "Saint Christopher's Blog"
+layout: splash
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/water.jpg
+  actions:
+    - label: "About"
+      url: "/About"
+excerpt: "Welcome to Saint Christopher's Blog. Here you will find articles on wellbeing, spirituality and Buddhism"
+feature_row:
+  - image_path: /assets/images/me.jpg
+    title: "Meditation"
+    excerpt: "My Article on Meditation which gives some guidance on the correct technique to meditate in your life"
+    url: "https://lovehumanity.github.io/meditation/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/blogs/2020-12-21-Self-Compassion/compassion.jpg
+    title: "Compassion"
+    excerpt: "My Article on Compassion which gives some guidance of how to become more christ like in your life"
+    url: "https://lovehumanity.github.io/compassion/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/blogs/kingdom.jpg
+    title: "Showing Respect and Love to God and his Kingdom"
+    excerpt: "This is an article I wrote giving some guidance on how to pay respect to God and his Kingdom"
+    url: "https://lovehumanity.github.io/showing-respect-and-love-to-god-and-his-kingdom/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
+

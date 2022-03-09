@@ -12,7 +12,11 @@ tags:
   - Love
   - Respect
   - Ten Commandments
+header: 
+  teaser: /assets/blogs/kingdom.jpg
 ---
+
+![God Kingdom]({{ site.url }}{{ site.baseurl }}/assets/blogs/kingdom.jpg)
 
 The first thing that I think is quite important in showing respect and love to God and his kingdom is to show kindness, understanding, forgiveness, love, compassion, and respect to all of Gods creation regardless of who or what they are. This could be paying respect to a flower by providing it water, this could be forgiving someone that did wrong by you. It could also be paying respect to the planet by recycling your bottles and tins etc. This also applies to yourself because whether you like it or not you are apart of Gods kingdom, therefore treat yourself with the same amount of love and respect as you would God. Everything and everyone have a place in Gods eyes and everything and everyone is equal according to God. Who are you to say otherwise?
 

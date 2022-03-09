@@ -183,7 +183,7 @@ var store = [{
         "excerpt":"The first thing that I think is quite important in showing respect and love to God and his kingdom is to show kindness, understanding, forgiveness, love, compassion, and respect to all of Gods creation regardless of who or what they are. This could be paying respect to a flower by...","categories": ["Spiritual"],
         "tags": ["Chirstianity","Saint Christopher","Gods Kingdom","God","Love","Respect","Ten Commandments"],
         "url": "http://localhost:4000/showing-respect-and-love-to-god-and-his-kingdom/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/kingdom.jpg"
       },{
         "title": "Practice Spirituality in Secret",
         "excerpt":"In this short post I will give some reasons and justifications why those on the spiritual path should do so in secret and not announce it to others. The first reason why the path should be done so in secret is because generally people dislike someone standing in the light...","categories": ["Spiritual"],
