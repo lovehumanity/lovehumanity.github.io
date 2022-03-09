@@ -7,7 +7,7 @@ classes: wide
 
 ## About this Blog
 
-Welcome to my small blog on the internet. I live in the UK. I maintain this blog here partly for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and gitlab. 
+Welcome to my blog on the internet. I live in the UK. I maintain this blog here for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and github/gitlab. 
 
 In this Blog You'll find articles on the following topics:
 
@@ -32,10 +32,8 @@ I work with a group of humans that live in the heavenly spheres that call themse
 
 Here are their websites and the YouTube Channel of Bob Sanders who channels their messages and works for them. 
 
-[https://thegreatwhitebrotherhood.org/](https://thegreatwhitebrotherhood.org/)
-
-[https://www.thestairwaytofreedom.org/](https://www.thestairwaytofreedom.org/)
-
+[https://thegreatwhitebrotherhood.org/](https://thegreatwhitebrotherhood.org/)\\
+[https://www.thestairwaytofreedom.org/](https://www.thestairwaytofreedom.org/)\\
 [https://www.youtube.com/c/BobSanders](https://www.youtube.com/c/BobSanders)
 
 ## Awesome Subjects :mag:
@@ -50,20 +48,13 @@ I find that all subjects are linked together. Really it comes down to how you de
 
 ## Best Videos on Youtube :tv:
 
-[Can you beat the System? - Inspirational nomad](https://www.youtube.com/watch?v=PJBcuHGw7k4)
-
-[The Philosophy of Kreia: A Critical Examination of Star Wars - esfelectra](https://www.youtube.com/watch?v=-Z0S0Z8lUTg)
-
-[Modern Educayshun -  Neel Kolhatkar](https://www.youtube.com/watch?v=iKcWu0tsiZM)
-
-[How people view you - SNEAKO](https://www.youtube.com/watch?v=guz7hc8RlfI)
-
-[ Joe Rogan Experience #1309 - Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44)
-
-[ Joe Rogan Experience #1278 - Kevin Hart](https://www.youtube.com/watch?v=XW_KhFq4LQo)
-
-[Two Easily Remembered Questions That Silence Negative Thoughts Anthony Metivier TEDxDocklands](https://www.youtube.com/watch?v=kvtYjdriSpM)
-
+[Can you beat the System? - Inspirational nomad](https://www.youtube.com/watch?v=PJBcuHGw7k4)\\
+[The Philosophy of Kreia: A Critical Examination of Star Wars - esfelectra](https://www.youtube.com/watch?v=-Z0S0Z8lUTg)\\
+[Modern Educayshun -  Neel Kolhatkar](https://www.youtube.com/watch?v=iKcWu0tsiZM)\\
+[How people view you - SNEAKO](https://www.youtube.com/watch?v=guz7hc8RlfI)\\
+[ Joe Rogan Experience #1309 - Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44)\\
+[ Joe Rogan Experience #1278 - Kevin Hart](https://www.youtube.com/watch?v=XW_KhFq4LQo)\\
+[Two Easily Remembered Questions That Silence Negative Thoughts Anthony Metivier TEDxDocklands](https://www.youtube.com/watch?v=kvtYjdriSpM)\\
 [The Secret of Becoming Mentally Strong Amy Morin TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4)
 
 ## Cool Quotes :speech_balloon:
