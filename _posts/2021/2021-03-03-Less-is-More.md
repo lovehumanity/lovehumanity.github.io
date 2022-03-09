@@ -28,3 +28,22 @@ As a general rule when buying an item ask yourself will this item bring me value
 Another point I would like to make is that items nowadays such as home appliances, are not specifically built to last very long, when you bought an tv 20 years ago you would expect a good few years out of them, but you buy a tv today you would be lucky if it lasts two years (depending on which you buy). The reason being is that its more profitable for companies to manufacture goods that don’t last as long. Therefore, be more mindful of the items you buy and look to buy cheap items that will last longer.  
 
 The reason less is more is because the less you have the more value you tend to get out of those few items that you do have. Have a nice day.
+
+<https://www.theguardian.com/lifeandstyle/2020/jan/03/empty-promises-marie-kondo-craze-for-minimalism>\\
+<https://www.becomingminimalist.com/what-is-minimalism/>\\
+<https://www.youtube.com/watch?v=0Co1Iptd4p4>\\
+<https://www.breakthetwitch.com/minimalism/>\\
+<http://simplylessismoore.blogspot.com/>\\
+<https://www.lessismore.online/blog>\\
+<https://www.minimalismmadesimple.com/home/17-reasons-why-less-is-more/>\\
+<https://www.phrases.org.uk/meanings/less-is-more.html>\\
+<https://writingexplained.org/idiom-dictionary/less-is-more>\\
+<https://www.phaidon.com/agenda/architecture/articles/2014/april/02/what-did-mies-van-der-rohe-mean-by-less-is-more/>\\
+<https://www.amazon.co.uk/Less-More-Degrowth-Will-World/dp/1785152491>\\
+<https://www.theminimalists.com/more/>\\
+<https://thewordcounter.com/what-does-less-is-more-mean/>\\
+<https://www.designcurial.com/news/less-is-more-and-eight-other-architecture-and-design-rules-to-live-by-4510945>\\
+<https://www.newyorker.com/magazine/2020/02/03/the-pitfalls-and-the-potential-of-the-new-minimalism>\\
+<https://www.becomingminimalist.com/less-is-more/>\\
+<https://www.behance.net/gallery/96314325/Less-is-more>\\
+<https://www.aflux.co.uk/less-is-more>\\
