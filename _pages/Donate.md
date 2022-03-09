@@ -5,6 +5,8 @@ permalink: /Donate/
 classes: wide
 ---
 
+![Me]({{ site.url }}{{ site.baseurl }}/assets/images/charity.jpg)
+
 I believe in freedom of information, but if you feel like donating to me feel free. 
 
 I speak from experience in my articles and so they are not your typical articles you find on popular search engines. 

@@ -5,6 +5,10 @@ permalink: /About/
 classes: wide
 ---
 
+Picture of me on Holiday in Gran Canaria in 2020 
+
+![Me]({{ site.url }}{{ site.baseurl }}/assets/images/me2.jpg)
+
 ## About this Blog
 
 Welcome to my blog on the internet. I live in the UK. I maintain this blog here for my own personal development and spiritual journey and also to help others along the way. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and github/gitlab. 
