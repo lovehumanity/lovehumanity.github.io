@@ -216,7 +216,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Becoming a Child",
-        "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is so become like a child again...","categories": ["Spiritual"],
+        "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is to become like a child again...","categories": ["Spiritual"],
         "tags": ["Jesus","Christianity","Arrogance","Truthful","Spirituality","Wellbeing","Hindrance","Ego","Ignorance","Evil","Child"],
         "url": "http://localhost:4000/becoming-a-child/",
         "teaser": null
@@ -242,7 +242,7 @@ var store = [{
         "title": "Virtue Signaling",
         "excerpt":"I thought I would write a short peice on virtue signaling. One of the things that I think have been causing me to not do as well as I could be doing is due to virtue signaling. I tend to think that God is watching and so will do things...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/virtue-signaling/",
+        "url": "http://localhost:4000/virtue-signalling/",
         "teaser": null
       },{
         "title": "Impressing Others",
