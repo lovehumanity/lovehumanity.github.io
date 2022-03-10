@@ -46,9 +46,9 @@ Feel free to give my other articles a read which will help to further the power 
 [Lost at Sea]({% post_url 2022-03-04-Lost-at-Sea-Poem %})\\
 [Found at Sea]({% post_url 2022-03-04-Found-at-Sea %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
-[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
-[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})
-[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})\\
 [Judgement]({% post_url 2021-12-30-Judgement %})
 
 Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
