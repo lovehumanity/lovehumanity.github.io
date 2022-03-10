@@ -37,7 +37,7 @@ Feel free to give my other articles a read which will help to further the power 
 [Self Image]({% post_url 2020-12-25-Self-Image %})\\
 [Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})\\
 [Video on Depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU&t=7s)\\
-[Giving To Others]({% post_url 2020-12-25-Self-Image %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
