@@ -20,4 +20,5 @@ Spiritual:
 [Showing Love and Respect to God and His Kingdom]({% post_url 2021-08-14-Showing-Respect-and-love-to-God-and-his-kingdom %})\\
 [Good vs Evil]({% post_url 2020-12-20-Good-Vs-Evil %})\\
 [Giving to Others]({% post_url 2022-02-14-Giving-To-Others %})\\
-[Finding Your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})
+[Finding Your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
