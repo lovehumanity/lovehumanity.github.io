@@ -219,7 +219,7 @@ var store = [{
         "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is to become like a child again...","categories": ["Spiritual"],
         "tags": ["Jesus","Christianity","Arrogance","Truthful","Spirituality","Wellbeing","Hindrance","Ego","Ignorance","Evil","Child"],
         "url": "http://localhost:4000/becoming-a-child/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Child/child.png"
       },{
         "title": "Judgement",
         "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have given to myself. It’s also...","categories": ["Spiritual"],
@@ -333,7 +333,7 @@ var store = [{
         "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/meditation/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/images/me.jpg"
       },{
         "title": "Right Intention",
         "excerpt":"Now I believe that right intention is one of the more important parts of the eightfold path because if you don’t have right intention then all else fails in terms of freeing yourself from suffering. Right intention begins by becoming more mindful of your intentions and so I believe that...","categories": ["Spiritual","Buddhism"],
@@ -351,7 +351,7 @@ var store = [{
         "excerpt":"Praying is one of the things that I think a lot of people can benefit from. The secret with prayer is to have the genuine intention of helping the person/thing you are praying and doing it for them and not for yourself. To progress towards God, it’s important to serve...","categories": ["Spiritual"],
         "tags": ["Jesus","God","Christianity"],
         "url": "http://localhost:4000/prayer/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Prayer/prayer.jpg"
       },{
         "title": "How to Remove Bad Spirits - Possession",
         "excerpt":"I don’t take credit for the techniques outlined here - they come from The Great White Brotherhood. Link to original article is here link to their website is here Number 1: I am going to put here a technique that you can do to get rid of any bad spirit...","categories": ["Spiritual"],

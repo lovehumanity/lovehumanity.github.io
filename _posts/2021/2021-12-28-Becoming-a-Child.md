@@ -16,7 +16,11 @@ tags:
   - Ignorance
   - Evil
   - Child
+header:
+  teaser: /assets/blogs/Child/child.png
 ---
+
+![Child]({{ site.url }}{{ site.baseurl }}/assets/blogs/Child/child.png)
 
 I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is to become like a child again as Jesus described it. What this really means is that you become more accepting of things that you may otherwise disagree with and put efforts in reducing things like your arrogance, pride, ego, ignorance etc because as a child you realize that you don’t know it all and so are more willing to accept different things.
 
