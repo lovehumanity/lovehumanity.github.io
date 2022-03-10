@@ -26,7 +26,7 @@ Related Articles:
 
 [Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
-[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Prayer]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
