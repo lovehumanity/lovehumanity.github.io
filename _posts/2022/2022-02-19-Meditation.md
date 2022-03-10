@@ -20,7 +20,9 @@ After you have finished 15 minutes of meditation, then you should send this ener
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. 
 
-[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate 
+[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate.
+
+Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
 
 Related Articles:
 
