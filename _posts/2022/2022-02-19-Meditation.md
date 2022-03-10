@@ -22,6 +22,17 @@ Aim to make meditation apart of your daily routine and you can meditate for long
 
 [Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate 
 
+Related Articles:
+
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
+[Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
+[Prayer]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
+
+Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
+
+
 Further Research:
 
 <https://www.healthline.com/nutrition/12-benefits-of-meditation>\\

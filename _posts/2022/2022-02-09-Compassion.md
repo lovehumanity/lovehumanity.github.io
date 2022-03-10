@@ -6,6 +6,8 @@ categories:
   - Spiritual 
 ---
 
+![Compassion]({{ site.url }}{{ site.baseurl }}/assets/blogs/2020-12-21-Self-Compassion/compassion.jpg)
+
 I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important to be understanding of that suffering and so give them the compassion that will heal them.
 
 The first thing that you need to accept is that you need to have good intent when attempting to provide someone with compassion. If there isn’t good intent, then compassion will not be as effective. As with any other Christ like emotion.
@@ -25,6 +27,23 @@ But you shouldn’t just give compassion out blindly all the time because they m
 Desire can be anything, you desire for the future to be a certain way, you desire for others to behave a certain way, you desire for the world to be a certain way, but the solution is to have no desire, because all suffering is caused by desire. It’s also about attachment because people attach themselves to items, luxury clothing, the past, the future, people, situations – I.e. they want a situation to go a certain way etc and so when these things are no longer with you – you suffer. The solution is to have no desire.
 
 So instead of trying to change the world, seek to change yourself before you change others because you are not yet perfect and have a long journey ahead of you as do, we all. But just take the journey in strides and don’t try to rush it because of others, enjoy every moment of it.
+
+Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
+
+Update 1: 10/03/22 
+
+Feel free to give my other articles a read which may help you with giving yourself and others compassion in your life.
+
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Self Compassion]({% post_url 2020-12-21-Self-Compassion %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
+
 
 Further Reading:
 

@@ -48,7 +48,7 @@ Below are some articles I have written of relevance to this discussion that you 
 
 Update 1: 08/03/22
 
-[Giving To Others]({% post_url 2020-12-25-Self-Image %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
