@@ -1,6 +1,6 @@
 ---
 title: "Virtue Signaling"
-date: 2022-01-06
+date: 2022-01-05
 classes: wide
 categories:
   - Spiritual 
