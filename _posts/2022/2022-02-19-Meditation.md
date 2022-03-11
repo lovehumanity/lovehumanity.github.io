@@ -22,9 +22,9 @@ After you do these things then you should sit quietly ideally in a chair or a pl
 
 After you have finished 15 minutes of meditation, then you should send this energy which you have received from God out to the world - just imagine yourself sending out this energy is all you need do. Then thank Gods angels and your guides for watching over you and then imagine yourself lowering this cacoon that you had placed over you.
 
-Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. 
+Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
-[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate.
+[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
 
 Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
 
