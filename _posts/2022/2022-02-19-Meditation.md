@@ -16,11 +16,11 @@ Firstly when you start meditating its best to choose a quiet place where you can
 
 Secondly you should say a short prayer thanking God for his protection and thanking Angels and your guides for watching over you as you meditate.
 
-Thirdly you should visualise yourself using your hands placing a cacoon over yourself. 
+Thirdly you should visualise yourself using your hands placing a cocoon over yourself. 
 
 After you do these things then you should sit quietly ideally in a chair or a place of your choosing and then try to clear yourself of your thoughts as best as you can for about 15 minutes. Consistency is key with anything in life as with meditation, so you shouldn't over exert yourself and spend longer in meditation than you need to.
 
-After you have finished 15 minutes of meditation, then you should send this energy which you have received from God out to the world - just imagine yourself sending out this energy is all you need do. Then thank Gods angels and your guides for watching over you and then imagine yourself lowering this cacoon that you had placed over you.
+After you have finished 15 minutes of meditation, then you should send this energy which you have received from God out to the world - just imagine yourself sending out this energy is all you need do. Then thank Gods angels and your guides for watching over you and then imagine yourself lowering this cocoon that you had placed over you.
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
