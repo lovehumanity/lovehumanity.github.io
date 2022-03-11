@@ -65,6 +65,7 @@ If you need any guidance on anything related to spirituality then please do reac
 
 Related Articles:
 
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
