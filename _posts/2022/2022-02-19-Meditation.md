@@ -48,21 +48,6 @@ This is roughly what I have been taught on the correct way to meditate.
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
-# The Great White Brotherhood
-
-Before you close this blog, no this group is not a racist group, which so many unfortunutely believe when I mention this group's name due to how the meaning of the word "white" having been changed in modern times. I work alongside this group known as the Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name - they are **NOT** a white supremacy group, but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
-
-Word of warning though, this group's teachings are very different to what society has taught us in school and what the news tell us because they have access to information which is in heaven and so are able to give us more accurate information than what is currently available to us on earth. Therefore look into this group at your own discretion would be my advice, because your friends/family will likely not like you for sharing this certain group, so tread carefully and remember to practice spirituality in secret - which I have an article on this blog about if you want to learn more about why you should do so in secret. 
-
-But generally you need an open mind to accept the information from this group because its just so different to what society as taught us. But if you dismiss this group as frauds I understand - for new information to be accepted you need pigeon holes to store information into and if you don't then its only natural for you to dismiss the information as just false.
-
-I recommend reading their first book the Stairway to Freedom because this is a book which has helped me considerably in my journey and a book which I hope will bring benefit to you in your journey. Link to their books which have been given to us on earth completely free which contain spiritual wisdoms is linked [Here](https://thegreatwhitebrotherhood.org/books/) But please do check out their website as they have a wealth of resources on their website looking at various different topics in their lessons section. 
-
-[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders on how to Meditate correctly who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
-
-If you need any guidance on anything related to spirituality then please do reach out to either me via email - my email is chrisisamazing@protonmail.com or The Great White Brotherhood (who have a contact page on their website)
-
-
 Related Articles:
 
 [Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
