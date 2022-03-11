@@ -38,6 +38,8 @@ I recommend reading their first book the Stairway to Freedom because this is a b
 
 [Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders on how to Meditate correctly who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
 
+If you need any guidance on anything related to spirituality then please do reach out to either me via email - my email is chrisisamazing@protonmail.com or The Great White Brotherhood (who have a contact page on their website)
+
 
 Related Articles:
 
