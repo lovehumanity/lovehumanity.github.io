@@ -16,6 +16,16 @@ Lastly the final reason why you should follow the spiritual path in secret is be
 
 As a side note the general advice is to share your knowledge of the spiritual path to only those of whom are seekers themselves. 
 
+Related Articles:
+
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+
 Resources:
 
 <https://www.bruderhof.com/en/topics/the-sermon-on-the-mount>\\
