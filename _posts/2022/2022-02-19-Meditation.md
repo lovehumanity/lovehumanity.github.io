@@ -10,9 +10,13 @@ header:
 
 ![Meditation]({{ site.url }}{{ site.baseurl }}/assets/images/me1.jpg)
 
+# Why Meditate?
+
 Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from an esoteric group which I will talk about later in this article. The benefits of meditation are you become a more devleoped human being - you develop your auras and allow your chakras to open up more and allow energy to pass more freely into them, you are also able to develop the gifts of the spirit by consitently meditating for a prolonged period of time. The gifts of the spirit are telepathy (talking with others with your mind), telekenesis (moving objects with your mind), clairvoyance (Seeing into the spiritual realms), clairsentience (Feeling through your spiritual senses) and teleportation (Moving from one place to another). But you shouldn't meditate with the goal of devoloping the gifts - meditate with the intent on meditating and over time the gifts will appear, but don't be deterred from the practice if they don't come to you when you would like. God grants the gifts and he also can remove the gifts if they are not used for helping your fellow man.
 
 Now for the technique on how to meditate correctly (and no its not finding a pool to meditate as the image may suggest)
+
+# Meditation Technique 
 
 Firstly when you start meditating its best to choose a quiet place where you can not be disturbed by others and where there is little outside noise and distractions.
 
@@ -26,9 +30,13 @@ After you have finished 15 minutes of meditation, then you should send this ener
 
 This is roughly what I have been taught on the correct way to meditate.
 
+# More on Meditation
+
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
-I will also just mention this group which I work alongside with known as the Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
+# The Great White Brotherhood
+
+Before you close this blog, no this group is not a racist group, which so many unfortunutely believe when I mention this group's name due to how the meaning of the word "white" having been changed in modern times. I work alongside this group known as the Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name - they are **NOT** a white supremacy group, but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
 
 Word of warning though, this group's teachings are very different to what society has taught us in school and what the news tell us because they have access to information which is in heaven and so are able to give us more accurate information than what is currently available to us on earth. Therefore look into this group at your own discretion would be my advice, because your friends/family will likely not like you for sharing this certain group, so tread carefully and remember to practice spirituality in secret - which I have an article on this blog about if you want to learn more about why you should do so in secret. 
 

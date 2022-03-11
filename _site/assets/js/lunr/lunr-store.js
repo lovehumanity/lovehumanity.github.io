@@ -330,7 +330,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/break/spiritual.webp"
       },{
         "title": "Meditation",
-        "excerpt":"Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from the Great White Brotherhood. If you would...","categories": ["Spiritual"],
+        "excerpt":"Why Meditate? Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now, which I have got from an esoteric group which I...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/meditation/",
         "teaser": "http://localhost:4000/assets/images/me.jpg"
