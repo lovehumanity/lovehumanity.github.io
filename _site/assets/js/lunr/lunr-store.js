@@ -417,7 +417,7 @@ var store = [{
         "excerpt":"In this article I will give my rough understanding of the alien topic. Which has nowadays become virtually a household topic. Most of the information I have received here has been from The Great White Brotherhood’s book “Aliens the Strange Truth” and you can find a link to that book...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/the-true-aliens/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Aliens/aliens.webp"
       },{
         "title": "The Third Noble Truth",
         "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
