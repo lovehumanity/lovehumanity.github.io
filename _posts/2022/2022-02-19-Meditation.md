@@ -24,15 +24,16 @@ After you have finished 15 minutes of meditation, then you should send this ener
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
-[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
+I will also just mention this group which I work alongside with known as the Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
 
-Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for a number of years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
-
-word of warning though, this group's teachings are very different to what society has taught us in school and what the news and things tell us because they have access to information in the heaven and so are able to give us more accurate information than what is currently available to us on earth. Therefore look into this group at your own discretion, because your friends/family will likely not like you for sharing this certain group, so tread carefully and remember to practice spirituality in secret - which I have an article on this blog about if you want to learn more about why you should do so in secret. 
+Word of warning though, this group's teachings are very different to what society has taught us in school and what the news tell us because they have access to information in the heaven and so are able to give us more accurate information than what is currently available to us on earth. Therefore look into this group at your own discretion, because your friends/family will likely not like you for sharing this certain group, so tread carefully and remember to practice spirituality in secret - which I have an article on this blog about if you want to learn more about why you should do so in secret. 
 
 But generally you need an open mind to accept the information from this group because its just so different to what society has taught us. But if you dismiss this group has frauds I understand - for new information to be accepted you need pigeon holes to store information into and if you don't then its only natural for you to dismiss the information as just false.
 
 I recommend reading their first book the Stairway to Freedom because this is a book which has helped me considerably in my journey and a book which I hope will bring benefit to you in your journey.
+
+[Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders on how to Meditate correctly who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
+
 
 Related Articles:
 
