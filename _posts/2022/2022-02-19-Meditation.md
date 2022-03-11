@@ -30,7 +30,7 @@ Word of warning though, this group's teachings are very different to what societ
 
 But generally you need an open mind to accept the information from this group because its just so different to what society as taught us. But if you dismiss this group has frauds I understand - for new information to be accepted you need pigeon holes to store information into and if you don't then its only natural for you to dismiss the information as just false.
 
-I recommend reading their first book the Stairway to Freedom because this is a book which has helped me considerably in my journey and a book which I hope will bring benefit to you in your journey. Link to their books which have been given to us on earth completely free which contain spiritual knowledge is linked [Here](https://thegreatwhitebrotherhood.org/books/)
+I recommend reading their first book the Stairway to Freedom because this is a book which has helped me considerably in my journey and a book which I hope will bring benefit to you in your journey. Link to their books which have been given to us on earth completely free which contain spiritual wisdoms is linked [Here](https://thegreatwhitebrotherhood.org/books/)
 
 [Here](https://www.youtube.com/watch?v=QRSlzULFWpM) is the video from Bob Sanders on how to Meditate correctly who works with The Great White Brotherhood and [here](https://thegreatwhitebrotherhood.org/lessons/meditation/) is an article on their website on how to meditate and the key benefits of meditation.
 
@@ -41,7 +41,7 @@ Related Articles:
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
-[Prayer]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
+[Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
 Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
 
