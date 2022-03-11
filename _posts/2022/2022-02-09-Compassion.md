@@ -46,7 +46,7 @@ Feel free to give my other articles a read which may help you with giving yourse
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
-[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
 
 
 Further Reading:
