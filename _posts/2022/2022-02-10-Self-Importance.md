@@ -24,9 +24,23 @@ The work of God should be in creating beauty, lifting people’s spirits especia
 
 The reason I gave way to so much self-importance is due to me not recognizing the oneness of all life and realizing that I’m not the only person in the world and it’s also incredibly selfish to not believe in the word of God.
 
+Related Articles:
+
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+
 Update 1: 06/03/22
 
 Its also important with regard to self-importance to become a child as Jesus once described it. You can read more about my understanding of exactly what he meant about this [Here]({% post_url 2021-12-28-Becoming-a-Child %})
+
+
 
 Further Reading:
 

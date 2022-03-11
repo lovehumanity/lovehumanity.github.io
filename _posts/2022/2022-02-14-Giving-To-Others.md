@@ -18,9 +18,27 @@ Giving is also about being fair to others whilst being fair to yourself. So seei
 
 Its also about the level of sacrafice that you give which is of importance. A basic example of this is you really value a possession of some kind and give that away then that confers greater blessings than giving away items that have no value to you. But you should also appreciate the value that items bring to others and appreciate the value that the items bring to yourself, a basic example for me is I use my PC for work and for me to give that away to a child who will never use it will be detrimental to both parties in the long run.
 
+Lastly, it may take some time for whatever you gave to return to you, but just have faifth that God will return to you whatever it is that you gave and go about your day in the knowledge that you have helped someone in a small way and enjoy that feeling. Of course this article will not be worth anything unless it is applied to you and your own life as with every single one of my articles, so please do take into account this valuable teaching I have given you here and try it for yourself and see the truth in these words for yourself.
+
 There was also a really good video on YouTube that said that giving to others will make you a lot happier and a lot more cheerful [Ted Talk](https://www.youtube.com/watch?v=78nsxRxbf4w)
 
 This is information which I got from The Great White Brotherhood's book "Linking with the 4th dimension" Chapter 27 The Giving Plane, you can find a link to the book here [Linking with the 4th Dimension](https://thegreatwhitebrotherhood.org/books/) and I have found it to be true in my life.
+
+Related Articles:
+
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})
+[Taking the Saw Dust Out of Your Own Eyes]({% post_url 2022-01-04-Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+
+Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
+
 
 Further Reading:
 

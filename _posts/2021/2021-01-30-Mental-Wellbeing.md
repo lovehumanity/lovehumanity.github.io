@@ -57,10 +57,11 @@ Update 1: 08/03/22
 [Lost at Sea]({% post_url 2022-03-04-Lost-at-Sea-Poem %})\\
 [Found at Sea]({% post_url 2022-03-04-Found-at-Sea %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
-[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
-[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})
-[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})
-[Judgement]({% post_url 2021-12-30-Judgement %})
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
 
 
 Further Reading:

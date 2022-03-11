@@ -16,6 +16,20 @@ I also feel like I just want to be praised which is why I want and care about ot
 
 I will end by saying that the only person that you should be putting efforts to impress is yourself and God.
 
+Related Articles:
+
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+[Self Forgiveness]({% post_url 2020-12-17-Self-Forgiveness %})\\
+[Self Image]({% post_url 2020-12-25-Self-Image %})\\
+[Virtue Signaling]({% post_url 2022-01-05-Virtue-Signalling %})\\
+[Self-Worth]({% post_url 2022-01-18-Self-Worth %})\\
+[Patronizing Others]({% post_url 2022-01-19-Patronizing-Others %})\\
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+
+
 Further Reading:
 
 <https://mike-robbins.com/who-are-you-trying-to-impress/>\\
