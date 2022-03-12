@@ -436,4 +436,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/controlling-others/",
         "teaser": "http://localhost:4000/assets/blogs/anger/anger1.png"
+      },{
+        "title": "When Someone Does Wrong To You",
+        "excerpt":"In this article I will be talking about when someone does wrong to you and how you should respond to that or if you do wrong to yourself and how you should deal with that. This is a touchy subject for me because I have caused myself many wrongs in...","categories": ["Spiritual"],
+        "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
+        "url": "http://localhost:4000/when-someone-does-wrong-by-you/",
+        "teaser": "http://localhost:4000/assets/blogs/wrong/wrong.jpg"
       }]
