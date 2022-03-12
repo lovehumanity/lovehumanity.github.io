@@ -4,7 +4,11 @@ date: 2022-03-04
 classes: wide
 categories:
   - life
+header: 
+  teaser: /assets/blogs/found/found.png
 ---
+
+![Found at SEa]({{ site.url }}{{ site.baseurl }}/assets/blogs/found/found.png)
 
 This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak.
 

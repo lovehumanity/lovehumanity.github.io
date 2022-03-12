@@ -369,7 +369,7 @@ var store = [{
         "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/fake-spirituality/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/fake/grey.jpg"
       },{
         "title": "Doing The Most Loving Thing",
         "excerpt":"In this short article I will talk a little about love and doing the most loving thing. I will just say now that love is the strongest force in the universe and love is what gives us strength in this world and also should be the force that guides us...","categories": ["Spiritual"],
@@ -405,13 +405,13 @@ var store = [{
         "excerpt":"This short poem is just a follow up from lost at sea made 19/01/22. I guess the fact that I recognized that there was a problem was really significant in bringing me to the light so to speak. I guess the thing that really did it was prayer. Prayer is...","categories": ["life"],
         "tags": [],
         "url": "http://localhost:4000/found-at-sea/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/found/found.png"
       },{
         "title": "Lost at Sea",
         "excerpt":"I thought I would share here this poem I wrote in December 2021 to share here that in life it hasn’t always been easy sailing so to speak. I felt I owe it to myself to share this short poem because people oft get the wrong idea about me that...","categories": ["life"],
         "tags": [],
         "url": "http://localhost:4000/lost-at-sea-poem/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
       },{
         "title": "The True Aliens",
         "excerpt":"In this article I will give my rough understanding of the alien topic. Which has nowadays become virtually a household topic. Most of the information I have received here has been from The Great White Brotherhood’s book “Aliens the Strange Truth” and you can find a link to that book...","categories": ["Spiritual"],

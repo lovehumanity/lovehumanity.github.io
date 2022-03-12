@@ -7,6 +7,8 @@ categories:
   - Buddhism
 ---
 
+![Truths]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/Statue.jpg)
+
 In this article I will talk about suffering. Which for me is a subject matter that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. In general, I have had a very unusual relationship with suffering and a somewhat I am afraid to admit it – immature one. 
 
 I will first say that I have suffered tremendously as a result of demonic possession, I have experienced considerable mental suffering as a result of being possessed when I was 17 because the demonic personality is still there, but it has somewhat lessened a lot due to not being tempted to use its personality which is still there. I will also just add that I was exercised with help from The Great White Brotherhood, which you can find a link in the about page of my blog to their website. I will also just add that being possessed is no joke at all and will wreck mayhem in your life, so those who follow the occult and believe its good to use demons are deluded because those same demons will happily bring mayhem into their own lives (they are playing with fire)

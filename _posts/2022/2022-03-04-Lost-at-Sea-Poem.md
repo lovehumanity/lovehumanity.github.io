@@ -4,7 +4,11 @@ date: 2022-03-04
 classes: wide
 categories:
   - life
+header:
+  teaser: /assets/blogs/at-sea/at-sea.jpg
 ---
+
+![Lost at Sea]({{ site.url }}{{ site.baseurl }}/assets/blogs/at-sea/at-sea.jpg)
 
 I thought I would share here this poem I wrote in December 2021 to share here that in life it hasn't always been easy sailing so to speak. I felt I owe it to myself to share this short poem because people oft get the wrong idea about me that I have had an easy life through life and that because of my upbringing I have had a perfect life. Which therefore gives them the right to speak down to me thinkign that I haven't gone through similar difficulties as they have. This simply isn't true - you can have the most perfect upbringing in life, but still feel completely lost. This poem is of course a metaphor for life where I was in such a deep state of sloth and torpor and would just "goto sleep" as I described it at time. I will also post my very short poem on being found at sea - which I think is quite cool. 
 

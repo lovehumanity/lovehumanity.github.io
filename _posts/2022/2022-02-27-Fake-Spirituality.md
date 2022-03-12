@@ -4,7 +4,11 @@ date: 2022-02-27
 classes: wide
 categories:
   - Spiritual 
+header:
+  teaser: /assets/blogs/fake/grey.jpg
 ---
+
+![Fake]({{ site.url }}{{ site.baseurl }}/assets/blogs/fake/grey.jpg)
 
 I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words for yourself”. So essentially what it can mean is that you don’t see the truth for yourself, but act like you see the truth. Also, a side note I see the truth in various things – but fail to accept it. Which is something that I don’t fully understand. 
 
