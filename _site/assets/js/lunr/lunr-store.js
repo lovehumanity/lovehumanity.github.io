@@ -430,4 +430,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/being-authentic-and-true-to-yourself/",
         "teaser": null
+      },{
+        "title": "Controlling Others",
+        "excerpt":"In this article I will talk about controlling others and this is something I see a lot of people get away with and people often have their own foolish justifications for this kind of behaviour where they are so controlling of other people. But generally, when we meet such people,...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/controlling-others/",
+        "teaser": "http://localhost:4000/assets/blogs/anger/anger1.png"
       }]
