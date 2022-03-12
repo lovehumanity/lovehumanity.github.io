@@ -273,7 +273,7 @@ var store = [{
         "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/compassion/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/2020-12-21-Self-Compassion/compassion.jpg"
       },{
         "title": "Self-Importance",
         "excerpt":"I realize that I can be incredibly foolish, silly, and ignorant sometimes My own sense of self-importance has let me down considerably and to think that I know better than others and God is foolish to think that way because God is in complete control of absolutely everything. People shouldn’t...","categories": ["Spiritual"],
@@ -429,7 +429,7 @@ var store = [{
         "excerpt":"In this short post I will talk a little about why it’s so important to be authentic and true to yourself and do what is right in your heart and not the hearts of others. When you don’t do right in terms of what is right in your heart you...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/being-authentic-and-true-to-yourself/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/true/true.jpeg"
       },{
         "title": "Controlling Others",
         "excerpt":"In this article I will talk about controlling others and this is something I see a lot of people get away with and people often have their own foolish justifications for this kind of behaviour where they are so controlling of other people. But generally, when we meet such people,...","categories": ["Spiritual"],

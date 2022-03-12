@@ -4,7 +4,13 @@ date: 2022-03-08
 classes: wide
 categories:
   - Spiritual
+header:
+  teaser: /assets/blogs/true/true.jpeg
 ---
+
+![Being Authentic and True to Yourself]({{ site.url }}{{ site.baseurl }}//assets/blogs/true/true.jpeg)
+
+(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself)
 
 In this short post I will talk a little about why it’s so important to be authentic and true to yourself and do what is right in your heart and not the hearts of others. 
 
