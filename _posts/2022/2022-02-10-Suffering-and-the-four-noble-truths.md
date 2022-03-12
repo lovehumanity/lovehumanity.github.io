@@ -26,20 +26,3 @@ The third noble truth which is perhaps the hardest one to grasp is that the caus
 The fourth noble truth is the promise that you can end your suffering and the suffering of others by teaching the noble four truths through adhering to the noble eightfold path. Which is right understanding, right intentions, right speech, right action, right livelihood, right effort, right concentration, right mindfulness. I won’t go into too much detail, but this is the means out of suffering. Which I am still putting efforts to recognize. 
 
 I will also put out an article on each of these elements which make up the eightfold path in the hopes that others can benefit from my understandings of the eightfold path.
-
-Further Reading:
-
-<https://www.lionsroar.com/what-are-the-four-noble-truths/>\\
-<https://thebuddhistcentre.com/text/four-noble-truths>\\
-<https://www.learnreligions.com/the-four-noble-truths-450095>\\
-<https://www.buddhistdoor.net/features/understanding-the-four-noble-truths-and-walking-the-noble-eightfold-path/>\\
-<https://www.worldhistory.org/Four_Noble_Truths/>\\
-<https://www.school-for-champions.com/religion/buddhism_four_noble_truths.htm>\\
-<https://www.veterinary-practice.com/article/a-synopsis-of-the-four-noble-truths>\\
-<https://study.com/academy/lesson/the-four-noble-truths-the-eightfold-path-to-enlightenment.html>\\
-<https://tricycle.org/magazine/noble-eightfold-path/>\\
-<https://www.unhcr.org/50be10cb9.pdf>\\
-<file:///tmp/mozilla_osboxes0/The_4_Noble_Truths.pdf>\\
-<http://www.buddhanet.net/e-learning/buddhism/bs-s02.htm>\\
-<https://www.youtube.com/watch?v=7NP-1NUNlGM>\\
-<https://www.youtube.com/watch?v=IMMkegDo5Cc>\\

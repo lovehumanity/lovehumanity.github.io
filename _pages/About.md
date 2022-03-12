@@ -23,7 +23,7 @@ In school I was really into History, Business Studies, Maths, Computers, Chess, 
 
 I've been a really good judge of character my entire life and am a 'face person' and so when I see someone's face I can kind of tell if they are a good or bad person and so this has saved me alot of potential suffering and betrayal in my life, which has been an immense blessing to me.
 
-I enjoy going for walks with my Dad and my Dog Lola. I used to play on my Ukulele which I was inspired by from a girl on the ward I was at when I was young and can play a few songs on there.
+I enjoy going for walks with my Dad and my Dog Lola. I used to play on my Ukulele which I was inspired by from a girl on the ward I was at when I was young and can play a few songs on there. I am also really into Music and have been enjoying Mozart lately.
 
 I have suffered from mental health in my life and to those who do suffer from mental health or think they suffer from mental heatlh, don't be afraid to ask for help, there is no shame in it and you are not a lesser man for asking for help because in our society we have this terrible view on what a man should and shouldn't be and this has evolved into toxic masculinity - which are things which are detrimental to us which we think is being a man when it isn't.
 

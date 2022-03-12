@@ -44,32 +44,3 @@ Related Articles:
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
 
 Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
-
-
-Further Reading:
-
-<https://www.forbes.com/sites/tracybrower/2021/11/28/giving-is-good-for-others-but-also-for-you/?sh=12c828f223a1>\\
-<https://livingwell.org.au/well-being/five-ways-to-mental-wellbeing/give-to-others/>\\
-<https://time.com/collection/guide-to-happiness/4070299/secret-to-happiness/>\\
-<https://www.countryliving.com/life/g30109909/giving-quotes/>\\
-<https://greatergood.berkeley.edu/article/item/5_ways_giving_is_good_for_you>\\
-<https://bigthink.com/neuropsych/psychology-of-giving-to-charity/>\\
-<https://health.clevelandclinic.org/why-giving-is-good-for-your-health/>\\
-<https://www.humnutrition.com/blog/benefits-of-giving/>\\
-<https://www.conehealth.com/services/behavioral-health/4-health-benefits-of-giving-to-others-/>\\
-<https://tinybuddha.com/blog/why-giving-to-others-is-also-giving-to-ourselves/>\\
-<https://www.abbott.com/corpnewsroom/nutrition-health-and-wellness/giving-better-than-receiving.html>\\
-<https://www.goodreads.com/quotes/tag/giving>\\
-<https://basmati.com/2018/09/05/happy-benefits-giving-others>\\
-<https://hbr.org/2020/12/why-am-i-so-obsessed-with-giving-people-gifts>\\
-<https://seic.com/sites/default/files/inline-files/8%20Ways%20Giving%20is%20Good%20For%20You%20-%20Impact%20Institute.pdf>\\
-<https://www.intelligentchange.com/blogs/read/the-importance-of-giving>\\
-<https://www.asknormen.co.uk/give-to-others/>\\
-<https://www.kent-teach.com/Blog/post/2017/11/28/5-benefits-of-giving.aspx>\\
-<https://whoishussain.org/articles/the-act-of-giving/>\\
-<https://www.guinnesscareathome.org.uk/5-ways-to-wellbeing-give-to-others>\\
-<https://www.scientificamerican.com/article/how-to-be-happy-by-giving-to-others/>\\
-<https://www.success.com/15-inspiring-quotes-about-giving/>\\
-<https://www.cafonline.org/my-personal-giving/long-term-giving/resource-centre/five-reasons-to-give-to-charity>\\
-<https://www.theatlantic.com/family/archive/2021/12/giving-to-charity-anonymously-happiness/621111/>
-

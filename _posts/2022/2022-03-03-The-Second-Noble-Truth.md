@@ -20,18 +20,3 @@ The second form of craving is for existence itself. We don’t want to die and w
 The third and last form of craving/want/thirst/desire is that for non-existence. That is we don’t want to be unhappy, we don’t want to be miserable etc. 
 
 I guess what the second noble truth really is about is realizing that dukka has a cause and that cause is thirst/desire/wanting/craving and this arises only from within us. 
-
-Further Reading:
-
-<https://www.rickhanson.net/second-noble-truth-noble-truth-cause-suffering/>\\
-<http://www.buddhanet.net/e-learning/buddhism/bs-s04.htm>\\
-<https://secularbuddhistnetwork.org/reflections-on-the-second-noble-truth-its-more-than-craving/>\\
-<https://www.learnreligions.com/the-second-noble-truth-450092>\\
-<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca2/index.html>\\
-<https://www.londonbuddhistvihara.org/teachings/the-first-and-second-noble-truths/>\\
-<https://www.youtube.com/watch?v=1YPDFcOr2t0>\\
-<https://mindfulspot.com/second-noble-truth/>\\
-<https://www.yogiapproved.com/second-noble-truth-causes-of-suffering/>\\
-<https://www.psychologytoday.com/gb/blog/the-second-noble-truth>\\
-
-

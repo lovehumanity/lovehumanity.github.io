@@ -39,16 +39,3 @@ In conclusion, right speech is not lying to others, having good conversations wi
 Update 1: 08/03/22
 
 Right Speech is also about having conversations when appropriate and meaning in what you say i.e saying something and then having an ulterior motive because this brings suffuring. 
-
-Further Reading:
-
-<https://tricycle.org/trikedaily/family-dharma-right-speech-reconsidered/>\\
-<https://www.learnreligions.com/right-speech-450072>\\
-<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-vaca/index.html>\\
-<https://zenstudiespodcast.com/right-speech/>\\
-<https://www.buddhistdoor.net/features/right-speech-is-responsible-speech/>\\
-<https://www.sryahwapublications.com/journal-of-religion-and-theology/pdf/v3-i3/4.pdf>\\
-<https://blogs.dickinson.edu/buddhistethics/files/2017/09/King-Right-Speech-final-1.pdf>\\
-<https://www.youtube.com/watch?v=19VdkH0DqRU>\\
-<https://www.unhcr.org/50be10cb9.pdf>\\
-<https://en.wikipedia.org/wiki/Buddhism>\\

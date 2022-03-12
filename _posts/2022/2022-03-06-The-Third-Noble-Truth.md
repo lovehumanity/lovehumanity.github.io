@@ -37,22 +37,3 @@ Jack Dorsey\\
 Bill Clinton\\
 Mark Zuckerberg\\
 Steve Jobs
-
-
-Further Reading:
-
-<https://www.rickhanson.net/third-noble-truth-noble-truth-end-suffering/>\\
-<https://www.buddhanet.net/4noble16.htm>\\
-<https://www.youtube.com/watch?v=BNmmWY9PAKQ>\\
-<http://buddhistpeacefellowship.org/the-third-noble-truth-a-glimpse-of-hope/>\\
-<https://en.wikipedia.org/wiki/Four_Noble_Truths>\\
-<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca3/index.html>\\
-<https://www.yogiapproved.com/third-noble-truth-buddhism/>\\
-<https://sites.google.com/site/rahulawhatthebuddha/the-third-noble-truth>\\
-<https://buddhistpeacefellowship.org/the-four-noble-truths-in-our-world-truth-3-the-cessation-of-the-suffering-of-caste/>\\
-<https://www.britannica.com/topic/Four-Noble-Truths>\\
-<https://www.buddhistdoor.net/features/three-awakenings-and-four-noble-truths/>\\
-<https://www.unhcr.org/50be10cb9.pdf>\\
-<https://www.thebuddhistsociety.org/page/fundamental-teachings>
-
-
