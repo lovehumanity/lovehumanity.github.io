@@ -315,7 +315,7 @@ var store = [{
         "excerpt":"You should first start by recognizing that it’s not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/giving-to-others/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/giving/giving.png"
       },{
         "title": "The Law of Mutual Attraction",
         "excerpt":"The Law of Mutual Attraction is a univerisal law which quite simply means that like attracts like. A basic example is your own thoughts that you put out to the world you receive in return, so if you are having lots of negative thoughts, then the world will respond to...","categories": ["Spiritual"],
@@ -426,7 +426,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Being Authentic and True to Yourself",
-        "excerpt":"In this short post I will talk a little about why it’s so important to be authentic and true to yourself and do what is right in your heart and not the hearts of others. When you don’t do right in terms of what is right in your heart you...","categories": ["Spiritual"],
+        "excerpt":"(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself) In this short post I will talk a little about why it’s so important to be authentic and true to...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/being-authentic-and-true-to-yourself/",
         "teaser": "http://localhost:4000/assets/blogs/true/true.jpeg"
