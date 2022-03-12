@@ -348,7 +348,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "Prayer",
-        "excerpt":"Praying is one of the things that I think a lot of people can benefit from. The secret with prayer is to have the genuine intention of helping the person/thing you are praying and doing it for them and not for yourself. To progress towards God, it’s important to serve...","categories": ["Spiritual"],
+        "excerpt":"My Prayer I made my own prayer if anyone is interested in my prayer feel free to use it as a template. Said with conviction and sincerity and a belief in the power of God and with an understanding and trueness in the meanings of the words. Be sincere and...","categories": ["Spiritual"],
         "tags": ["Jesus","God","Christianity"],
         "url": "http://localhost:4000/prayer/",
         "teaser": "http://localhost:4000/assets/blogs/Prayer/prayer.jpg"
@@ -436,6 +436,12 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/controlling-others/",
         "teaser": "http://localhost:4000/assets/blogs/anger/anger1.png"
+      },{
+        "title": "Right Mindfulness",
+        "excerpt":"In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in our society...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Right Mindfulness","God","Eightfoldpath","Suffering"],
+        "url": "http://localhost:4000/right-mindfulness/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "When Someone Does Wrong To You",
         "excerpt":"In this article I will be talking about when someone does wrong to you and how you should respond to that or if you do wrong to yourself and how you should deal with that. This is a touchy subject for me because I have caused myself many wrongs in...","categories": ["Spiritual"],
