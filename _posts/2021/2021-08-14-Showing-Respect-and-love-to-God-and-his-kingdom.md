@@ -49,24 +49,3 @@ Feel free to give my other articles a read which will help to further the power 
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
 Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
-
-
-Further Reading:
-
-<https://www.openbible.info/topics/respecting_others>\\
-<https://www.churchofjesuschrist.org/study/general-conference/1988/04/the-great-commandment-love-the-lord?lang=eng>\\
-<https://www.biblestudytools.com/bible-study/topical-studies/a-biblical-command-we-never-outgrow-honor-your-father-and-mother.html>\\
-<https://www.bbc.co.uk/bitesize/guides/zkw2vk7/revision/3>\\
-<https://www.worldvision.org/christian-faith-news-stories/matthew-25-prayer-reflection>\\
-<https://tolovehonorandvacuum.com/2019/01/the-ultimate-flaw-in-love-and-respect-eggerichs/>\\
-<https://bibleinoneyear.org/en/classic/210/>\\
-<https://books.google.co.uk/books?id=_S1IwzVMPvgC&pg=PA231&lpg=PA231&dq=paying+love+and+respect+to+god+and+his+kingdom&source=bl&ots=N7IM3-RMJq&sig=ACfU3U15klEexLcuHqGXh2z2xD1jkWIwhw&hl=en&sa=X&ved=2ahUKEwjZ0t_spbT2AhXOTsAKHaH2AtAQ6AF6BAg-EAM#v=onepage&q=paying%20love%20and%20respect%20to%20god%20and%20his%20kingdom&f=false>\\
-<https://www.mtairynews.com/features/church/93816/love-the-lord-with-all-your-mind>\\
-<https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=citation&book=Luke&chapno=9&startverse=56&endverse=56>\\
-<https://www.theologyofwork.org/new-testament/1-corinthians>\\
-<https://sniggle.net/TPL/index5.php?entry=tkogiwy>\\
-<https://www.britannica.com/biography/Jesus/Jewish-Palestine-at-the-time-of-Jesus>\\
-<https://en.wikipedia.org/wiki/Christian_views_on_poverty_and_wealth>\\
-<https://www.ramseysolutions.com/personal-growth/using-your-god-given-talents>\\
-<https://www.countryliving.com/life/g31984772/bible-verses-about-family/>\\
-<https://www.bethinking.org/human-life/a-biblical-view-of-disability>\\

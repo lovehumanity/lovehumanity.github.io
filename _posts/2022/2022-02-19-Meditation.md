@@ -60,21 +60,3 @@ Related Articles:
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
 Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
-
-
-Further Research:
-
-<https://www.healthline.com/nutrition/12-benefits-of-meditation>\\
-<https://www.forbes.com/sites/alicegwalton/2015/02/09/7-ways-meditation-can-actually-change-the-brain/?sh=7ee5a6161465>\\
-<https://www.nccih.nih.gov/health/meditation-in-depth>\\
-<https://www.headspace.com/meditation/benefits>\\
-<https://positivepsychology.com/benefits-of-meditation/>\\
-<https://www.insider.com/benefits-of-meditation>\\
-<https://parade.com/969668/ericasweeney/benefits-of-meditation/>\\
-<https://www.healthline.com/health/mental-health/types-of-meditation>\\
-<https://www.headspace.com/meditation/techniques>\\
-<https://www.medicalnewstoday.com/articles/320392>\\
-<https://www.everydayhealth.com/meditation/types/>\\
-<https://mindworks.org/blog/different-types-meditation-technique/>\\
-<https://liveanddare.com/types-of-meditation/>\\
-<https://www.insider.com/types-of-meditation>\\

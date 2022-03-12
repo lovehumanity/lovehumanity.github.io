@@ -35,14 +35,3 @@ In conclusion, its very important to become more like a child again so that you 
 Update 1: 10/03/22
 
 I also just wanted to add here that in life you never stop learning and growing as an individual and so its important that you always stay like a child as Jesus described it because then it will allow you to grow much quicker in life and allow you to learn more quickly in things and allow you to be the best version of yourself, which is all you can really strive to become - the best version of yourself and so being arrogant, ignorant and stubborn will hinder your progress alot, which is why its vital to become like a child of God and put efforts to reduce your own ego, arrogance and things like that so you can make real progress towards God and as I said put efforts into emptying your cup so to speak so that you don't have things which are pulling you down behind the scenes.
-
-Further Reading:
-
-<https://www.desiringgod.org/messages/how-to-become-a-child-of-god>\\
-<https://www.compellingtruth.org/child-of-God.html>\\
-<https://biblehub.com/matthew/18-3.htm>\\
-<https://lifehopeandtruth.com/god/who-is-god/how-to-become-a-child-of-god/>\\
-<https://faculty.wts.edu/posts/enteringthekingdomaschildren/>\\
-<https://www.bible.ca/interactive/salvation-16-becoming-gods-child.htm>\\
-<https://www.christianity.com/wiki/salvation/what-does-it-mean-to-be-a-child-of-god-as-an-adult.html>\\
-<https://www.biblword.net/what-does-it-mean-to-be-a-child-of-god/>\\
