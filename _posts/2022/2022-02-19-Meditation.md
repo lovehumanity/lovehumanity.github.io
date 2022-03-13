@@ -24,7 +24,7 @@ header:
 
 ![Meditation]({{ site.url }}{{ site.baseurl }}/assets/images/me1.jpg)
 
-(Yes that is a picture of me posing in meditation during a trip in Florida in 2019)
+(Yes that is a picture of me posing in meditation during a trip to Florida with my family in 2019)
 
 # Why Meditate?
 
