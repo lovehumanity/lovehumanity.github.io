@@ -111,7 +111,7 @@ var store = [{
         "excerpt":"As promised in one of my other article I have written an article on self-love. Love for yourself is something that many struggle with including myself. There are also degrees of self love you can have for yourself, too much can lead to pushing others away, too little can lead...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/self-love/",
-        "teaser": "http://localhost:4000/assets/blogs/2021-02-23-Self-Love/love.jpeg"
+        "teaser": "http://localhost:4000/assets/blgs/love/love.jpg"
       },{
         "title": "Being Present",
         "excerpt":"Here I will discuss being present, which just means that you are more focused on the moment right now. A lot of people generally tend to drift their thoughts and ideas either to the past and future and neglect the only real thing they have control over - the present....","categories": ["Spiritual"],
@@ -201,7 +201,7 @@ var store = [{
         "excerpt":"Let me first start by saying that there are always two forces at place in life. The forces that work for good and the forces that work for bad or evil. Now the forces that work for bad or evil are the forces that we should pray for because they...","categories": ["Spiritual"],
         "tags": ["Prayer","Enemies","Jesus","The Bible","Chirstianity"],
         "url": "http://localhost:4000/pray-for-your-enemies/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Prayer/prayer.jpg"
       },{
         "title": "People's Expectations of You",
         "excerpt":"In this short post I will talk a little about other people’s expectations of you. Not meeting other people’s expectations of me has caused me a lot of pain and suffering and its actually only recently I realized that its not the other person’s expectations I’m not meeting but its...","categories": ["Spiritual"],
@@ -213,7 +213,7 @@ var store = [{
         "excerpt":"Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyse myself daily. In my view analysing yourself is an important aspect of following the spiritual life because it forces you to recognize more of your bad habits/behaviours that you...","categories": ["Spiritual","Wellbeing"],
         "tags": ["Jouranling","Self-help","Self-Improvement","Spirituality","Analysing","Love"],
         "url": "http://localhost:4000/journaling/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Journal/Journal.webp"
       },{
         "title": "Becoming a Child",
         "excerpt":"I recently realized that perhaps one of the biggest hindrances to my growth is my own arrogance, ego, ignorance, pride and evilness (which I intend to make a separate blog post about). The answer to overcoming these issues that hinder me so much is to become like a child again...","categories": ["Spiritual"],
@@ -223,21 +223,21 @@ var store = [{
       },{
         "title": "Judgement",
         "excerpt":"I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have given to myself. It’s also...","categories": ["Spiritual"],
-        "tags": ["Judging others","Buddha","Buddhism","Evil","Judgement","Suffering","God","Christianity","Jesus","Prayer","Spirituality","Wellbeing","Love","Healing","Meditation","Why Buddhism is True"],
+        "tags": ["Judging others","Buddha","Buddhism","Evil","Judgement","Suffering","God","Christianity","Jesus","Prayer","Spirituality","Wellbeing","Love","Healing","Meditation"],
         "url": "http://localhost:4000/judgement/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/judging/judging.jpeg"
       },{
         "title": "Evil",
         "excerpt":"First and foremost, I will say here that evil is a very seductive power. You need to be an advanced being I believe to not be seduced by evil. But what most people who give way to this evil don’t actually realize is that evil is controlling their actions significantly...","categories": ["Spiritual"],
         "tags": ["Evil","Philosophy","My Journey","Good","Prayer","Bad","Philosphy","Love","Wellbeing","Spirituality"],
         "url": "http://localhost:4000/evil/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/evil/evil.webp"
       },{
         "title": "Taking the Saw Dust out of Your own Eyes",
         "excerpt":"I realized that I haven’t been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were...","categories": ["Spiritual"],
         "tags": ["Jesus","Christianity","Arrogance","Truthful","Spirituality","Wellbeing"],
         "url": "http://localhost:4000/taking-the-saw-dust-out-of-your-own-eyes/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/saw/saw.jpeg"
       },{
         "title": "Virtue Signaling",
         "excerpt":"I thought I would write a short peice on virtue signaling. One of the things that I think have been causing me to not do as well as I could be doing is due to virtue signaling. I tend to think that God is watching and so will do things...","categories": ["Spiritual"],
@@ -267,7 +267,7 @@ var store = [{
         "excerpt":"I realized that one thing that has caused me suffering, and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviours which condescend them in some way. But it’s also about thinking that you can get...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/patronizing-others/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
       },{
         "title": "Compassion",
         "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important...","categories": ["Spiritual"],
@@ -291,7 +291,7 @@ var store = [{
         "excerpt":"In this article I will talk about suffering. Which for me is a subject matter that I have struggled with a lot, in terms of how to deal with suffering and how to resolve suffering. In general, I have had a very unusual relationship with suffering and a somewhat I...","categories": ["Spiritual","Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/suffering-and-the-four-noble-truths/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Taking Things To Extremes",
         "excerpt":"Sometimes I take things to extremes and it has caused me and others a lot of suffering. I guess the reason I do that is because I desire something and don’t yet fully appreciate that all desire and wants will inevitably lead to suffering and it’s as the saying goes...","categories": ["Spiritual"],
@@ -375,7 +375,7 @@ var store = [{
         "excerpt":"In this short article I will talk a little about love and doing the most loving thing. I will just say now that love is the strongest force in the universe and love is what gives us strength in this world and also should be the force that guides us...","categories": ["Spiritual"],
         "tags": ["Jesus","God","Christianity","Love","Love thy neighbour","Prayer","Meditationg","Enemies","Evil"],
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
       },{
         "title": "Right Speech",
         "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],

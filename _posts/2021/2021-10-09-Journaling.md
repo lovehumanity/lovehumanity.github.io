@@ -12,7 +12,11 @@ tags:
   - Spirituality
   - Analysing
   - Love
+header:
+  teaser: /assets/blogs/Journal/Journal.webp
 ---
+
+![Journal]({{ site.url }}{{ site.baseurl }}/assets/blogs/Journal/Journal.webp) 
 
 Journaling is something which I picked up about 2 years ago and has been an amazing resource for me to analyse myself daily. In my view analysing yourself is an important aspect of following the spiritual life because it forces you to recognize more of your bad habits/behaviours that you have and so allows you to think over how you can improve yourself because without analysing yourself daily you will not be able to identify your faults/flaws that you have and so will hinder your progress. Therefore, journaling is an important thing for you to help to improve yourself.
 

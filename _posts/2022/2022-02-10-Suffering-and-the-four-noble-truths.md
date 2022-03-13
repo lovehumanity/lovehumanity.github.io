@@ -5,6 +5,8 @@ classes: wide
 categories:
   - Spiritual 
   - Buddhism
+header: 
+  teaser: /assets/blogs/Buddhism/Statue.jpg
 ---
 
 ![Truths]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/Statue.jpg)

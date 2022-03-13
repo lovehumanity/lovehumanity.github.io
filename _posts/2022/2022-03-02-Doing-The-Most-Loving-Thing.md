@@ -14,7 +14,11 @@ tag:
   - Meditationg
   - Enemies
   - Evil
+header: 
+  teaser: /assets/blogs/love/love.jpg
 ---
+
+![Love]({{ site.url }}{{ site.baseurl }}/assets/blogs/love/love.jpg)
 
 In this short article I will talk a little about love and doing the most loving thing. I will just say now that love is the strongest force in the universe and love is what gives us strength in this world and also should be the force that guides us in terms of we should always strive to take the actions that will bring the most love to the world, not just for yourself but for all of life, because you are not the only person living on the planet and should be respectful not just to yourself, but to all of life.
 

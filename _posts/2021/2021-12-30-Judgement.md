@@ -20,8 +20,11 @@ tags:
   - Love
   - Healing
   - Meditation
-  - Why Buddhism is True
+header:
+  teaser: /assets/blogs/judging/judging.jpeg
 ---
+
+![judging]({{ site.url }}{{ site.baseurl }}/assets/blogs/judging/judging.jpeg) 
 
 I wanted to make this short post today on judging others and yourself. I’ve suffered immensely because of all the judging that I have given to myself, all the times I felt like I’m unworthy or inadequate because of all the judging that I have given to myself. It’s also caused me a lot of suffering thinking about how others will judge me or view me, and I guess it’s mostly because of all the judging that I have given to myself and so I think that everyone else judges me the same way that I judge myself. But I realized that giving judgment to someone (including yourself) isn’t correct because of all this suffering that judging inflicts. 
 

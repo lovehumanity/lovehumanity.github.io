@@ -11,7 +11,11 @@ tags:
   - Truthful
   - Spirituality
   - Wellbeing
+header:
+  teaser: /assets/blogs/saw/saw.jpeg
 ---
+
+![Saw]({{ site.url }}{{ site.baseurl }}/assets/blogs/saw/saw.jpeg) 
 
 I realized that I haven't been very truthful and honest and sincere towards myself and one of the reasons was because of ignorance, but also arrogance - I feel like the arrogance that I have towards myself and not practicing right intention which is 1 of the eightfold paths were betraying me and letting me down so much in my life and I feel like I should learn to practice the eightfold path a lot more as I feel like it will bring a lot of peace and harmony to me in my life right now and feel like I should learn to tap into my feelings a lot more in terms of how I really feel deep down and learn that feelings are good things to have and are not in any way a weakness and that you shouldn't repress your feelings because of others and what they believe. 
 
@@ -21,19 +25,8 @@ Jesus also understood that you shouldn't like go around teaching others things t
   
 It's also about seeing things more clearly, because generally I find a lot of people live in their own worlds and no two people live in the same world and so everyone has their own reality to which they conform to and so sometimes people will live in alternative realities which are deluding them from the truth and causing them considerable harm to themselves which isn't good. I find that something I haven't really been practicing is good intentions and I haven't been very kind to myself because I guess in part because I was afraid of what people may think of me, which is very unkind towards myself because why should I care what others think of me, more than I care about what I think of myself, because it's related to others in terms of because there are others that have opinions, I care about what they think of me or may think of me. 
 
-Further Reading:
+Related Articles:
 
-<https://biblehub.com/matthew/7-3.htm>\\
-<https://www.biblegateway.com/passage/?search=Matthew%207%3A3-5&version=NIV>\\
-<https://www.dougbrittonbooks.com/onlinebiblestudies-personalgrowthanddevelopment/changeyourselffirst-takethebeamoutofyourowneye/>\\
-<https://www.bibleref.com/Matthew/7/Matthew-7-3.html>\\
-<https://www.christianity.com/jesus/life-of-jesus/teaching-and-messages/the-serious-humor-of-a-speck-and-a-plank.html>\\
-<https://www.quotes.net/mquote/37516>\\
-<https://www.biblestudytools.com/matthew/7-5-compare.html>\\
-<https://www.bibleref.com/Matthew/7/Matthew-7-5.html>\\
-<https://www.youtube.com/watch?v=SLZcrSApcnY>\\
-<https://www.preceptaustin.org/matthew_73-5>\\
-<https://www.gotquestions.org/Bible-hypocrisy.html>\\
-<https://www.crossrhythms.co.uk/articles/life/When_You_Cant_See_The_Woods_For_The_Trees/31188/p1/>\\
-<https://medium.com/@tonypowell53/as-jesus-said-mathew-7-5-ccc3657a2359>\\
-<https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=5379618>\\
+[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})\\
+[Self-Worth]({% post_url 2022-01-18-Self-Worth %})
+    
