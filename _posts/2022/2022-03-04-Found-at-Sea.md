@@ -23,5 +23,3 @@ I look back and realize that my own ignorance, arrogance, and reluctance was pre
 It is now that I look back in sorrow at all the suffering that I put myself through in rowing endlessly attempting to find land. 
 
 It’s a sobering thought to think that the reason I caused myself so much suffering to myself is because I was so deluded that I thought that suffering was the answer to solve all my problems. It was not.
-
-
