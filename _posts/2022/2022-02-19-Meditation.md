@@ -61,4 +61,5 @@ Related Articles:
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
-Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
+If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
+

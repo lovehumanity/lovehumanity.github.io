@@ -35,3 +35,6 @@ In conclusion, its very important to become more like a child again so that you 
 Update 1: 10/03/22
 
 I also just wanted to add here that in life you never stop learning and growing as an individual and so its important that you always stay like a child as Jesus described it because then it will allow you to grow much quicker in life and allow you to learn more quickly in things and allow you to be the best version of yourself, which is all you can really strive to become - the best version of yourself and so being arrogant, ignorant and stubborn will hinder your progress alot, which is why its vital to become like a child of God and put efforts to reduce your own ego, arrogance and things like that so you can make real progress towards God and as I said put efforts into emptying your cup so to speak so that you don't have things which are pulling you down behind the scenes.
+
+If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
+
