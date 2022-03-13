@@ -32,6 +32,8 @@ Meditation, prayer and service to man is of vital importance in making real prog
 
 Now for the technique on how to meditate correctly (and no its not finding a pool to meditate as the image may suggest)
 
+You should also seek to meditate in secret. I have an article on this blog on why you should practice spirituality in secret linked [Here]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+
 # Meditation Technique 
 
 Firstly when you start meditating its best to choose a quiet place where you can not be disturbed by others and where there is little outside noise and distractions.
