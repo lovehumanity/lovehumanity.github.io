@@ -111,7 +111,7 @@ var store = [{
         "excerpt":"As promised in one of my other article I have written an article on self-love. Love for yourself is something that many struggle with including myself. There are also degrees of self love you can have for yourself, too much can lead to pushing others away, too little can lead...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/self-love/",
-        "teaser": "http://localhost:4000/assets/blgs/love/love.jpg"
+        "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
       },{
         "title": "Being Present",
         "excerpt":"Here I will discuss being present, which just means that you are more focused on the moment right now. A lot of people generally tend to drift their thoughts and ideas either to the past and future and neglect the only real thing they have control over - the present....","categories": ["Spiritual"],
