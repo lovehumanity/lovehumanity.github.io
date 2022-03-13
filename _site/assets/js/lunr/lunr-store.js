@@ -330,7 +330,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/break/spiritual.webp"
       },{
         "title": "Meditation",
-        "excerpt":"(Yes that is a picture of me posing in meditation during a trip in Florida in 2019) Why Meditate? Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I...","categories": ["Spiritual"],
+        "excerpt":"(Yes that is a picture of me posing in meditation during a trip to Florida with my family in 2019) Why Meditate? Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic...","categories": ["Spiritual"],
         "tags": ["Meditation","The Great White Brotherhood","Prayer","Gifts of the spirit","Clairvoyance","Telepathy","Telekenesis","Clairsentience","Teleportation","Jesus Second Coming","Service to fellow man","God","Faifth"],
         "url": "http://localhost:4000/meditation/",
         "teaser": "http://localhost:4000/assets/images/me.jpg"
@@ -448,4 +448,10 @@ var store = [{
         "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
         "url": "http://localhost:4000/when-someone-does-wrong-by-you/",
         "teaser": "http://localhost:4000/assets/blogs/wrong/wrong.jpg"
+      },{
+        "title": "Why You Should Read",
+        "excerpt":"In this article I will be talking about reading and why its so important for all to read this article to take up reading and have it be a part of your daily routine. Now reading doesn’t necessarily need to just be books that your read – it can also...","categories": ["Lifestyle"],
+        "tags": [],
+        "url": "http://localhost:4000/why-you-should-read/",
+        "teaser": "http://localhost:4000/assets/blogs/reading/reading.jpg"
       }]
