@@ -48,7 +48,7 @@ Also a side note that the articles on this blog are not very long in length beca
 
 The further reading in my articles are just some websites that I come across when searching for the topic and I hope that they will improve my SEO (times I appear in search results) because generally I put alot of effort into this blog and for it to be unnoticed by others because I don't put further reading would be a crime to myself and others. So please don't feel the need to read everything in Further Reading, but only read that which you feel drawn to and just be true to yourself is my advice.
 
-As a side note I do update this blog fairly regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. 
+As a side note I do update this blog fairly regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
 
 ## Awesome Subjects :mag:
 
