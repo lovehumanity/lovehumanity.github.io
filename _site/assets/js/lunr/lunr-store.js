@@ -348,7 +348,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "Prayer",
-        "excerpt":"My Prayer I made my own prayer if anyone is interested in my prayer feel free to use it as a template. Said with conviction and sincerity and a belief in the power of God and with an understanding and trueness in the meanings of the words. Be sincere and...","categories": ["Spiritual"],
+        "excerpt":"My Prayer I made my own prayer if anyone is interested in my prayer feel free to use it as a template. Also you shouldn’t feel embarrassed about taking up prayer, because I know that many people think that only Christians can pray or oft times I feel that people’s...","categories": ["Spiritual"],
         "tags": ["Jesus","God","Christianity"],
         "url": "http://localhost:4000/prayer/",
         "teaser": "http://localhost:4000/assets/blogs/Prayer/prayer.jpg"
