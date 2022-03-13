@@ -54,6 +54,10 @@ The further reading in my articles are just some websites that I come across whe
 
 As a side note I do update this blog fairly regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
 
+Lastly if you could fill out my survey for this blog as I am trying to improve this blog and make it the best possible blog that I can give to the world. Link for the survey is down below.
+
+<https://docs.google.com/forms/d/e/1FAIpQLSeXpNQfEUUf9cv5JLmOTWGZhdYtutIEZWpv1jMa490b0lGW1g/viewform?usp=sf_link>
+
 ## Awesome Subjects :mag:
 
 - Buddhism _(Desire is the cause of suffering)_   
