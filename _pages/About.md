@@ -44,6 +44,8 @@ This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
 <https://lovehumanity.gitlab.io/>\\
 <https://lovehumanity.github.io/>
 
+I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes. I also disagree a lot with advertisements because I think that it just encourages a society where everyone buys useless stuff. But please do consider donating to me on the link in donation page - it would mean so much to me because I am yet to have a donation and this blog has been seen by 10s of thousands of people so far.
+
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
 The further reading in my articles are just some websites that I come across when searching for the topic and I hope that they will improve my SEO (times I appear in search results) because generally I put alot of effort into this blog and for it to be unnoticed by others because I don't put further reading would be a crime to myself and others. So please don't feel the need to read everything in Further Reading, but only read that which you feel drawn to and just be true to yourself is my advice.
@@ -105,4 +107,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Updated 12/03/22
+Last Updated 13/03/22
