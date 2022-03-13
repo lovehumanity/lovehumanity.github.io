@@ -55,11 +55,11 @@ Aim to make meditation apart of your daily routine and you can meditate for long
 Related Articles:
 
 [Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
-[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
 
 If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
 

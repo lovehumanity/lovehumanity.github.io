@@ -18,19 +18,3 @@ However, self-acceptance doesn’t mean that you shouldn’t seek to better your
 I will say that there are many people who don't take too kindly tp any talk of self-acceptance. The weight of how much they are unable to accept themselves, pushes them to be abusive, hostile and aggressive to anyone that talks of such things, so that they can hide this truth from themselves - of how much they are unable to accept themselves. Just know that the reason they don't accept themselves is because they do things which they know to be bad but choose to ignore the fact that they are the ones doing it, because they are unable to accept this truth. Therefore, they choose to ignore the person they are right now, so they can continue doing the things they know in their hearts to be bad. It’s as if they are two people living in the same body, one performing the bad actions, and another being hidden away from view who knows these actions to be bad. I advise all to read this to appreciate that a lot of people don't take too kindly to such truths. Therefore, you would be wise to keep this information to yourself and not try to bring light to such people. They will eventually have their day where they are brought to justice. 
 
 In conclusion, self-acceptance should be appreciated and practiced by all people. Don’t seek to bury your discontent for yourself and leave it like an overflowing bin. These issues will need to be addressed one day, don’t think for a second that if you bury it, it will go away – it doesn’t. Seek to understand yourself and appreciate the person you are right now and just be accepting of yourself. If there are some things you can’t accept, look to better understand why. I will end by saying that one of the most difficult things in life is working on yourself. Don’t go in thinking it’s going to be easy. Go in anticipating it’s going to be hard. The rewards for working on yourself are big.
-
-Further Reading:
-
-<https://www.sciencedaily.com/releases/2014/03/140307111016.htm>
-
-<https://www.health.harvard.edu/blog/greater-self-acceptance-improves-emotional-well-201605169546>
-
-<https://www.researchgate.net/publication/303726279_The_strength_of_self-acceptance_Theory_practice_and_research>
-
-<http://www.tjprc.org/publishpapers/2-49-1489575375-10.IJESRAPR201710.pdf>
-
-<https://www.psychologytoday.com/us/blog/evolution-the-self/200809/the-path-unconditional-self-acceptance>
-
-<https://www.researchgate.net/publication/226501882_Mindfulness_and_self-acceptance>
-
-<https://www.theodysseyonline.com/importance-self-acceptance>
