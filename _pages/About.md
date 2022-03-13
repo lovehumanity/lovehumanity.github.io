@@ -5,7 +5,7 @@ permalink: /About/
 classes: wide
 ---
 
-Picture of me on Holiday in Florida where I went there with my family 2019
+Picture of me on Holiday in Florida when I went there with my family back in 2019
 
 ![Me]({{ site.url }}{{ site.baseurl }}/assets/images/me2.jpg)
 
