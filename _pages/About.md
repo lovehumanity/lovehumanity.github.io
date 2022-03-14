@@ -86,19 +86,6 @@ I find that all subjects are linked together. Really it comes down to how you de
 "The greatest warrior is the one that wins without fighting" ~ Lao Tzu\\
 "The greatest teacher failure is" ~ Yoda
 
-## The Great White Brotherhood
-
-I work with a group of humans that live in the heavenly spheres that call themselves The Great White Brotherhood. Great implying nobility, White implying purity of intentions and Brotherhood meaning a collective. They are **NOT** a white supremacy group. Most people generally mistake this group for being a white supremacy group due to the name but having followed their teachings for over 4 years I can attest to their authenticity and they are serious in their intention of spreading various spiritual teachings to the world and spreading the truths of the world. 
-
-But generally you need an open mind to accept the information from this group because its just so different to what society has taught us. But if you dismiss this group as frauds I understand - for new information to be accepted you need pigeon holes to store information into and if you don't then its only natural for you to dismiss the information as just false. Therefore look into this group at your own discretion, because your friends/family will likely not like you for sharing this certain group, so tread carefully and remember to practice spirituality in secret - which I have an article on this blog about if you want to learn more about why you should do so in secret. 
-
-I recommend reading their first book the Stairway to Freedom (all their books are completely free) because this is a book which has helped me considerably in my journey and a book which I hope will bring benefit to you in your journey.
-
-Here are their websites and the YouTube Channel of Bob Sanders who channels their messages and works for them. 
-
-[https://thegreatwhitebrotherhood.org/](https://thegreatwhitebrotherhood.org/)\\
-[https://www.youtube.com/c/BobSanders](https://www.youtube.com/c/BobSanders)
-
 ## How this blog is hosted Completely Free :heavy_dollar_sign:
 
 This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/) which allows me to host this blog completely free. I chose gitlab to host this blog because gitlab is [more open source](https://gitlab.com/gitlab-org/gitlab) than github which is completely [closed sourced](https://stackoverflow.com/questions/24254324/is-github-com-source-code-open-source). Personally I find it quite ironic that a website that hosts so much open source code isn't itself open source, it's a bit like writing a book on the importance of giving to others, and yet turning a profit for said book. 
