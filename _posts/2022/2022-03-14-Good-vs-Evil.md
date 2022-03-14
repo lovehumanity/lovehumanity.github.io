@@ -5,10 +5,10 @@ classes: wide
 categories:
   - Spiritual
 header:
-  teaser: "/assets/blogs/2020-12-20-Good-Vs-Evil/gve.jpg"
+  teaser: "/assets/blogs/2020-12-20-Good-Vs-Evil/gve1.jpg"
 ---
 
-![gve]({{ site.url }}{{ site.baseurl }}/assets/blogs/2020-12-20-Good-Vs-Evil/gve.jpg)
+![gve]({{ site.url }}{{ site.baseurl }}/assets/blogs/2020-12-20-Good-Vs-Evil/gve1.jpg)
 
 Note: That this article was changed on 14/03/22 to be much more accurate.
 

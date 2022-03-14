@@ -6,14 +6,8 @@ categories:
   - Spiritual 
 tags:
   - Meditation
-  - The Great White Brotherhood
   - Prayer
   - Gifts of the spirit
-  - Clairvoyance
-  - Telepathy
-  - Telekenesis
-  - Clairsentience
-  - Teleportation
   - Jesus Second Coming
   - Service to fellow man
   - God
@@ -28,11 +22,11 @@ header:
 
 # Why Meditate?
 
-Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now. The benefits of meditation are you become a more devleoped human being - you develop your auras and allow your chakras to open up more and allow energy to pass more freely into them, you are also able to develop the gifts of the spirit by consitently meditating for a prolonged period of time. The gifts of the spirit are telepathy (talking with others with your mind), telekenesis (moving objects with your mind), clairvoyance (Seeing into the spiritual realms), clairsentience (Feeling through your spiritual senses) and teleportation (Moving from one place to another). But you shouldn't meditate with the goal of devoloping the gifts - meditate with the intent on meditating and over time the gifts will appear, but don't be deterred from the practice if they don't come to you when you would like. God grants the gifts and he also can remove the gifts if they are not used for helping your fellow man. The gifts also shouldn't be used for fulfilling your own ego and you shouldn't display the gifts to "muggles" so to speak.
-
-Now for the technique on how to meditate correctly (and no its not finding a pool to meditate as the image may suggest)
+Meditation, prayer and service to man is of vital importance in making real progress towards God. I will talk a little about meditation and give you my basic technique which I have used for a few years now. The benefits of meditation are you become a more developed human being - you develop your auras and allow your chakras to open up more and allow energy to pass more freely into them, you are also able to develop the gifts of the spirit by consitently meditating for a prolonged period of time. 
 
 You should also seek to meditate in secret. I have an article on this blog on why you should practice spirituality in secret linked [Here]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+
+Now for the technique on how to meditate correctly (and no its not finding a pool to meditate as the image may suggest)
 
 # Meditation Technique 
 
@@ -58,8 +52,8 @@ Related Articles:
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
-[Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
-[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
+[Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})\\
+[Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
 
 If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
 
