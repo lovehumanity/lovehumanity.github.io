@@ -15,15 +15,9 @@ Firstly, yes I am actually the real Saint Christopher believe it or not.
 
 Generally I don't like talking about myself because I was into privacy a lot in my late teens and young adult years even sharing photos of myself was a big jump for me on this blog, but my general interests right now are computers. I want to learn more about reverse engineering computer software and I'm currently employed in a service desk role in an IT company and hoping to learn alot more about reverse engineering in my free time and am thinking about pursuing this as a full time job or programming for that mattar, something in IT really. I used to be really into ethical hacking and enjoyed the show Mr Robot which really inspired me to become an ethical hacker and did the OSCP, but that took a lot out of me and isn't an easy certification.
 
-I am 21 years old and was born on 08/08/2000 and have lived in London my entire life having grown up in a loving and caring family - I wasn't rich, but me and my family have got by over the years.
-
-I have taken up art a little lately and enjoy drawing occasionally, but I'm not very good at art so don't enjoy sharing my artwork with others or the public that much. I enjoy spending time with my family, but hoping to soon start a family of my own one day.
-
 In school I was really into History, Business Studies, Maths, Computers, Chess, Programming, Sociology, English, Debate club. I was an introvert in school so didn't really go out too much during my school years or my uni years for that mattar because I guess I was so afaid of what others would think of me and now I would like to make up for that lost time somewhat and be a lot more sociable which I am slowly but surely becoming.
 
-I've been a really good judge of character my entire life and am a 'face person' and so when I see someone's face I can kind of tell if they are a good or bad person and so this has saved me alot of potential suffering and betrayal in my life, which has been an immense blessing to me.
-
-I enjoy going for walks with my Dad and my dog Lola. I used to play on my Ukulele which I was inspired by from a girl on the ward I was at when I was young and can play a few songs on there. I am also really into Music and have been enjoying Mozart lately.
+I enjoy going for walks with my Dad and my dog. I am also really into Music and have been enjoying Mozart lately.
 
 I have suffered from mental health in my life and to those who do suffer from mental health or think they suffer from mental heatlh, don't be afraid to ask for help, there is no shame in it and you are not a lesser man for asking for help because in our society we have this terrible view on what a man should and shouldn't be and this has evolved into toxic masculinity - which are things which are detrimental to us which we think is being a man when it isn't.
 
@@ -46,13 +40,11 @@ This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
 <https://lovehumanity.gitlab.io/>\\
 <https://lovehumanity.github.io/>
 
-I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes. I also disagree a lot with advertisements because I think that it just encourages a society where everyone buys useless stuff. But please do consider donating to me on the link in donation page - it would mean so much to me because I am yet to have a donation and this blog has been seen by 10s of thousands of people so far.
+I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes. But please do consider donating to me on the link in donation page - it would mean so much to me because I am yet to have a donation and this blog has been seen by 10s of thousands of people so far.
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
-The further reading in my articles are just some websites that I come across when searching for the topic and I hope that they will improve my SEO (times I appear in search results) because generally I put alot of effort into this blog and for it to be unnoticed by others because I don't put further reading would be a crime to myself and others. So please don't feel the need to read everything in Further Reading, but only read that which you feel drawn to and just be true to yourself is my advice.
-
-As a side note I do update this blog fairly regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
+As a side note I do update this blog very regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
 
 Lastly if you could fill out my survey for this blog as I am trying to improve this blog and make it the best possible blog that I can give to the world. Link for the survey is down below.
 
