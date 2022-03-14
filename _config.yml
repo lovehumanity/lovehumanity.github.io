@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "@st_christopherx" 
 facebook:
   username               :
   app_id                 :
@@ -99,15 +99,15 @@ author:
   location         : "United Kingdom"
   email            : 
   links:
-    - label: "Email"
+    - label: "chrisisamazing@protonmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "chrisisamazing@protonmail.com"
+      url: "email:chrisisamazing@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/st_christopherx"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
