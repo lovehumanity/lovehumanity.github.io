@@ -35,12 +35,6 @@ var store = [{
         "url": "http://localhost:4000/stop-consuming-new-content/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-19-Stop-Consuming-New-Content/new-content.jpg"
       },{
-        "title": "Good vs Evil",
-        "excerpt":"Most people will generally say that one person’s good is different to another person’s good- that good and evil are subjective. However, this isn’t accurate. Good are things that are constructive; things that build things. While evil are things that are destructive, things that unbuild things. Evil isn’t confined to...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/good-vs-evil/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-12-20-Good-Vs-Evil/pheonix.jpg"
-      },{
         "title": "Self-Compassion",
         "excerpt":"I have experienced a lot of hardship and difficulty during my life. One thing I learned is that self-compassion is the needed antidote during times of hardship and difficulty. Life has ups and downs. For the ups to be experienced you need to go through the downs. During such times...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
@@ -408,7 +402,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/found/found.png"
       },{
         "title": "Lost at Sea",
-        "excerpt":"I thought I would share here this poem I wrote in December 2021 to share here that in life it hasn’t always been easy sailing so to speak. I felt I owe it to myself to share this short poem because people oft get the wrong idea about me that...","categories": ["life"],
+        "excerpt":"I thought I would share here this poem I wrote in December 2021 to show that in life it hasn’t always been easy sailing so to speak. I felt I owe it to myself to share this short poem because people oft get the wrong idea about me that I...","categories": ["life"],
         "tags": [],
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
@@ -454,4 +448,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/why-you-should-read/",
         "teaser": "http://localhost:4000/assets/blogs/reading/reading.jpg"
+      },{
+        "title": "Good vs Evil",
+        "excerpt":"Most people will generally say that one person’s good is different to another person’s good- that good and evil are subjective. However, this isn’t accurate. Good are things that are constructive; things that build things. While evil are things that are destructive, things that unbuild things. Evil isn’t confined to...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/good-vs-evil/",
+        "teaser": "http://localhost:4000/assets/blogs/2020-12-20-Good-Vs-Evil/gve.jpg"
       }]

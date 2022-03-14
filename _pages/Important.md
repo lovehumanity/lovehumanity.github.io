@@ -18,7 +18,7 @@ Spiritual:
 [Evil]({% post_url 2021-12-31-Evil %})\\
 [How to Remove Bad Spirits - Possession]({% post_url 2022-02-26-Possession %})\\
 [Showing Respect and love to God and His Kingdom]({% post_url 2021-08-14-Showing-Respect-and-love-to-God-and-his-kingdom %})\\
-[Good vs Evil]({% post_url 2020-12-20-Good-Vs-Evil %})\\
+[Good vs Evil]({% post_url 2022-03-14-Good-vs-Evil %})\\
 [Giving to Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Finding Your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
