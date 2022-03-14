@@ -454,4 +454,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/good-vs-evil/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-20-Good-Vs-Evil/gve1.jpg"
+      },{
+        "title": "Selfishness",
+        "excerpt":"In this article I will write a little on selfishness, this is something which I have given away to so much in my life and I thought that hiding my own selfishness and disguising it under the guide of selfless acts was the correct thing to do – it was...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/selfishness/",
+        "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
       }]
