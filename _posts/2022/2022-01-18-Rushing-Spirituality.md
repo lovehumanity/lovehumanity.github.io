@@ -4,7 +4,11 @@ date: 2022-01-18
 classes: wide
 categories:
   - Spiritual 
+header: 
+  teaser: /assets/blogs/rushing/rushing.webp
 ---
+
+![Rushing]({{ site.url }}{{ site.baseurl }}/assets/blogs/worthy/worthy.jpeg)
 
 I realized that one thing that is holding me back a lot now that I am starting to see some results with my spiritual advances, I feel the need to rush spirituality for more gains because I have been in the dark for so long now and given way to a lot of negative thoughts and been quite depressed and just felt so lost. But now that I am starting to see some results with spirituality, I am willing to learn lot about myself a lot more because I can see that there are indeed significant gains.
 

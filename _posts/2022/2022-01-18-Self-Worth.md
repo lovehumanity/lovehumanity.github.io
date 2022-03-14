@@ -4,7 +4,11 @@ date: 2022-01-18
 classes: wide
 categories:
   - Spiritual 
+header: 
+  teaser: /assets/blogs/worthy/worthy.jpeg
 ---
+
+![Worthy]({{ site.url }}{{ site.baseurl }}/assets/blogs/worthy/worthy.jpeg)
 
 Self-Worth is something I have struggled with my entire life, I guess it’s like somewhat due to my personality flaws and how due to these flaws’ others don’t accept me as much because I kind of like think it’s right to put myself down in some way because of lack of acceptance of who I really am. Which I think equates to holiness in some way, but I realize it’s incredibly stupid and unfair on others and the rest of the world but it’s also important in the fact that you put yourself down.
 

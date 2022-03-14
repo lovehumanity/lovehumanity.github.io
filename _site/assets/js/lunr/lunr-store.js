@@ -183,7 +183,7 @@ var store = [{
         "excerpt":"In this short post I will give some reasons and justifications why those on the spiritual path should do so in secret and not announce it to others. The first reason why the path should be done so in secret is because generally people dislike someone standing in the light...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/practice-spirtuality-in-secret/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/secret/secret.jpg"
       },{
         "title": "Positive Thinking",
         "excerpt":"In this short post I will look at the importance and value of positive thinking. Positive thinking is the practice whereby you seek and actively go out of your way to see the positive in things, but more importantly is that you don’t dwell on the negative side of things...","categories": ["Wellbeing"],
@@ -249,13 +249,13 @@ var store = [{
         "excerpt":"I realized that one thing that is holding me back a lot now that I am starting to see some results with my spiritual advances, I feel the need to rush spirituality for more gains because I have been in the dark for so long now and given way to...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/rushing-spirituality/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/rushing/rushing.webp"
       },{
         "title": "Self-Worth",
         "excerpt":"Self-Worth is something I have struggled with my entire life, I guess it’s like somewhat due to my personality flaws and how due to these flaws’ others don’t accept me as much because I kind of like think it’s right to put myself down in some way because of lack...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/self-worth/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/worthy/worthy.jpeg"
       },{
         "title": "Patronizing Others",
         "excerpt":"I realized that one thing that has caused me suffering, and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviours which condescend them in some way. But it’s also about thinking that you can get...","categories": ["Spiritual"],

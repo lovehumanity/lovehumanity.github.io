@@ -8,6 +8,8 @@ header:
   teaser: "/assets/blogs/2021-06-11-Being-Ordinary/image.jpg"
 ---
 
+![Ordinary]({{ site.url }}{{ site.baseurl }}/assets/blogs/2021-06-11-Being-Ordinary/image.jpg)
+
 In this short post I will talk a little on being ordinary, or in other words 'not being special'
 
 The irony of this problem is that most people want to be special in someway, whether that be trying to be a master at their subject, buying clothes that make them feel special, everyone has their own subtle ways to trying to be speical. But if everyone wants to be special then how can anyone be special? Therefore, to be special you need to want to not be special and instead aim to be ordinary. Its quite the paradox. As the Tao Te Ching says "Do not wish to be shiny like jade, be dull like rocks"
