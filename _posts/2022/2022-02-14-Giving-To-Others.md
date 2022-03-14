@@ -38,7 +38,7 @@ Related Articles:
 [Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})\\
 [Judgement]({% post_url 2021-12-30-Judgement %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
-[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})
+[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})\\
 [Taking the Saw Dust Out of Your Own Eyes]({% post_url 2022-01-04-Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes %})\\
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
