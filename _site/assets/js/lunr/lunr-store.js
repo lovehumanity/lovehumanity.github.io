@@ -18,7 +18,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/2020-11-03-Creating-a-free-blog/blog.jpeg"
       },{
         "title": "Managing Your Time and Energy",
-        "excerpt":"The first thing I should make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are people...","categories": ["Spiritual","Self-Improvement"],
+        "excerpt":"The first thing I want to make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are...","categories": ["Spiritual","Self-Improvement"],
         "tags": [],
         "url": "http://localhost:4000/managing-your-time-and-energy/",
         "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
@@ -460,4 +460,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/selfishness/",
         "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
+      },{
+        "title": "What Others Think of You",
+        "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
+        "tags": ["true to yourself"],
+        "url": "http://localhost:4000/what-others-think-of-you/",
+        "teaser": "http://localhost:4000/assets/blogs/think/think.png"
       }]
