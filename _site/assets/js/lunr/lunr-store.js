@@ -461,6 +461,12 @@ var store = [{
         "url": "http://localhost:4000/selfishness/",
         "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
       },{
+        "title": "Right Concentration",
+        "excerpt":"In this short article I will be talking about Right Concentration. Which is one element of the eightfold path and one which I think if mastered will be very beneficial to all. The first part in understanding right concentration or any element of the eightfold path is to understand why...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Right Concentration","Noble EightFoldPath","Noble Four Truths"],
+        "url": "http://localhost:4000/right-concentration/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
         "title": "What Others Think of You",
         "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
         "tags": ["true to yourself"],
