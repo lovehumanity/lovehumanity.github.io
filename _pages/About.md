@@ -25,7 +25,7 @@ I have suffered from mental health in my life and to those who do suffer from me
 
 This blog was declared Saint Christopher's Blog on on the day I posted my article on being authentic and true to yourself on 08/03/22. 
 
-This is my blog which I used as a tool for my personal development and my own spiritual journey and to help others along the way in their journeys.. I live in the UK currently with my parents and am planning on moving out very soon. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and github/gitlab and I encourage all who read this blog to start their own for their own spiritual journey and their own development. 
+This is my blog which I use as a tool for my personal development and my own spiritual journey and to help others along the way in their journeys... I live in the UK currently with my parents and am planning on moving out very soon. If you disagree with any of the articles or want to get in touch feel free to send me an email with your thoughts chrisisamazing@protonmail.com .This blog is hosted completely free using jeykll minimal mistakes theme and github/gitlab and I encourage all who read this blog to start their own for their own spiritual journey and their own development. 
 
 In this Blog You'll find articles on the following topics:
 
