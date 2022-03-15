@@ -86,6 +86,16 @@ I find that all subjects are linked together. Really it comes down to how you de
 "The greatest warrior is the one that wins without fighting" ~ Lao Tzu\\
 "The greatest teacher failure is" ~ Yoda
 
+# The Great White Brotherhood
+
+I work alongside a group of humans who live in the heavenly spheres working englessly to assist mankind incarnate unlock the mysteries of life. Their name was given when the words had different meanings than what they have today. Great implying a large collection. White implying purity of soul and ambition. Brotherhood implying a group joining together with one aim. I also want to make very clear before you click of this blog that they are **NOT** a white supremacy group. I repeat again they are **NOT** a white supremacy group. A lot of my articles have had a lot of inspiration from their teachings. You can find their teachings where they spread spiritual messages to mankind here;
+
+https://thegreatwhitebrotherhood.org/\\
+https://www.thestairwaytofreedom.org/
+https://www.youtube.com/c/BobSanders\\
+
+I recommend reading their first book the Stairway To Freedom (completely free as are all there books) has been an amazing resource for me in my spiritual journey in life and I hope that you who read this can get a lot of benefit from reading of their teachings.
+
 ## How this blog is hosted Completely Free :heavy_dollar_sign:
 
 This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/) which allows me to host this blog completely free. I chose gitlab to host this blog because gitlab is [more open source](https://gitlab.com/gitlab-org/gitlab) than github which is completely [closed sourced](https://stackoverflow.com/questions/24254324/is-github-com-source-code-open-source). Personally I find it quite ironic that a website that hosts so much open source code isn't itself open source, it's a bit like writing a book on the importance of giving to others, and yet turning a profit for said book. 
