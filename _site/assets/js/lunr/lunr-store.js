@@ -479,6 +479,12 @@ var store = [{
         "url": "http://localhost:4000/what-others-think-of-you/",
         "teaser": "http://localhost:4000/assets/blogs/think/think.png"
       },{
+        "title": "Stop Using Social Media",
+        "excerpt":"In this short article I will be talking about why you should limit the time that you spend on social media platforms. Now in general most people need to admit to themselves that social media doesn’t really bring much benefit to them in their lives. Social media companies have designed...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-using-social-media/",
+        "teaser": "http://localhost:4000/assets/blogs/social/social.jpg"
+      },{
         "title": "Stop Watching the News",
         "excerpt":"The news is something which I think only brainwashes the general public and is propaganda. Try finding an old news article and you will be hard find to find an article from three months ago on their own website and this really is how the news thrives by constantly filling...","categories": ["Spiritual"],
         "tags": [],
