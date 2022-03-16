@@ -479,6 +479,12 @@ var store = [{
         "url": "http://localhost:4000/what-others-think-of-you/",
         "teaser": "http://localhost:4000/assets/blogs/think/think.png"
       },{
+        "title": "Forgiveness",
+        "excerpt":"In this article I will be talking about forgiveness and forgiving someone that does wrong by you. First and foremost, forgiveness is a process and forgiveness brings a lot of atonement to your soul and helps to raise you. Firstly, let me just say that you shouldn’t keep forgiving someone...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/forgiveness/",
+        "teaser": null
+      },{
         "title": "Stop Using Social Media",
         "excerpt":"In this short article I will be talking about why you should limit the time that you spend on social media platforms. Now in general most people need to admit to themselves that social media doesn’t really bring much benefit to them in their lives. Social media companies have designed...","categories": ["Spiritual"],
         "tags": [],
