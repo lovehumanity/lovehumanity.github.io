@@ -1,6 +1,6 @@
 ---
 title: "Stop Watching the News"
-date: 2022-03-15
+date: 2022-03-16
 classes: wide
 categories:
   - Spiritual 
