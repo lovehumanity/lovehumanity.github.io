@@ -47,24 +47,3 @@ Feel free to give my other articles a read which may help you with giving yourse
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})
-
-
-Further Reading:
-
-<https://www.pulse.ng/communities/religion/pulse-list-5-times-jesus-showed-human-emotions-in-the-bible/qnfrn9c>\\
-<https://www.soulshepherding.org/how-to-feel-your-emotions-with-jesus/>\\
-<https://www.biblword.net/did-jesus-experience-all-emotions>\\
-<https://www.ctsnet.edu/at-this-point/emotions-faith-perplexing-relationship-feel-believe/>\\
-<https://plato.stanford.edu/entries/emotion-Christian-tradition/>\\
-<https://www.christianitytoday.com/ct/1997/february3/7t2042.html>\\
-<https://www.ligonier.org/learn/articles/dont-pursue-feelings-pursue-christ>\\
-<https://www.christiancourier.com/articles/20-the-emotions-of-jesus>\\
-<https://www.thegospelcoalition.org/article/emotions-important/>\\
-<https://www.crossway.org/articles/how-to-embrace-your-emotions-without-being-ruled-by-them/>\\
-<https://www.desiringgod.org/articles/your-emotions-are-a-gauge-not-a-guide>\\
-<https://www.biblestudytools.com/bible-study/topical-studies/what-does-the-bible-say-about-emotions.html>\\
-<https://greatergood.berkeley.edu/topic/compassion/definition>\\
-<https://www.mindful.org/how-to-be-more-compassionate-a-mindful-guide-to-compassion/>\\
-<https://self-compassion.org/>\\
-<https://en.wiktionary.org/wiki/compassion>\\
-<https://www.psychologicalscience.org/observer/the-compassionate-mind>
