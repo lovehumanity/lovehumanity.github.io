@@ -16,7 +16,7 @@ header:
 
 ![Eightfoldpath]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/eightfold-path.jpg)
 
-In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in our society seem to believe that they are their minds, this is just untrue. We also have a society in which the monkey minds as Buddhists put it so eloquently in that our minds are on autopilot and often people don’t have much control over their minds because there are so many people who don’t bother to take up things like meditation which help them to come out of their monkey mind.
+In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which would say I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in our society seem to believe that they are their minds, this is just untrue. We also have a society in which the monkey minds as Buddhists put it so eloquently in that our minds are on autopilot and often people don’t have much control over their minds because there are so many people who don’t bother to take up things like meditation which help them to come out of their monkey mind.
 
 Another key aspect of mastering right mindfulness is you need to meditate because its only after much meditation that you are able to stop allowing your mind to run rampant or lessen the impact of the monkey mind. Feel free to give my article on meditation on the way in which I have been meditating for about 4 years now which you can find on this blog. It took me a long time of meditation to actually achieve right mindfulness, so please don’t be deterred if you are not able to achieve right mindfulness in a few weeks of meditation – it takes a long time in meditation to recognize why listening to our minds all the time cause suffering and a long time in meditation to be able to not allow your monkey mind to dominate your life as I have seen so many people have in their lives – which is unfortunate. 
 
@@ -34,5 +34,6 @@ Related Articles:
 [Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
 [The First Noble Truth]({% post_url 2022-03-02-The-First-Noble-Truth %})\\
 [The Second Noble Truth]({% post_url 2022-03-03-The-Second-Noble-Truth %})\\
-[The Third Noble Truth]({% post_url 2022-03-06-The-Third-Noble-Truth %})
+[The Third Noble Truth]({% post_url 2022-03-06-The-Third-Noble-Truth %})\\
+[Right Concentration]({% post_url 2022-03-15-Right-Concentration %})
 
