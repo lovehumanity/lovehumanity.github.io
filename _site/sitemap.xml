@@ -313,7 +313,15 @@
 <lastmod>2022-03-15T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/veganism/</loc>
+<lastmod>2022-03-15T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/what-others-think-of-you/</loc>
+<lastmod>2022-03-15T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/stop-watching-the-news/</loc>
 <lastmod>2022-03-15T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -363,6 +371,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page8/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page9/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/essays/2010-dobelli.pdf</loc>

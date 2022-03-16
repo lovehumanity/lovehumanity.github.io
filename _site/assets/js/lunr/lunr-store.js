@@ -432,7 +432,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/anger/anger1.png"
       },{
         "title": "Right Mindfulness",
-        "excerpt":"In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in our society...","categories": ["Spiritual","Buddhism"],
+        "excerpt":"In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which would say I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in...","categories": ["Spiritual","Buddhism"],
         "tags": ["Right Mindfulness","God","Eightfoldpath","Suffering"],
         "url": "http://localhost:4000/right-mindfulness/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
@@ -467,9 +467,21 @@ var store = [{
         "url": "http://localhost:4000/right-concentration/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
+        "title": "Veganism",
+        "excerpt":"First, I encourage all those on the spiritual path to become vegetarian/vegan and see it as an act of obedience towards God. The reason why you should consider diet as important is because what you put inside your body has an effect on your wellbeing. When you eat only junk...","categories": ["Spiritual"],
+        "tags": ["Vegan"],
+        "url": "http://localhost:4000/veganism/",
+        "teaser": null
+      },{
         "title": "What Others Think of You",
         "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
         "tags": ["true to yourself"],
         "url": "http://localhost:4000/what-others-think-of-you/",
         "teaser": "http://localhost:4000/assets/blogs/think/think.png"
+      },{
+        "title": "Stop Watching the News",
+        "excerpt":"The news is something which I think only brainwashes the general public and is propaganda. Try finding an old news article and you will be hard find to find an article from three months ago on their own website and this really is how the news thrives by constantly filling...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-watching-the-news/",
+        "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
       }]
