@@ -22,6 +22,10 @@ Furthermore, social media companies don’t have humanities best interests at he
 
 In conclusion, social media companies affect societies mental health, hurt our democracy, and do a lot of harm to the world and its only until we as individuals stop giving way to the temptation to constantly look at our phones every 5 minutes to look at Facebook, Instagram, Snapchat, YouTube etc that we can begin to lessen the impact of the harm that these social media companies bring to the world. We as individuals should and need to take to things like meditation, prayer, and genuine service to God because it will bring a lot of benefit to the world and will further the power of God on earth. But if you feel that this is too much for you, then at the very least limit the time that you spend on social media, which will help your own mental health and wellbeing.
 
+Update 1: 17/03/22
+
+I also wanted to just add that, I am not telling you or forcing you to stop using social media regardless of the title. Its just I believe that our society needs to consider what they consume on a daily basis because its wrong in my eyes to spend all day on social media mindlessly consuming content. So really its moreso about the content in which you consume which is of importance.
+
 Related Articles:
 
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
