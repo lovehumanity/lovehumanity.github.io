@@ -496,4 +496,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/stop-watching-the-news/",
         "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
+      },{
+        "title": "Stop Watching Porn",
+        "excerpt":"In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-watching-porn/",
+        "teaser": null
       }]

@@ -10,6 +10,8 @@ main:
      url: /categories
    - title: "Important Articles"
      url: /Important
+   - title: "The Great White Brotherhood"
+     url: /TheGreatWhiteBrotherhood
      # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/
