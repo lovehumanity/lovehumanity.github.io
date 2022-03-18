@@ -24,6 +24,8 @@ Some examples of seeing wrongdoing may be when someone lies to you, when someone
 
 Some examples of good that you can do in the world is donating to charities, giving to others (and you can refer to my article on this topic), serving God through your job, helping others in some way through things like Forums etc.
 
+Of course this principal shouldn't be taken to an extreme, but just taken in balance and go by what you feel is right while being true to yourself.
+
 Related Articles:
 
 [When Someone Does Wrong By You]({% post_url 2022-03-12-When-Someone-Does-Wrong-by-You %})
