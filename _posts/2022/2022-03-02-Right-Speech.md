@@ -39,3 +39,11 @@ In conclusion, right speech is not lying to others, having good conversations wi
 Update 1: 08/03/22
 
 Right Speech is also about having conversations when appropriate and meaning in what you say i.e saying something and then having an ulterior motive because this brings suffuring. 
+
+Update 2: 18/03/22
+
+What is really important about Right Speech is to ensure that you understand why not having right speech causes you suffering. I recommend that you read this amazing resource on Right Speech that I got from /r/buddhism on Reddit.
+
+<https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-vaca/index.html>
+
+This has helped me to really understand that I have given way to divisive speech a lot in my life, which others can and do pick up on and really its just immature to have this kind of speech and really plays into how I still haven't quite mastered right intention yet, but I feel I need to work on right speech because it does cause me suffering and causes many suffering. I guess this article wasn't and isn't a bad start to understanding what right speech really looks like, but the Buddha in that article I linked there I think did a better job at explaining it than I did.

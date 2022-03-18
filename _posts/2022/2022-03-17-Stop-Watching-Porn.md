@@ -4,7 +4,11 @@ date: 2022-03-17
 classes: wide
 categories:
   - Spiritual
+header:
+  teaser: /assets/blogs/porn/porn.jpg
 ---
+
+![Porn]({{ site.url }}{{ site.baseurl }}/assets/blogs/porn/porn.jpg)
 
 In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on daily basis and I think it should be brought to the forefront because its extremely wrong the kinds of porn that the industry promotes and the effect that this has on young people to this day and the effect that it has had on people’s lives, especially young people.
 

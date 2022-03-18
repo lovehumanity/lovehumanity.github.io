@@ -4,7 +4,11 @@ date: 2022-03-16
 classes: wide
 categories:
   - Spiritual 
+header: 
+  teaser: /assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg
 ---
+
+![think]({{ site.url }}{{ site.baseurl }}/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg)
 
 In this article I will be talking about forgiveness and forgiving someone that does wrong by you. First and foremost, forgiveness is a process and forgiveness brings a lot of atonement to your soul and helps to raise you. 
 

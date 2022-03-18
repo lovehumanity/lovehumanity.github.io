@@ -471,7 +471,7 @@ var store = [{
         "excerpt":"First, I encourage all those on the spiritual path to become vegetarian/vegan and see it as an act of obedience towards God. The reason why you should consider diet as important is because what you put inside your body has an effect on your wellbeing. When you eat only junk...","categories": ["Spiritual"],
         "tags": ["Vegan"],
         "url": "http://localhost:4000/veganism/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/vegan/vegan.webp"
       },{
         "title": "What Others Think of You",
         "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
@@ -483,7 +483,7 @@ var store = [{
         "excerpt":"In this article I will be talking about forgiveness and forgiving someone that does wrong by you. First and foremost, forgiveness is a process and forgiveness brings a lot of atonement to your soul and helps to raise you. Firstly, let me just say that you shouldn’t keep forgiving someone...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/forgiveness/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
       },{
         "title": "Stop Using Social Media",
         "excerpt":"In this short article I will be talking about why you should limit the time that you spend on social media platforms. Now in general most people need to admit to themselves that social media doesn’t really bring much benefit to them in their lives. Social media companies have designed...","categories": ["Spiritual"],
@@ -501,5 +501,5 @@ var store = [{
         "excerpt":"In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/stop-watching-porn/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/blogs/porn/porn.jpg"
       }]
