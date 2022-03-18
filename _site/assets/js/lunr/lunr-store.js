@@ -502,4 +502,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/stop-watching-porn/",
         "teaser": "http://localhost:4000/assets/blogs/porn/porn.jpg"
+      },{
+        "title": "When You See Wrong do Two Goods Elsewhere",
+        "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
+        "tags": ["God"],
+        "url": "http://localhost:4000/when-you-see-wrong-do-two-goods-elsewhere/",
+        "teaser": "http://localhost:4000/assets/blogs/chariy/charity.jpeg"
       }]
