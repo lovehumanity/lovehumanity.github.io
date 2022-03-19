@@ -1,5 +1,5 @@
 ---
-title: "Misconceptions of Buddhism"
+title: "Misconceptions on Buddhism"
 date: 2022-03-19
 classes: wide
 categories:

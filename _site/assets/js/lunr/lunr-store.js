@@ -515,9 +515,9 @@ var store = [{
         "url": "http://localhost:4000/devotion-to-god/",
         "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
       },{
-        "title": "Misconceptions of Buddhism",
-        "excerpt":"In this article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism. Firstly, people generally tend to think as Buddhism as a religion – which I personally don’t think that it is because it doesn’t say if it does...","categories": ["Buddhism"],
+        "title": "Misconceptions on Buddhism",
+        "excerpt":"In this short article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism. The general opinion or first thing that comes to mind when people hear of Buddhism is monks, bald heads, sexual abstinence, life of monastery etc. This...","categories": ["Buddhism"],
         "tags": [],
-        "url": "http://localhost:4000/misconceptions-of-buddhism/",
+        "url": "http://localhost:4000/misconceptions-on-buddhism/",
         "teaser": "http://localhost:4000/assets/blogs/monk/monk.jpeg"
       }]
