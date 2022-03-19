@@ -514,4 +514,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/devotion-to-god/",
         "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
+      },{
+        "title": "Misconceptions of Buddhism",
+        "excerpt":"In this article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism. Firstly, people generally tend to think as Buddhism as a religion – which I personally don’t think that it is because it doesn’t say if it does...","categories": ["Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/misconceptions-of-buddhism/",
+        "teaser": "http://localhost:4000/assets/blogs/monk/monk.jpeg"
       }]

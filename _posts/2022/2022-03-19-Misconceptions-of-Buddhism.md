@@ -5,8 +5,10 @@ classes: wide
 categories:
   - Buddhism
 header: 
-  teaser: /assets/blogs/god/god.jpeg
+  teaser: /assets/blogs/monk/monk.jpeg
 ---
+
+![monk]({{ site.url }}{{ site.baseurl }}/assets/blogs/monk/monk.jpeg)
 
 In this article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism.
 
