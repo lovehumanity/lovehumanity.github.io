@@ -10,9 +10,7 @@ header:
 
 ![monk]({{ site.url }}{{ site.baseurl }}/assets/blogs/monk/monk.jpeg)
 
-In this article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism.
-
-Firstly, people generally tend to think as Buddhism as a religion – which I personally don’t think that it is because it doesn’t say if it does or does not believe in a God and which I think makes it more of a theology. But I guess to me Buddhism is more so a way of living that anything else. My apologies if I do upset some practising Buddhists with this statement, but please don't take offense to it.
+In this short article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism.
 
 The general opinion or first thing that comes to mind when people hear of Buddhism is monks, bald heads, sexual abstinence, life of monastery etc. This then in my eyes deters people from actually looking more into Buddhism and following Buddhism. Which I think is a real shame because it is very wise teachings from a master of this world.
 
