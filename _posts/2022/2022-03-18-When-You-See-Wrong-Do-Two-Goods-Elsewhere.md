@@ -7,7 +7,7 @@ categories:
 tag:
   - God
 header: 
-  teaser: /assets/blogs/chariy/charity.jpeg
+  teaser: /assets/blogs/charity/charity.jpeg
 ---
 
 ![Charity]({{ site.url }}{{ site.baseurl }}/assets/blogs/charity/charity.jpeg)

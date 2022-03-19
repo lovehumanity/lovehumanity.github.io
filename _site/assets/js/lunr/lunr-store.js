@@ -507,5 +507,11 @@ var store = [{
         "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
         "tags": ["God"],
         "url": "http://localhost:4000/when-you-see-wrong-do-two-goods-elsewhere/",
-        "teaser": "http://localhost:4000/assets/blogs/chariy/charity.jpeg"
+        "teaser": "http://localhost:4000/assets/blogs/charity/charity.jpeg"
+      },{
+        "title": "Devotion to God",
+        "excerpt":"I used this image as a representation of God, but I am sorry if I offend anyone here, but God is not a man - he is a force and his power is granted through sincere meditation, prayer and service to him. In this short article I will write why...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/devotion-to-god/",
+        "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
       }]
