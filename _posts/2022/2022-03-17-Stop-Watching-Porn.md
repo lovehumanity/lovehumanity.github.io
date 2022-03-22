@@ -28,6 +28,12 @@ Update 1: 17/03/22
 
 Lastly I just wanted to add I'm not telling you to stop watching porn regardless of the title and the tone of the article, its just I wanted to encourage people to listen to my advice and spend more time considering exactly what they are watching and how it is very sinful.
 
+Update 2: 22/03/22
+
+A really amazing documentary about how Porn destroyes lives. 
+
+<https://www.youtube.com/watch?v=hzPylqS01qU>
+
 Related Articles:
 
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
