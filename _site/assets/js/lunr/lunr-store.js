@@ -520,4 +520,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/misconceptions-on-buddhism/",
         "teaser": "http://localhost:4000/assets/blogs/monk/monk.jpeg"
+      },{
+        "title": "The Golden Rule",
+        "excerpt":"In this article I will talk about the golden rule, which is a principal that all who follow the path of spirituality and freedom should adhere to as best as they can. The golden rule as set out by Jesus was that you should treat others how you yourself would...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/the-golden-rule/",
+        "teaser": null
       }]
