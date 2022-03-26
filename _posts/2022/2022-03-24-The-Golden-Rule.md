@@ -4,7 +4,11 @@ date: 2022-03-24
 classes: wide
 categories:
   - Spiritual 
+header:
+  teaser: /assets/blogs/golden/golden.png
 ---
+
+![anger]({{ site.url }}{{ site.baseurl }}/assets/blogs/golden/golden.png)
 
 In this article I will talk about the golden rule, which is a principal that all who follow the path of spirituality and freedom should adhere to as best as they can. The golden rule as set out by Jesus was that you should treat others how you yourself would like to be treated. In an ideal world people would be loving, kind, generous, peaceful etc. and so following the golden rule is really important in doing that.
 
