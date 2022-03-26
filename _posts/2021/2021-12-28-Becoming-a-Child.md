@@ -38,3 +38,14 @@ I also just wanted to add here that in life you never stop learning and growing 
 
 If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
 
+Related Articles:
+
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})\\
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\

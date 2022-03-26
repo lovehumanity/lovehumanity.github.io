@@ -25,3 +25,16 @@ Furthermore, I will talk about when you do wrong to yourself – which is for me
 For me it’s been difficulty because I haven’t been very kind towards myself or as loving as I should have been and so have all these terrible habits and behaviors which just betray me, and the world and it has made me very upset inside and annoyed and frustrated at myself for all the times I’ve betrayed myself. But I should appreciate that it simply isn’t my fault, and I am blameless in the things I’ve done to myself and the times I’ve hurt others at my own expense because I just betray myself and the world. 
 
 In conclusion, the hardest part about understanding => loving => forgiving => turning the other cheek, is turning the other cheek. This is the hardest part because people just want others to blame for their own suffering and their own egos with things like pride, arrogance, selfishness sometimes evilness can get in the way a lot of time in following this process. But it’s important to consider that what one human is capable of we are all capable of – even someone like Jesus who can perform miracles and even the most abject sinners in the world. What one human is capable of we are all capable of. Therefore, it’s important to realize and accept that you are not better than anyone else because you don’t give way to evil or lustful thoughts or are better than others because you yourself don’t commit the same sins, or better than others for your own advancements. You should accept that what one human is capable of we are all capable of nobody how noble that person is or how much of a sinner that person is we are all equal under the eyes of God because we are all human end of the day, even extraterrestrials…
+
+Related Articles:
+
+[Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
+[Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
+[Meditation]({% post_url 2022-02-19-Meditation %})\\
+[Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
+[Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\
+[Know your Limits]({% post_url 2021-06-08-Know-Your-Limits %})\\
+[Judgement]({% post_url 2021-12-30-Judgement %})\\
+
