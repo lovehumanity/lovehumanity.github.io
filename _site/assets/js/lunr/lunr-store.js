@@ -1,10 +1,4 @@
 var store = [{
-        "title": "Make your Browsing Experience Better",
-        "excerpt":"The current state of internet browsing isn’t great. If you can get past the reCAPTCHA where Google forces users to help their algorthm for their own gain without clearly indicating it, get past the incessant and disruptive pop ups asking you to accept the websites Cookie Policy and get past...","categories": ["Web Browsing"],
-        "tags": [],
-        "url": "http://localhost:4000/make-your-browsing-experience-better/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-09-10-make-your-browsing-experience-better/browsers.png"
-      },{
         "title": "Books That Have Changed My Life",
         "excerpt":"In this post I will talk about the books which have has the biggest impact on my life so far. I am young in my 20s as I write this, and I have gone through some hardship in my life. Life hasn’t been a walk in the park for me...","categories": ["Self-Improvement","Books"],
         "tags": [],
@@ -101,12 +95,6 @@ var store = [{
         "url": "http://localhost:4000/motives/",
         "teaser": "http://localhost:4000/assets/blogs/2021-02-21-Motives/motives.jpg"
       },{
-        "title": "Self-Love",
-        "excerpt":"As promised in one of my other article I have written an article on self-love. Love for yourself is something that many struggle with including myself. There are also degrees of self love you can have for yourself, too much can lead to pushing others away, too little can lead...","categories": ["Wellbeing","Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/self-love/",
-        "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
-      },{
         "title": "Being Present",
         "excerpt":"Here I will discuss being present, which just means that you are more focused on the moment right now. A lot of people generally tend to drift their thoughts and ideas either to the past and future and neglect the only real thing they have control over - the present....","categories": ["Spiritual"],
         "tags": ["Spiritual","Presense","Now","Wellbeing","Love","Healing","I AM","Jesus","Christianity"],
@@ -124,12 +112,6 @@ var store = [{
         "tags": ["Less","Minimalism","Consumerism","Efficiency","Light","Captialism"],
         "url": "http://localhost:4000/less-is-more/",
         "teaser": "http://localhost:4000/assets/blogs/2021-03-03-less-is-more/less.jpg"
-      },{
-        "title": "Remove ads from your life",
-        "excerpt":"In this short post I will lay out some things you can do to remove ads from your life. This post is in no way definitive and only a few ways will be explored. I am very much against ads hence why I’m making this post. Install an ad-blocker in...","categories": ["advertisement"],
-        "tags": ["Ads","Capitalism","Consumerism"],
-        "url": "http://localhost:4000/remove-ads-from-your-life/",
-        "teaser": "http://localhost:4000/assets/blogs/2021-03-23-ads/ads.png"
       },{
         "title": "Know Your Limits",
         "excerpt":"In this short post I will talk a little bit about limits. Everyone has their limits. By limits I mean how much a person can tolerate before they have a mental breakdown of some sort. Limits take the form of emotional limits, mental limits, stress limits etc. What I think...","categories": ["Wellbeing"],
@@ -515,15 +497,15 @@ var store = [{
         "url": "http://localhost:4000/devotion-to-god/",
         "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
       },{
-        "title": "Misconceptions on Buddhism",
-        "excerpt":"In this short article I will talk a little bit about perceptions in Buddhism and how this has deterred people from actually following Buddhism. The general opinion or first thing that comes to mind when people hear of Buddhism is monks, bald heads, sexual abstinence, life of monastery etc. This...","categories": ["Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/misconceptions-on-buddhism/",
-        "teaser": "http://localhost:4000/assets/blogs/monk/monk.jpeg"
-      },{
         "title": "The Golden Rule",
         "excerpt":"In this article I will talk about the golden rule, which is a principal that all who follow the path of spirituality and freedom should adhere to as best as they can. The golden rule as set out by Jesus was that you should treat others how you yourself would...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/the-golden-rule/",
         "teaser": "http://localhost:4000/assets/blogs/golden/golden.png"
+      },{
+        "title": "The First Aggregate",
+        "excerpt":"In this short article I will talk a little bit about the first aggregate of the five aggregates in Buddhism. If you don’t know the Buddha taught that there is no self and that what you view as yourself just isn’t so and is in reality an illusion. I will...","categories": ["Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-first-aggregate/",
+        "teaser": null
       }]
