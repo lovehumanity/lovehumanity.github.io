@@ -16,7 +16,9 @@ Understanding is a gift of the spirit and through meditation, prayer and service
 
 Also, its about others because when others don’t feel understood by others then they feel alone in this world and feel that others judge them and look down upon them and the world should be a much better place to live on especially if we have more people who are understanding towards one another.
 
-Lastly the key thing with any and all Christ like emotions is to have no ill will towards the person when practicing any Christ like emotion, but Christ like emotions can become more developed within the individual through meditation, prayer, and service to fellow man, do feel free to look at my articles on these topics.
+Lastly the key thing with any and all Christ like emotions is to have no ill will towards the person when practicing any Christ like emotion, but Christ like emotions can become more developed within the individual through meditation, prayer, and service to fellow man, do feel free to look at my articles on these topics. 
+
+As a last note any desire at all with giving any christ like emotion and the "magic" will not work. There has to be no desire, no intent of ill will and you should purely be doing it for the other person's best interest.
 
 Related Articles:
 
