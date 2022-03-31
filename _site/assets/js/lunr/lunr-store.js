@@ -514,4 +514,10 @@ var store = [{
         "tags": ["Noble EightFoldPath","Noble Four Truths"],
         "url": "http://localhost:4000/the-eightfold-path/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
+        "title": "Understanding",
+        "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, understanding comes on a deep level in the sense that it is in part a gift of the spirit and is something which...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/understanding/",
+        "teaser": null
       }]
