@@ -508,4 +508,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-first-aggregate/",
         "teaser": null
+      },{
+        "title": "The Noble Eightfold Path",
+        "excerpt":"In this short article I will layout my understandings of the eightfold path, giving you some advice on how to come out of dukka or as is quite commonly referred to as suffering and how it will help lead you out of dukka which I will leave untranslated and it...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Noble EightFoldPath","Noble Four Truths"],
+        "url": "http://localhost:4000/the-eightfold-path/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       }]
