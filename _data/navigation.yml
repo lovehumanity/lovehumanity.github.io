@@ -2,10 +2,10 @@
 main:
    - title: "Posts"
      url: /year-archive
-   - title: "Categories"
-     url: /categories
    - title: "Important Articles"
      url: /Important
+   - title: "Categories"
+     url: /categories
    - title: "The Great White Brotherhood"
      url: /TheGreatWhiteBrotherhood
  # url: /Donate
