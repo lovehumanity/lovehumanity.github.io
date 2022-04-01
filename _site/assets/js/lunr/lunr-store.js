@@ -509,12 +509,6 @@ var store = [{
         "url": "http://localhost:4000/the-first-aggregate/",
         "teaser": null
       },{
-        "title": "The Noble Eightfold Path",
-        "excerpt":"In this short article I will layout my understandings of the eightfold path, giving you some advice on how to come out of dukka or as is quite commonly referred to as suffering and how it will help lead you out of dukka which I will leave untranslated and it...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Noble EightFoldPath","Noble Four Truths"],
-        "url": "http://localhost:4000/the-eightfold-path/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
         "title": "Understanding",
         "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, understanding comes on a deep level in the sense that it is in part a gift of the spirit and is something which...","categories": ["Spiritual"],
         "tags": [],
