@@ -21,5 +21,7 @@ I did have a buymeacoffee link, however this didn't work when a relative tried t
 
 Below is my Patreon page. You will however need to create an account to be able to donate to me. 
 
+Please whatever you do, DO NOT DONATE ME LARGE SUMS OF MONEY, I only need enough to sustain this blog. 
+
 <https://www.patreon.com/stchristopher>
 
