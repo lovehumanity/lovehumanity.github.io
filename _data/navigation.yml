@@ -2,16 +2,15 @@
 main:
    - title: "Posts"
      url: /year-archive
-   - title: "About"
-     url: /About
+   - title: "Donate"
+     url: /Donate
    - title: "Categories"
      url: /categories
    - title: "Important Articles"
      url: /Important
    - title: "The Great White Brotherhood"
      url: /TheGreatWhiteBrotherhood
-   - title: "Donate"
-     url: /Donate
+
  # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/

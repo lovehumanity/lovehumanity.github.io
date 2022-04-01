@@ -19,7 +19,7 @@ All donations will first and foremost be going into supporting this blog. So I a
 
 I did have a buymeacoffee link, however this didn't work when a relative tried to donate to it so I have replaced it with a patreon link.
 
-Below is my Patreon page 
+Below is my Patreon page. You will however need to create an account to be able to donate to me. 
 
 <https://www.patreon.com/stchristopher>
 
