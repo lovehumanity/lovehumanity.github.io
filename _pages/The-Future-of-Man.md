@@ -5,7 +5,7 @@ permalink: /TheFutureOfMan/
 classes: wide
 ---
 
-The following message is a message for all of mankind sent from the group that I work with known as The Great White Brotherhood. Spread this message as and where you are able to.
+The following message is a message for all of mankind sent from the group that I work with known as The Great White Brotherhood. Spread this message as and where you are able to. But be warned; you are others are not suppose to know of this, so be careful who you spread this message to.
 
 Link to the original message is here:
 
