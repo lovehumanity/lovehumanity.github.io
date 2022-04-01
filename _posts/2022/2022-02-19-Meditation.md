@@ -38,7 +38,7 @@ Secondly you should say a short prayer thanking God for his protection and thank
 
 Thirdly you should visualise yourself using your hands placing a cocoon over yourself. 
 
-After you do these things then you should sit quietly ideally in a chair or a place of your choosing and then try to clear yourself of your thoughts as best as you can for about 15 minutes. Consistency is key with anything in life as with meditation, so you shouldn't over exert yourself and spend longer in meditation than you need to.
+After you do these things then you should sit quietly ideally in a chair or a place of your choosing and then try to clear yourself of your thoughts as best as you can and try to think of nothing for about 15 minutes. Consistency is key with anything in life as with meditation, so you shouldn't over exert yourself and spend longer in meditation than you need to.
 
 After you have finished 15 minutes of meditation, then you should send this energy which you have received from God out to the world - just imagine yourself sending out this energy is all you need do. Then thank Gods angels and your guides for watching over you and then imagine yourself lowering this cocoon that you had placed over you.
 
@@ -56,6 +56,3 @@ Related Articles:
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})\\
 [Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
-
-If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
-
