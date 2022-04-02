@@ -21,7 +21,7 @@ I did have a buymeacoffee link, however this didn't work when a relative tried t
 
 Below is my Patreon page. You will however need to create an account to be able to donate to me. 
 
-Please whatever you do, DO NOT DONATE ME LARGE SUMS OF MONEY, I only need enough to sustain this blog's advertisement and I will release the numbers on the total amount I spend on ads each month at the end of each month, I currently advertise on Twitter, Facebook, Google, Reddit and any extra I intend on donating to noble causes. 
+Please whatever you do, DO NOT DONATE ME LARGE SUMS OF MONEY, I only need enough to sustain this blog's advertisement which is around £5,000 a month as of the end of last month and I will release the numbers on the total amount I spend on ads each month at the end of each month, I currently advertise on Twitter, Facebook, Google, Reddit and any extra I intend on donating to noble causes. 
 
 <https://www.patreon.com/stchristopher>
 
