@@ -514,4 +514,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/understanding/",
         "teaser": null
+      },{
+        "title": "Realities",
+        "excerpt":"In this short article I will be talking a little bit about illusions. The vast majority of the public are under some kind of illusion, it’s only those extremely enlightened that you could argue are not under a very big illusion. We all live in an illusion but its really...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/realities/",
+        "teaser": null
       }]
