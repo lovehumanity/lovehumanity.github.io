@@ -28,17 +28,3 @@ Related Articles:
 [Self-Worth]({% post_url 2022-01-18-Self-Worth %})\\
 [Patronizing Others]({% post_url 2022-01-19-Patronizing-Others %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
-
-
-Further Reading:
-
-<https://mike-robbins.com/who-are-you-trying-to-impress/>\\
-<https://neostrategy.in/lesson-two-why-do-we-try-to-impress-others/>\\
-<https://thoughtcatalog.com/rachel-fenimore/2017/09/i-finally-stopped-trying-to-impress-everyone-and-am-happier-than-ever-before/>\\
-<https://thriveglobal.com/stories/why-we-should-stop-trying-to-impress-others/>\\
-<https://medium.com/@michaelchidozie/things-are-not-the-way-they-always-seem-dont-fall-for-the-snare-6c0512f84c46>\\
-<https://www.quora.com/How-do-I-stop-myself-from-always-trying-to-impress-others>\\
-<https://www.psychologytoday.com/gb/blog/how-should-we-live/201303/who-are-you-trying-impress>\\
-<https://www.lifehack.org/526961/yourself-instead-trying-impress-others-people-will-judge-you-anyway>\\
-<https://www.morninglazziness.com/life/reasons-why-you-stop-trying-to-impress-other/>\\
-<https://www.scotthyoung.com/blog/2008/06/24/stop-trying-to-impress-people/>

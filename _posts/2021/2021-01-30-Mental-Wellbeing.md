@@ -63,12 +63,3 @@ Update 1: 08/03/22
 [Judgement]({% post_url 2021-12-30-Judgement %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
 
-
-Further Reading:
-
-<https://www.nhsinform.scot/healthy-living/mental-wellbeing>\\
-<https://www.who.int/news-room/feature-stories/mental-well-being-resources-for-the-public>\\
-<https://www.wm.edu/offices/wellness/about/eight-dimensions/index.php>\\
-<https://www.samhealth.org/about-samaritan/good-life/why-8-aspects-of-wellness>\\
-<https://nationalwellness.org/resources/six-dimensions-of-wellness/>\\
-

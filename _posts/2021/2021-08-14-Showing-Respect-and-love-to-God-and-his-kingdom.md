@@ -48,5 +48,3 @@ Feel free to give my other articles a read which will help to further the power 
 [Judgement]({% post_url 2021-12-30-Judgement %})\\
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})
 
-If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
-

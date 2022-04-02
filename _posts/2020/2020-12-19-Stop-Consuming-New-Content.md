@@ -22,17 +22,5 @@ My general advice is to stop consuming content that is new because it is new and
 
 Conclusively ***STOP CONSUMING CONTENT BECAUSE IT'S NEW*** and be more ***SELECTIVE OF WHAT YOU CONSUME***. Be careful what you feed your mind and seek to get rid of toxic behaviours and habits you may have from consuming certain content. Break the endless cycle you are in and free yourself!
 
-#### Further Reading:
-
-<https://curatti.com/people-not-choose-content-consume/>
-
-<https://heidicohen.com/infographic-how-we-consume-content-now-what-it-means-for-your-marketing/>
-
-<https://shawnblanc.net/2011/08/consuming-content/>
-
-<https://heidicohen.com/content-marketing-how-we-use-multiple-mobile-devices/>
-
-Digital Minimalism: Choosing a Focused Life in a Noisy World (2019) Cal Newport
-
 
 

@@ -26,23 +26,3 @@ Furthermore, gratitude encompasses the practice of looking inwards at yourself r
 Let it also be said that there are a lot of people who feel a deep sense of lacking in themselves. They feel they need to have the latest fashion, the latest smartphones, watch the latest movies thinking that these will offer them more. Gratitude is the solution to a feeling of lacking. You fail to recognise that you already have so much, you are greedy in that you are not content with what you already have and think there is more that you can have. In practicing gratitude, you thereby force yourself to recognise just what exactly you already have and force yourself to stop focussing on what you don't have. If you do practice gratitude then believe me you will be richer than all who have the latest fashion, the latest smartphones and who watch the latest movies.
 
 In conclusion, I encourage all who read this to practice gratitude, it’s not easy to start doing. You may have thoughts of this is stupid, this isn’t going to do anything etc. But believe me if you practice it diligently and with sincerity, then life will be better, I promise you. As always, my words are meaningless if not applied to your life. In fact, don’t believe my words, test them yourself and see the truth in them yourself as I have done. Try starting a gratitude journal where you write about five things at the end of the day which you are grateful for, things will improve. Thank you for reading and blessings to all who read this message.
-
-Further Reading:
-
-<https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain>\\
-<https://www.happify.com/hd/the-science-behind-gratitude/>\\
-<https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier>\\
-<https://www.psychologytoday.com/gb/basics/gratitude>\\
-<https://dictionary.cambridge.org/dictionary/english/gratitude>\\
-<https://kidshealth.org/en/teens/gratitude-practice.html>\\
-<https://www.countryliving.com/life/g28564406/gratitude-quotes/>\\
-<https://en.wikipedia.org/wiki/Gratitude>\\
-<https://www.amazon.co.uk/Little-Book-Gratitude-MBS-book/dp/1856753654>\\
-<https://positivepsychology.com/gratitude-books-oliver-sachs/>\\
-<https://www.lifehack.org/892993/gratitude-book>\\
-<https://www.joincake.com/blog/gratitude-books/>\\
-<https://www.mindful.org/how-to-practice-gratitude/>\\
-<https://gratefulness.me/>\\
-<https://positivepsychology.com/gratitude-appreciation/>\\
-<https://www.theguardian.com/lifeandstyle/2018/oct/23/is-gratitude-secret-of-happiness-i-spent-month-finding-out>\\
-<https://www.happierhuman.com/benefits-of-gratitude/>\\

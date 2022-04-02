@@ -18,8 +18,6 @@ When you meet your ideal partner, I am told that it is like an explosion when yo
 
 Lastly, don’t beat yourself up too much if you haven’t had much experience with the opposite gender even if you are at an old age in life. There is always room for growth no matter how much you think you know. But seek to say this short prayer if you are still without your ideal partner and don’t think that you are silly for saying this prayer if you don’t prayer often. But seek to be the best version of yourself and being so full of sexual frustration isn’t in my opinion being the best version of yourself.
 
-If you did enjoy this article then please do consider donating I have had 10s of thousands read this blog as of 13/03/22 and would really appreciate if you could donate to me as it helps to support this blog. Also bookmarking this blog will ensure that you are able to keep up to date for when I post new articles on here.
-
 Related Articles:
 
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})\\

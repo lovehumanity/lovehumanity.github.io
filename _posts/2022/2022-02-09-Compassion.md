@@ -30,10 +30,6 @@ I also have put out a couple of articles related to following the noble four tru
 
 So instead of trying to change the world, seek to change yourself before you change others because you are not yet perfect and have a long journey ahead of you as do we all. But just take the journey in strides and don’t try to rush it because of others, enjoy every moment of it.
 
-Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
-
-And one last point please don't be offended for intertwining both Buddhism and Christianity (due to me mentioning christ like emotions) because I see Buddhism more of a way of living than I see it as a religion and the Buddha himself said that his ideas and teachings could be incorporated into other religions.
-
 Update 1: 10/03/22 
 
 Feel free to give my other articles a read which may help you with giving yourself and others compassion in your life.

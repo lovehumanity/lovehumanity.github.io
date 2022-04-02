@@ -33,14 +33,3 @@ I’ll also say that people also mistake fear as being apart of them. In that th
 Furthermore, there is a valid argument to be made that love controls us, peace controls us, hate controls us etc. I agree that emotions control us to a degree. But because fear is a very low-level emotion, we shouldn’t accept fear as part of our makeup. We are humans and have far more potential than you may think, believe me. 
 Conclusively aim to rise above fear so that you can allow higher emotions to influence your behaviours and reach more of your potential as a human being. God bless. 
 
-
-
-Further Reading:
-
-<https://theunboundedspirit.com/fear-based-manipulation/>
-
-<https://theconversation.com/the-politics-of-fear-how-fear-goes-tribal-allowing-us-to-be-manipulated-109626>
-
-<https://www.globalresearch.ca/covid-19-propaganda-knowledge/5707320>
-
-

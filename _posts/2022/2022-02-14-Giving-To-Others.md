@@ -40,5 +40,3 @@ Related Articles:
 [Taking the Saw Dust Out of Your Own Eyes]({% post_url 2022-01-04-Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes %})\\
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
-
-Also if you enjoyed this article please do share it on Social Media and if you enjoyed this and any other articles do feel free to donate to me because I do spend my own money in reaching out to people through this blog with my own money, so if you found value in this blog and its content then please do consider donating, link to the donation page is [Here](https://lovehumanity.github.io/Donate)
