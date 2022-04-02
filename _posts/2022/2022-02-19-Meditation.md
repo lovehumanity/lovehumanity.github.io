@@ -48,6 +48,11 @@ This is roughly what I have been taught on the correct way to meditate.
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
+There are also this article and this video on how to meditate correctly which may help you in your journey.
+
+<https://thegreatwhitebrotherhood.org/lessons/meditation/>
+<https://www.youtube.com/watch?v=QRSlzULFWpM>
+
 Related Articles:
 
 [Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
