@@ -2,6 +2,8 @@
 main:
    - title: "Posts"
      url: /year-archive
+   - title: "Donate"
+     url: /Donate
    - title: "About"
      url: /About
    - title: "Important Articles"
