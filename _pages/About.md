@@ -5,10 +5,6 @@ permalink: /About/
 classes: wide
 ---
 
-Picture of me on Holiday in Florida when I went there with my family back in 2019
-
-![Me]({{ site.url }}{{ site.baseurl }}/assets/images/me2.jpg)
-
 ## About Me
 
 Firstly, yes I am actually the real Saint Christopher. 
