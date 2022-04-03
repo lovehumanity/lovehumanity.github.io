@@ -307,7 +307,7 @@ var store = [{
       },{
         "title": "Meditation",
         "excerpt":"(Yes that is a picture of me posing in meditation during a trip to Florida with my family in 2019) Why Meditate? Meditation, prayer and service to man is of vital importance in making real progress towards God and progress in spirituality. I will talk a little about meditation and...","categories": ["Spiritual"],
-        "tags": ["Meditation","Prayer","Gifts of the spirit","Jesus Second Coming","Service to fellow man","God","Faifth"],
+        "tags": ["Meditation","Prayer","Gifts of the spirit","Service to fellow man","God","Faifth"],
         "url": "http://localhost:4000/meditation/",
         "teaser": "http://localhost:4000/assets/images/me.jpg"
       },{
