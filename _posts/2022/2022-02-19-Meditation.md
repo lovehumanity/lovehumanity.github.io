@@ -49,7 +49,7 @@ Aim to make meditation apart of your daily routine and you can meditate for long
 
 There are also this article and this video on how to meditate correctly which may help you in your journey.
 
-<https://thegreatwhitebrotherhood.org/lessons/meditation/>
+<https://thegreatwhitebrotherhood.org/lessons/meditation/>\\
 <https://www.youtube.com/watch?v=QRSlzULFWpM>
 
 Related Articles:
