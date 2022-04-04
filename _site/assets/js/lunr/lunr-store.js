@@ -520,4 +520,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/realities/",
         "teaser": null
+      },{
+        "title": "Why its Important to Save your Money",
+        "excerpt":"In this article I will be talking about why it’s so important that you save money. This isn’t really my usual article, but I thought that this subject was important enough to share with the world because I feel that in modern society, we are so consumeristic what with being...","categories": ["Personal Finance"],
+        "tags": [],
+        "url": "http://localhost:4000/why-its-important-to-save-money/",
+        "teaser": null
       }]
