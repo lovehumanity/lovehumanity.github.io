@@ -20,3 +20,15 @@ The second form of craving is for existence itself. We don’t want to die and w
 The third and last form of craving/want/thirst/desire is that for non-existence. That is we don’t want to be unhappy, we don’t want to be miserable etc. 
 
 I guess what the second noble truth really is about is realizing that dukka has a cause and that cause is thirst/desire/wanting/craving and this arises only from within us. 
+
+Of course I am very new to Buddhism so take what I say with a pinch of salt and there are other resources listed below which may help you understand Buddhism a little better.
+
+Resources:
+
+Buddhism Plain and Simple by Steve Hagen <https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_5?crid=34M92RA2NH4SR&keywords=buddhism&qid=1649083246&sprefix=buddhism%2Caps%2C79&sr=8-5>\\
+
+Unhindered: A mindful path through the Five Hindrances by Gill Fronsdal <https://www.amazon.co.uk/Unhindered-Mindful-Path-Through-Hindrances/dp/0989833402/ref=sr_1_1?crid=NPAIHMT6E263&keywords=unhindered+a+mindful+path+through+the+five+hindrances&qid=1649084275&sprefix=unhindered+a+mindful+path+through+the+five+hindrances%2Caps%2C55&sr=8-1>\\
+
+<https://www.accesstoinsight.org/ptf/index.html>\\
+
+<https://www.insightmeditationcenter.org/books-articles/the-five-hindrances-handouts/>

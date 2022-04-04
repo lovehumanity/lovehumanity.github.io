@@ -26,6 +26,18 @@ Right mindfulness also goes hand in hand with right concentration because you ar
 
 In conclusion, I believe that right mindfulness is a very important part of the eightfold path and everyone that reads this should seek to meditate and contemplate a lot more on the noble four truths because they are indeed universal wisdoms that the Buddha has blessed us with on this earth and we would do well to adhere to his teachings because his teachings were a great blessing to us on this earth. I will soon be writing an article on misconceptions that people have on Buddhism to clear up some things which I feel we as a society has greatly misunderstood Buddhism and I feel that is partly due to how its taught in schools and how the media portrays it and how there is great emphasis on monks and the clothing used and how they shave their hair etc.
 
+Of course I am very new to Buddhism so take what I say with a pinch of salt and there are other resources listed below which may help you understand Buddhism a little better.
+
+Resources:
+
+Buddhism Plain and Simple by Steve Hagen <https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_5?crid=34M92RA2NH4SR&keywords=buddhism&qid=1649083246&sprefix=buddhism%2Caps%2C79&sr=8-5>\\
+
+Unhindered: A mindful path through the Five Hindrances by Gill Fronsdal <https://www.amazon.co.uk/Unhindered-Mindful-Path-Through-Hindrances/dp/0989833402/ref=sr_1_1?crid=NPAIHMT6E263&keywords=unhindered+a+mindful+path+through+the+five+hindrances&qid=1649084275&sprefix=unhindered+a+mindful+path+through+the+five+hindrances%2Caps%2C55&sr=8-1>\\
+
+<https://www.accesstoinsight.org/ptf/index.html>\\
+
+<https://www.insightmeditationcenter.org/books-articles/the-five-hindrances-handouts/>
+
 Related Articles:
 
 [Meditation]({% post_url 2022-02-19-Meditation %})\\

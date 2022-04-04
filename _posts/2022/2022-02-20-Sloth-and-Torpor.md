@@ -29,3 +29,15 @@ But you just give up on things and don’t enjoy life as much as you would like 
 Then I realize that like if I were to die it would free me and I would become the person I was always destined to be. But that isn’t to say I actually want to die because it doesn’t achieve anything. I guess it really plays into this notion of what I think death actually is. I just envision it as nothingness which is a strong delusion and a delusion, I have been under for too long now. 
 
 I guess I haven’t entirely been truthful towards myself because there is something which has caused this state of Sloth and Torpor which I don’t actually recall, which is really unfortunate for me because I find myself in a state of Sloth and Torpor and it is related to this traumatic event in my life which was so traumatic, I don’t actually recall it and I am seeking help with this. 
+
+Of course I am very new to Buddhism so take what I say with a pinch of salt and there are other resources listed below which may help you understand Buddhism a little better.
+
+Resources:
+
+Buddhism Plain and Simple by Steve Hagen <https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_5?crid=34M92RA2NH4SR&keywords=buddhism&qid=1649083246&sprefix=buddhism%2Caps%2C79&sr=8-5>\\
+
+Unhindered: A mindful path through the Five Hindrances by Gill Fronsdal <https://www.amazon.co.uk/Unhindered-Mindful-Path-Through-Hindrances/dp/0989833402/ref=sr_1_1?crid=NPAIHMT6E263&keywords=unhindered+a+mindful+path+through+the+five+hindrances&qid=1649084275&sprefix=unhindered+a+mindful+path+through+the+five+hindrances%2Caps%2C55&sr=8-1>\\
+
+<https://www.accesstoinsight.org/ptf/index.html>\\
+
+<https://www.insightmeditationcenter.org/books-articles/the-five-hindrances-handouts/>

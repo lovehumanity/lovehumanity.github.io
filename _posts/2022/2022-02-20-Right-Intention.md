@@ -26,3 +26,15 @@ But seek to practice right intention in your life because life should be about h
 Right intention is also about not giving way to thoughts of ill will or harming others (which for me has been a hindrance in my life and is one of the five hindrances) because your own thoughts are very important in defining who you are and what your actions are. Therefore, if you know that you give way to unwholesome thoughts seek refuge in prayer. 
 
 Lastly, don't just read these words blindly and practice here what I have said today because you are able to change yourself through these very wise words and thereby change the world for the betterment of mankind and when you help others and work for others then by the law of mutual attraction which I have an article on [The Law Mutual Attraction]({% post_url 2022-02-16-The-Law-of-Mutual-Attraction %}) you will attract towards you people/guides/angels who will work with you to help you. 
+
+Of course I am very new to Buddhism so take what I say with a pinch of salt and there are other resources listed below which may help you understand Buddhism a little better.
+
+Resources:
+
+Buddhism Plain and Simple by Steve Hagen <https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_5?crid=34M92RA2NH4SR&keywords=buddhism&qid=1649083246&sprefix=buddhism%2Caps%2C79&sr=8-5>\\
+
+Unhindered: A mindful path through the Five Hindrances by Gill Fronsdal <https://www.amazon.co.uk/Unhindered-Mindful-Path-Through-Hindrances/dp/0989833402/ref=sr_1_1?crid=NPAIHMT6E263&keywords=unhindered+a+mindful+path+through+the+five+hindrances&qid=1649084275&sprefix=unhindered+a+mindful+path+through+the+five+hindrances%2Caps%2C55&sr=8-1>\\
+
+<https://www.accesstoinsight.org/ptf/index.html>\\
+
+<https://www.insightmeditationcenter.org/books-articles/the-five-hindrances-handouts/>
