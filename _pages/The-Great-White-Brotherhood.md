@@ -13,6 +13,8 @@ I have grown considerably from their teachings and recommend all read their firs
 
 However be warned that their teachings are not conventional and people generally need an open mind to accept their information because it is so far out there to what society has actually taught us in schools and work places and the news etc.
 
+Please Do not send this group any hate messages. They stand for love and peace like how Jesus once did.
+
 Here are their links:
 
 <https://thegreatwhitebrotherhood.org/>\
