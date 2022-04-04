@@ -54,9 +54,12 @@ There are also this article and this video on how to meditate correctly which ma
 
 Related Articles:
 
+[Understanding]({% post_url 2022-03-31-Understanding %})\\
+[Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Pray for your Enemies]({% post_url 2021-10-04-Pray-For-Your-Enemies %})\\
 [Self-Acceptance]({% post_url 2020-12-22-Self-Acceptance %})
+
