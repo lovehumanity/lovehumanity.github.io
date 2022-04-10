@@ -21,9 +21,7 @@ header:
 
 # Why Meditate?
 
-Meditation, prayer and service to man is of vital importance in making real progress towards God and progress in spirituality. I will talk a little about meditation and give you my basic technique which I have used for a few years now which I received from a group I work with, which you can read more about in my page on them. The benefits of meditation are you become a more developed human being - you develop your auras and allow your chakras to open up more and allow energy to pass more freely into them, you are also able to develop the gifts of the spirit by consitently meditating for a prolonged period of time. 
-
-The gifts of the spirit are gifts which only God has the right to confer to those faifthful to him. Meditation, prayer and service to God are the only ways which people are able to be granted the gifts of the spirit by God. The gifts of the spirit are; Telepathy (the ability to talk to people), Telekenesis (the ability to move objects), Clairvoyance (the ability to see into the spiriutal realm), Clairsentience (the ability to feel through your spiritual senses), and the most difficult one Teleportation (the ability to move from one location to another). I should also make clear that the gifts should only be used for helping people and should definitely not be used to fulfill your own egos. The gifts also shouldn't be shown to "muggles" so to speak. You also shouldn't meditate with the intention of receiving the gifts, focus should be put on meditating and any desire at all during meditation defeats the objective of meditation. Equally God has the right to remove the gifts of the spirit from people who don't listen to him.
+Meditation, prayer and service to man is of vital importance in making real progress towards God and progress in spirituality. I will talk a little about meditation and give you my basic technique which I have used for a few years now which I received from a group I work with, which you can read more about in my page on them. The benefits of meditation are you become a more developed human being.
 
 You should also seek to meditate in secret. I have an article on this blog on why you should practice spirituality in secret linked [Here]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
 
@@ -46,11 +44,6 @@ This is roughly what I have been taught on the correct way to meditate.
 # More on Meditation
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
-
-There are also this article and this video on how to meditate correctly which may help you in your journey.
-
-<https://thegreatwhitebrotherhood.org/lessons/meditation/>\\
-<https://www.youtube.com/watch?v=QRSlzULFWpM>
 
 Related Articles:
 
