@@ -39,12 +39,7 @@ Related Articles:
 
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Right Mindfulness]({% post_url 2022-03-12-Right-Mindfulness %})\\
-[Right Intention]({% post_url 2022-02-20-Right-Intention %})\\
-[Right Speech]({% post_url 2022-03-02-Right-Speech %})\\
 [Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
-[The First Noble Truth]({% post_url 2022-03-02-The-First-Noble-Truth %})\\
-[The Second Noble Truth]({% post_url 2022-03-03-The-Second-Noble-Truth %})\\
-[The Third Noble Truth]({% post_url 2022-03-06-The-Third-Noble-Truth %})\\
 [Journaling]({% post_url 2021-10-09-Journaling %})
 
 

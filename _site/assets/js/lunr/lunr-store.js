@@ -281,12 +281,6 @@ var store = [{
         "url": "http://localhost:4000/too-much-of-a-good-thing/",
         "teaser": null
       },{
-        "title": "When You Can't Do Good in Your Own Home, Do Good Elsewhere",
-        "excerpt":"In this short post I will talk a little about how when you can’t do good because of some reason like a disagreement with yourself or a flaw you have that you should do good elsewhere. But if I’m being completely honest, you should aim to do good in your...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/when-you-cant-do-good-do-good-elsewhere/",
-        "teaser": null
-      },{
         "title": "Giving to Others",
         "excerpt":"You should first start by recognizing that it’s not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
         "tags": [],
@@ -335,12 +329,6 @@ var store = [{
         "url": "http://localhost:4000/possession/",
         "teaser": null
       },{
-        "title": "Crisis in Ukraine",
-        "excerpt":"Hello all, it saddens me to see war in Ukraine. I don’t know much about Ukraine and the politics involved in that area, but I know that all war isn’t good. I don’t actually watch the news, but I have heard from the forums and friends/family that I visit that...","categories": ["Current Affairs"],
-        "tags": [],
-        "url": "http://localhost:4000/crisis-in-ukraine/",
-        "teaser": "http://localhost:4000/assets/blogs/Ukraine/test.webp"
-      },{
         "title": "Fake Spirituality",
         "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
         "tags": [],
@@ -352,24 +340,6 @@ var store = [{
         "tags": ["Jesus","God","Christianity","Love","Love thy neighbour","Prayer","Meditationg","Enemies","Evil"],
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
         "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
-      },{
-        "title": "Right Speech",
-        "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
-        "url": "http://localhost:4000/right-speech/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
-        "title": "The First Noble Truth",
-        "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-first-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
-      },{
-        "title": "The Second Noble Truth",
-        "excerpt":"In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-second-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Finding your Ideal Partner",
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
@@ -394,12 +364,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-true-aliens/",
         "teaser": "http://localhost:4000/assets/blogs/Aliens/aliens.webp"
-      },{
-        "title": "The Third Noble Truth",
-        "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-third-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Being Authentic and True to Yourself",
         "excerpt":"(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself) In this short post I will talk a little about why it’s so important to be authentic and true to...","categories": ["Spiritual"],
@@ -467,24 +431,6 @@ var store = [{
         "url": "http://localhost:4000/forgiveness/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
       },{
-        "title": "Stop Using Social Media",
-        "excerpt":"In this short article I will be talking about why you should limit the time that you spend on social media platforms. Now in general most people need to admit to themselves that social media doesn’t really bring much benefit to them in their lives. Social media companies have designed...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-using-social-media/",
-        "teaser": "http://localhost:4000/assets/blogs/social/social.jpg"
-      },{
-        "title": "Stop Watching the News",
-        "excerpt":"The news is something which I think only brainwashes the general public and is propaganda. Try finding an old news article and you will be hard find to find an article from three months ago on their own website and this really is how the news thrives by constantly filling...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-watching-the-news/",
-        "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
-      },{
-        "title": "Stop Watching Porn",
-        "excerpt":"In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-watching-porn/",
-        "teaser": "http://localhost:4000/assets/blogs/porn/porn.jpg"
-      },{
         "title": "When You See Wrong do Two Goods Elsewhere",
         "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
         "tags": ["God"],
@@ -513,12 +459,6 @@ var store = [{
         "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, understanding comes on a deep level in the sense that it is in part a gift of the spirit and is something which...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/understanding/",
-        "teaser": null
-      },{
-        "title": "Realities",
-        "excerpt":"In this short article I will be talking a little bit about illusions. The vast majority of the public are under some kind of illusion, it’s only those extremely enlightened that you could argue are not under a very big illusion. We all live in an illusion but its really...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/realities/",
         "teaser": null
       },{
         "title": "Why its Important to Save your Money",
