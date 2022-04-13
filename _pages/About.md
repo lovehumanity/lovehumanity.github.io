@@ -38,7 +38,9 @@ This blog is hosted on both gitlab and github as of 28/02/2022! The links are:
 
 Please note that I push to my gitlab repo and then this clones to my github repo, hence why the dates on github may not be accurate (I also don't know how to use git that well xD)
 
-I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes. But please do consider donating to me on the link in donation page - it would mean so much to me because I am yet to have a donation and this blog has been seen by 10s of thousands of people so far.
+I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes.
+
+I also do not ask for **ANY** donations to this blog or myself, but in the past I did have a donation page which has been removed from this blog.
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
