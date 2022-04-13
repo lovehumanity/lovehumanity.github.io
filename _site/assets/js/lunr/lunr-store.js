@@ -472,4 +472,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-dangers-of-ai-and-machine-learning/",
         "teaser": null
+      },{
+        "title": "Becoming More Christ Like",
+        "excerpt":"First and foremost, with becoming more Christ it’s important to practice Meditation/Prayer and some means of service to God which you enjoy. Only with this are you able to understand yourself a little bit better and work on your flaws. Through these things you are able to incorporate more levels...","categories": ["Spiritual"],
+        "tags": ["Christianity","Christ"],
+        "url": "http://localhost:4000/becoming-more-christ-like/",
+        "teaser": "http://localhost:4000/assets/blogs/christ/christ.webp"
       }]
