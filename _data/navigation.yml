@@ -2,8 +2,6 @@
 main:
    - title: "Posts"
      url: /year-archive
-   - title: "The Future of Man"
-     url: /TheFutureOfMan
    - title: "About"
      url: /About
    - title: "Important Articles"
