@@ -383,12 +383,6 @@ var store = [{
         "url": "http://localhost:4000/right-mindfulness/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
-        "title": "When Someone Does Wrong To You",
-        "excerpt":"In this article I will be talking about when someone does wrong to you and how you should respond to that or if you do wrong to yourself and how you should deal with that. This is a touchy subject for me because I have caused myself many wrongs in...","categories": ["Spiritual"],
-        "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
-        "url": "http://localhost:4000/when-someone-does-wrong-by-you/",
-        "teaser": "http://localhost:4000/assets/blogs/wrong/wrong.jpg"
-      },{
         "title": "Why You Should Read",
         "excerpt":"In this article I will be talking about reading and why its so important for all to read this article to take up reading and have it be a part of your daily routine. Now reading doesn’t necessarily need to just be books that your read – it can also...","categories": ["Lifestyle"],
         "tags": [],

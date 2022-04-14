@@ -28,7 +28,6 @@ Of course this principal shouldn't be taken to an extreme, but just taken in bal
 
 Related Articles:
 
-[When Someone Does Wrong By You]({% post_url 2022-03-12-When-Someone-Does-Wrong-by-You %})\\
 [Giving To Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\

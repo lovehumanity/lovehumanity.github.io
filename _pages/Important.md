@@ -9,6 +9,7 @@ Here are some of the most important articles on my blog which I thought I would 
 
 Spiritual:
 
+[Becoming More Christ like]({% post_url 2022-04-13-Becoming-More-Christ-Like %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})\\
@@ -23,5 +24,4 @@ Spiritual:
 [Giving to Others]({% post_url 2022-02-14-Giving-To-Others %})\\
 [Finding Your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
-[When Someone Does Wrong by You]({% post_url 2022-03-12-When-Someone-Does-Wrong-by-You %})\\
 [Doing the Most Loving Thing]({% post_url 2022-03-02-Doing-The-Most-Loving-Thing %})
