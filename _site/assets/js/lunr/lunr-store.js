@@ -450,7 +450,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Understanding",
-        "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, understanding comes on a deep level in the sense that it is in part a gift of the spirit and is something which...","categories": ["Spiritual"],
+        "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, is something which has to be given to others with good will for them. Any intent of ill will and understanding will simply...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/understanding/",
         "teaser": null
