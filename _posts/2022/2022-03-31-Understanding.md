@@ -6,13 +6,13 @@ categories:
   - Spiritual
 ---
 
-In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, understanding comes on a deep level in the sense that it is in part a gift of the spirit and is something which has to be given to others with good will for them. Any intent of ill will and understanding will simply not be accepted by the other person, and you just lose yourself when you are not understanding to others. 
+In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, is something which has to be given to others with good will for them. Any intent of ill will and understanding will simply not be accepted by the other person, and you should also seek to understand yourself, before attempting to understand others.
 
 It relieves a heavy burden on people when they feel understood and relieves a heavy burden on yourself when you feel understood, because when you don’t feel understood it just hurts you inside and does make you feel alone in the world.
 
 To understand you first need to see the person behind the mask and see that they are just another person of this world and see their motivations and reasoning behind their actions and seek understand why they do what they do to others and the negative impact it has on themselves. 
 
-Understanding is a gift of the spirit and through meditation, prayer and service to God can you be more understanding to others. Hence why its so important for all who read this to seek to become more understanding and take up things such as meditation, prayer, and service to God.
+Understanding can be developed through meditation, prayer and service to God can you be more understanding to others. Hence why its so important for all who read this to seek to become more understanding and take up things such as meditation, prayer, and service to God.
 
 Also, its about others because when others don’t feel understood by others then they feel alone in this world and feel that others judge them and look down upon them and the world should be a much better place to live on especially if we have more people who are understanding towards one another.
 
