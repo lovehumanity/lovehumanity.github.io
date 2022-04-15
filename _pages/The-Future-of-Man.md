@@ -11,6 +11,12 @@ Link to the original message is here:
 
 <https://thegreatwhitebrotherhood.org/welcome/important-message-from-the-gwb/>
 
+Note:
+
+That this message I realize will make me very unpopular, but thou shall not bear a false witness. In not spreading this message that I know to be true, I am sinning by not sharing this message. So hate me, get angry at me for the following message, call me an "anti-vaxer". But this message is the truth, but we as a species are able to change the course of human history by way of our own actions, through prayer, meditation and service and by way of our actions can we change the bleak future outlined in this message. 
+
+The One World Government, don't want you to know of this truth. So be sure to hide the fact that you know of this message, and only share to those who you trust. They will also go by any means necessary to stop the spread of this message, so be sure to be careful who you spread this message to.
+
 
 Message received: 27NOV2020
 
