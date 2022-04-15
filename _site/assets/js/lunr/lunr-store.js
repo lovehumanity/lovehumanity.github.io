@@ -472,4 +472,10 @@ var store = [{
         "tags": ["Christianity","Christ"],
         "url": "http://localhost:4000/becoming-more-christ-like/",
         "teaser": "http://localhost:4000/assets/blogs/christ/christ.webp"
+      },{
+        "title": "The Ten Commandments",
+        "excerpt":"I wanted to write this short piece on the ten commandments, which if adhered to and really understood are enough to carry you into the arms of God. If you don’t know the ten commandments are “you shall have no other Gods before me”, “you shall not make for yourself...","categories": ["Spirituality"],
+        "tags": [],
+        "url": "http://localhost:4000/the-ten-commandments/",
+        "teaser": "http://localhost:4000/assets/blogs/ten/ten.jpg"
       }]
