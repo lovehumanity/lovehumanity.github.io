@@ -239,12 +239,6 @@ var store = [{
         "url": "http://localhost:4000/self-worth/",
         "teaser": "http://localhost:4000/assets/blogs/worthy/worthy.jpeg"
       },{
-        "title": "Patronizing Others",
-        "excerpt":"I realized that one thing that has caused me suffering, and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviours which condescend them in some way. But it’s also about thinking that you can get...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/patronizing-others/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
-      },{
         "title": "Compassion",
         "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important...","categories": ["Spiritual"],
         "tags": [],

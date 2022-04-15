@@ -26,5 +26,4 @@ Related Articles:
 [Self Image]({% post_url 2020-12-25-Self-Image %})\\
 [Virtue Signaling]({% post_url 2022-01-05-Virtue-Signalling %})\\
 [Self-Worth]({% post_url 2022-01-18-Self-Worth %})\\
-[Patronizing Others]({% post_url 2022-01-19-Patronizing-Others %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})
