@@ -13,8 +13,6 @@ Generally I don't like talking about myself because I was into privacy a lot in 
 
 In school I was really into History, Business Studies, Maths, Computers, Chess, Programming, Sociology, English, Debate club. I was an introvert in school so didn't really go out too much during my school years or my uni years for that mattar because I guess I was so afaid of what others would think of me and now I would like to make up for that lost time somewhat and be a lot more sociable which I am slowly but surely becoming.
 
-I enjoy going for walks with my Dad and my dog. I am also really into Music and have been enjoying Mozart lately.
-
 I have suffered from mental health in my life and to those who do suffer from mental health or think they suffer from mental heatlh, don't be afraid to ask for help, there is no shame in it and you are not a lesser man for asking for help because in our society we have this terrible view on what a man should and shouldn't be and this has evolved into toxic masculinity - which are things which are detrimental to us which we think is being a man when it isn't.
 
 ## About this Blog
