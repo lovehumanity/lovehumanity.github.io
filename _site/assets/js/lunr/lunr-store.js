@@ -503,9 +503,9 @@ var store = [{
         "url": "http://localhost:4000/the-ten-commandments/",
         "teaser": "http://localhost:4000/assets/blogs/ten/ten.jpg"
       },{
-        "title": "Repentence",
+        "title": "Repentance",
         "excerpt":"In this article I will talk a little bit about repentance, and repentance first comes in recognizing your wrongdoing and the harm that you caused to others and yourself. Repentance must first come in being honest to yourself and being true to yourself and for you to recognise the reality...","categories": ["Spiritual"],
         "tags": [],
-        "url": "http://localhost:4000/repentence/",
+        "url": "http://localhost:4000/repentance/",
         "teaser": null
       }]
