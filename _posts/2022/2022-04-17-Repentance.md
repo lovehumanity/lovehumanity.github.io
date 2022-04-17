@@ -20,3 +20,6 @@ So, my advice, would be to repent before you return to heaven your sins because 
 
 Denying the reality of your situation and denying yourself to repent your sins brings to yourself darkness spiritually and emotionally.
 
+Update 17/04/22
+
+Another part of repentance is believing that you will not make the same mistake again and being sincere and genuine to the person you have sinned against and making up to that person.
