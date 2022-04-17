@@ -437,6 +437,18 @@ var store = [{
         "url": "http://localhost:4000/forgiveness/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
       },{
+        "title": "Stop Using Social Media",
+        "excerpt":"In this short article I will be talking about why you should limit the time that you spend on social media platforms. Now in general most people need to admit to themselves that social media doesn’t really bring much benefit to them in their lives. Social media companies have designed...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-using-social-media/",
+        "teaser": "http://localhost:4000/assets/blogs/social/social.jpg"
+      },{
+        "title": "Stop Watching the News",
+        "excerpt":"The news is something which I think only brainwashes the general public and is propaganda. Try finding an old news article and you will be hard find to find an article from three months ago on their own website and this really is how the news thrives by constantly filling...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-watching-the-news/",
+        "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
+      },{
         "title": "When You See Wrong do Two Goods Elsewhere",
         "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
         "tags": ["God"],
@@ -490,4 +502,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-ten-commandments/",
         "teaser": "http://localhost:4000/assets/blogs/ten/ten.jpg"
+      },{
+        "title": "Repentence",
+        "excerpt":"In this article I will talk a little bit about repentance, and repentance first comes in recognizing your wrongdoing and the harm that you caused to others and yourself. Repentance must first come in being honest to yourself and being true to yourself and for you to recognise the reality...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/repentence/",
+        "teaser": null
       }]

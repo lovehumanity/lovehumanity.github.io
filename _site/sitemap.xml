@@ -293,6 +293,14 @@
 <lastmod>2022-03-16T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/stop-using-social-media/</loc>
+<lastmod>2022-03-16T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/stop-watching-the-news/</loc>
+<lastmod>2022-03-16T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/when-you-see-wrong-do-two-goods-elsewhere/</loc>
 <lastmod>2022-03-18T00:00:00+00:00</lastmod>
 </url>
@@ -327,6 +335,10 @@
 <url>
 <loc>http://localhost:4000/the-ten-commandments/</loc>
 <lastmod>2022-04-15T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/repentence/</loc>
+<lastmod>2022-04-17T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>
