@@ -321,10 +321,6 @@
 <lastmod>2022-03-31T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/why-its-important-to-save-money/</loc>
-<lastmod>2022-04-04T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/the-dangers-of-ai-and-machine-learning/</loc>
 <lastmod>2022-04-11T00:00:00+01:00</lastmod>
 </url>
@@ -342,9 +338,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Important/</loc>

@@ -479,12 +479,6 @@ var store = [{
         "url": "http://localhost:4000/understanding/",
         "teaser": null
       },{
-        "title": "Why its Important to Save your Money",
-        "excerpt":"In this article I will be talking about why it’s so important that you save money. This isn’t really my usual article, but I thought that this subject was important enough to share with the world because I feel that in modern society, we are so consumeristic what with being...","categories": ["Personal Finance"],
-        "tags": [],
-        "url": "http://localhost:4000/why-its-important-to-save-money/",
-        "teaser": null
-      },{
         "title": "The Dangers of AI and Machine Learning",
         "excerpt":"In this short article I wanted to talk a little bit about the risks of AI and machine learning. This is a bit of an oddball article which I thought it was important enough to share to the world and also spirituality doesn’t just have to be about meditation/prayer etc,...","categories": ["Spiritual"],
         "tags": [],
