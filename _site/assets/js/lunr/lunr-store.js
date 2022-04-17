@@ -239,6 +239,12 @@ var store = [{
         "url": "http://localhost:4000/self-worth/",
         "teaser": "http://localhost:4000/assets/blogs/worthy/worthy.jpeg"
       },{
+        "title": "Patronizing Others",
+        "excerpt":"I realized that one thing that has caused me suffering, and many others suffering is patronization which is whereby you think that you are better than others and so in very subtle ways have behaviours which condescend them in some way. But it’s also about thinking that you can get...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/patronizing-others/",
+        "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
+      },{
         "title": "Compassion",
         "excerpt":"I thought I would write this article on compassion. This will be similar to my article I wrote on self-compassion, but it applies to giving others compassion and compassion is a very important thing to give to others because a lot of people have gone through suffering and its important...","categories": ["Spiritual"],
         "tags": [],
@@ -335,6 +341,12 @@ var store = [{
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
         "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
       },{
+        "title": "Right Speech",
+        "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
+        "url": "http://localhost:4000/right-speech/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
         "title": "Finding your Ideal Partner",
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
         "tags": [],
@@ -376,6 +388,12 @@ var store = [{
         "tags": ["Right Mindfulness","God","Eightfoldpath","Suffering"],
         "url": "http://localhost:4000/right-mindfulness/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
+        "title": "When Someone Does Wrong To You",
+        "excerpt":"In this article I will be talking about when someone does wrong to you and how you should respond to that or if you do wrong to yourself and how you should deal with that. This is a touchy subject for me because I have caused myself many wrongs in...","categories": ["Spiritual"],
+        "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
+        "url": "http://localhost:4000/when-someone-does-wrong-by-you/",
+        "teaser": "http://localhost:4000/assets/blogs/wrong/wrong.jpg"
       },{
         "title": "Why You Should Read",
         "excerpt":"In this article I will be talking about reading and why its so important for all to read this article to take up reading and have it be a part of your daily routine. Now reading doesn’t necessarily need to just be books that your read – it can also...","categories": ["Lifestyle"],
