@@ -1,5 +1,5 @@
 ---
-title: "Repentence"
+title: "Repentance"
 date: 2022-04-17
 classes: wide
 categories:
