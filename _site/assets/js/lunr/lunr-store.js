@@ -502,4 +502,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/repentance/",
         "teaser": null
+      },{
+        "title": "Linking With the God Spirit",
+        "excerpt":"In this article I will talk a little bit about linking with the I AM as Jesus described it or the God spirit within us all. Now this God spirit can be linked with by anyone – but generally most people in the world have what is known as the...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/linking-with-the-god-spirit/",
+        "teaser": null
       }]
