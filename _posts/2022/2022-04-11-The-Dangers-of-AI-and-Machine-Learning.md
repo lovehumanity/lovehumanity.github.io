@@ -22,6 +22,10 @@ Now what can you the person that reads this do about the issue? Well, you can ta
 
 You can also start a meditation practice and after each session send out your peaceful thoughts to the world and the secret Government. 
 
+Update 1: 18/04/22
+
+The singularity is a very real thing and we and all that read this article would do well to take the necessary actions to help prevent the singularity, but also prevent sentient AI, until we as a species are ready to be able to have sentient AI.
+
 
 
 
