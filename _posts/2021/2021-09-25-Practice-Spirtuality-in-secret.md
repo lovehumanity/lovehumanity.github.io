@@ -4,11 +4,7 @@ date: 2021-09-25
 classes: wide
 categories:
   - Spiritual
-header:
-  teaser: /assets/blogs/secret/secret.jpg
 ---
-
-![Secret]({{ site.url }}{{ site.baseurl }}/assets/blogs/secret/secret.jpg)
 
 In this short post I will give some reasons and justifications why those on the spiritual path should do so in secret and not announce it to others.
 
