@@ -10,8 +10,6 @@ main:
      url: /About
    - title: "Important Articles"
      url: /Important
-   - title: "Categories"
-     url: /categories
  # url: /Donate
   # - title: "Sample Posts"
   #   url: /year-archive/

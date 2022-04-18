@@ -165,7 +165,7 @@ var store = [{
         "excerpt":"In this short post I will give some reasons and justifications why those on the spiritual path should do so in secret and not announce it to others. The first reason why the path should be done so in secret is because generally people dislike someone standing in the light...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/practice-spirtuality-in-secret/",
-        "teaser": "http://localhost:4000/assets/blogs/secret/secret.jpg"
+        "teaser": null
       },{
         "title": "Positive Thinking",
         "excerpt":"In this short post I will look at the importance and value of positive thinking. Positive thinking is the practice whereby you seek and actively go out of your way to see the positive in things, but more importantly is that you don’t dwell on the negative side of things...","categories": ["Wellbeing"],
@@ -492,7 +492,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/christ/christ.webp"
       },{
         "title": "The Ten Commandments",
-        "excerpt":"I wanted to write this short piece on the ten commandments, which if adhered to and really understood are enough to carry you into the arms of God. If you don’t know the ten commandments are “you shall have no other Gods before me”, “you shall not make for yourself...","categories": ["Spirituality"],
+        "excerpt":"I wanted to write this short piece on the ten commandments, which if adhered to and really understood are enough to carry you into the arms of God. If you don’t know the ten commandments are “you shall have no other Gods before me”, “you shall not make for yourself...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/the-ten-commandments/",
         "teaser": "http://localhost:4000/assets/blogs/ten/ten.jpg"

@@ -3,7 +3,7 @@ title: "The Ten Commandments"
 date: 2022-04-15
 classes: wide
 categories:
-  - Spirituality
+  - Spiritual
 header: 
   teaser: /assets/blogs/ten/ten.jpg 
 ---
