@@ -486,7 +486,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Becoming More Christ Like",
-        "excerpt":"First and foremost, with becoming more Christ it’s important to practice Meditation/Prayer and some means of service to God which you enjoy. Only with this are you able to understand yourself a little bit better and work on your flaws. Through these things you are able to incorporate more levels...","categories": ["Spiritual"],
+        "excerpt":"Last Updated 19/04/22 First and foremost, with becoming more Christ it’s important to practice Meditation/Prayer and some means of service to God which you enjoy. Only with this are you able to understand yourself a little bit better and work on your flaws. Through these things you are able to...","categories": ["Spiritual"],
         "tags": ["Christianity","Christ"],
         "url": "http://localhost:4000/becoming-more-christ-like/",
         "teaser": "http://localhost:4000/assets/blogs/christ/christ.webp"
@@ -507,5 +507,11 @@ var store = [{
         "excerpt":"In this article I will talk a little bit about linking with the I AM as Jesus described it or the God spirit within us all. Now this God spirit can be linked with by anyone – but generally most people in the world have what is known as the...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/linking-with-the-god-spirit/",
+        "teaser": null
+      },{
+        "title": "Thou Shall Not Steal",
+        "excerpt":"I wanted to talk here about thou shall not steal which I think is something that if abided by will lead everyone that much closer towards God. Thou shall not steal doesn’t just mean personal belongings. It also means ideas, behaviors, thought processes etc. and is something that I would...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/thou-shall-not-steal/",
         "teaser": null
       }]
