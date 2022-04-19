@@ -5,7 +5,7 @@ permalink: /TheFutureOfMan/
 classes: wide
 ---
 
-The Following Message is a message for all of mankind which I was attacked in the night from some kind of directed energy weapons for spreading this and believe it or not a sheet of tin foil has prevented that, and clear Quartz crystal has managed to reduce a lot of the radiation that it has caused believe it or not.
+The Following Message is a message for all of mankind. 
 
 The One World Government doesn't want you to know of this message, so spread it to who you can, but just know that people will lash out at you as they have done myself for spreading this message because this message is accurate in what it says.
 
