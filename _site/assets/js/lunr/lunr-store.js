@@ -419,12 +419,6 @@ var store = [{
         "url": "http://localhost:4000/right-concentration/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
-        "title": "Veganism",
-        "excerpt":"First, I encourage all those on the spiritual path to become vegetarian/vegan and see it as an act of obedience towards God. The reason why you should consider diet as important is because what you put inside your body has an effect on your wellbeing. When you eat only junk...","categories": ["Spiritual"],
-        "tags": ["Vegan"],
-        "url": "http://localhost:4000/veganism/",
-        "teaser": "http://localhost:4000/assets/blogs/vegan/vegan.webp"
-      },{
         "title": "What Others Think of You",
         "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
         "tags": ["true to yourself"],
@@ -461,12 +455,6 @@ var store = [{
         "url": "http://localhost:4000/devotion-to-god/",
         "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
       },{
-        "title": "The Golden Rule",
-        "excerpt":"In this article I will talk about the golden rule, which is a principal that all who follow the path of spirituality and freedom should adhere to as best as they can. The golden rule as set out by Jesus was that you should treat others how you yourself would...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/the-golden-rule/",
-        "teaser": "http://localhost:4000/assets/blogs/golden/golden.png"
-      },{
         "title": "The First Aggregate",
         "excerpt":"In this short article I will talk a little bit about the first aggregate of the five aggregates in Buddhism. If you don’t know the Buddha taught that there is no self and that what you view as yourself just isn’t so and is in reality an illusion. I will...","categories": ["Buddhism"],
         "tags": [],
@@ -497,21 +485,9 @@ var store = [{
         "url": "http://localhost:4000/the-ten-commandments/",
         "teaser": "http://localhost:4000/assets/blogs/ten/ten.jpg"
       },{
-        "title": "Repentance",
-        "excerpt":"In this article I will talk a little bit about repentance, and repentance first comes in recognizing your wrongdoing and the harm that you caused to others and yourself. Repentance must first come in being honest to yourself and being true to yourself and for you to recognise the reality...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/repentance/",
-        "teaser": null
-      },{
         "title": "Linking With the God Spirit",
         "excerpt":"In this article I will talk a little bit about linking with the I AM as Jesus described it or the God spirit within us all. Now this God spirit can be linked with by anyone – but generally most people in the world have what is known as the...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/linking-with-the-god-spirit/",
-        "teaser": null
-      },{
-        "title": "Thou Shall Not Steal",
-        "excerpt":"I wanted to talk here about thou shall not steal which I think is something that if abided by will lead everyone that much closer towards God. Thou shall not steal doesn’t just mean personal belongings. It also means ideas, behaviors, thought processes etc. and is something that I would...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/thou-shall-not-steal/",
         "teaser": null
       }]
