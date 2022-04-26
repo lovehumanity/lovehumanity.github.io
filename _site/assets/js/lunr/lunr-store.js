@@ -490,4 +490,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/linking-with-the-god-spirit/",
         "teaser": null
+      },{
+        "title": "The Middle Way",
+        "excerpt":"In this article I will talk a little bit about the middle path. To understand what the middle path is you first need to understand what the right-hand path and left-hand path are. The left-hand path is essentially that you promote individualism and do things for yourself generally at the...","categories": ["Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-middle-path/",
+        "teaser": "http://localhost:4000/assets/blogs/the-middle-way.jpg"
       }]
