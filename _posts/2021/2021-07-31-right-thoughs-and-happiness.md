@@ -17,3 +17,7 @@ So, for me I am going to begin rejecting negative thoughts as best as I can and 
 I realize I have a mountain to climb in terms of the negative, dark, dare I say evil thoughts that have been going through me and what I need to do to conquer such thoughts.  Also, the general feeling of unhappiness I've been pushing on to myself which has affected my vibration as have my thoughts. I feel it’s also made me weak minded or feeble in mind as I really can't engage my mind as I used to as a result of all the unhappiness, I’ve been pushing onto myself. But as they say the journey of a thousand miles begins with one step and I like to think that this is a giant step in the correct direction to becoming an 'ascended being' which is something I aspire to.
 
 But this has taught me whole affair I like to think has taught me a valuable lesson in the importance of not giving way to bad thoughts and also the importance of being happy and thereby rejecting unhappiness and misery, because it really has affected my motivation to do things in that because I have this general feeling of unhappiness I’m a lot less willing to do things because my view of the world has been affected negatively. 
+
+Update 1 28/04/22
+
+I realized perhaps I don't actually yet want to become an 'ascended being' and am content with who I am now.
