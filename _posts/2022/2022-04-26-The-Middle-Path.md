@@ -1,5 +1,5 @@
 ---
-title: "The Middle Way"
+title: "The Middle Path"
 date: 2022-04-26
 classes: wide
 categories:
