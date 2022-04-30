@@ -347,6 +347,18 @@ var store = [{
         "url": "http://localhost:4000/right-speech/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
+        "title": "The First Noble Truth",
+        "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-first-noble-truth/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
+      },{
+        "title": "The Second Noble Truth",
+        "excerpt":"In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-second-noble-truth/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
+      },{
         "title": "Finding your Ideal Partner",
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
         "tags": [],
@@ -364,6 +376,12 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
+      },{
+        "title": "The Third Noble Truth",
+        "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/the-third-noble-truth/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Being Authentic and True to Yourself",
         "excerpt":"(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself) In this short post I will talk a little about why it’s so important to be authentic and true to...","categories": ["Spiritual"],
@@ -437,6 +455,12 @@ var store = [{
         "url": "http://localhost:4000/stop-watching-the-news/",
         "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
       },{
+        "title": "Stop Watching Porn",
+        "excerpt":"In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-watching-porn/",
+        "teaser": "http://localhost:4000/assets/blogs/porn/porn.jpg"
+      },{
         "title": "When You See Wrong do Two Goods Elsewhere",
         "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
         "tags": ["God"],
@@ -490,4 +514,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/the-middle-path/",
         "teaser": "http://localhost:4000/assets/blogs/the-middle-way.jpg"
+      },{
+        "title": "Buddhism Resources",
+        "excerpt":"In this very short article, I will lay out some of the resources which I have used in the past which has helped me considerably with understanding Buddhism a lot more and I also realize I am very new to Buddhism, only recently having learned of its teachings and its...","categories": ["Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/buddhism-resources/",
+        "teaser": null
       }]

@@ -233,6 +233,14 @@
 <lastmod>2022-03-02T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/the-first-noble-truth/</loc>
+<lastmod>2022-03-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-second-noble-truth/</loc>
+<lastmod>2022-03-03T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/finding-your-ideal-partner/</loc>
 <lastmod>2022-03-04T00:00:00+00:00</lastmod>
 </url>
@@ -243,6 +251,10 @@
 <url>
 <loc>http://localhost:4000/lost-at-sea-poem/</loc>
 <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-third-noble-truth/</loc>
+<lastmod>2022-03-06T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/being-authentic-and-true-to-yourself/</loc>
@@ -293,6 +305,10 @@
 <lastmod>2022-03-16T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/stop-watching-porn/</loc>
+<lastmod>2022-03-17T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/when-you-see-wrong-do-two-goods-elsewhere/</loc>
 <lastmod>2022-03-18T00:00:00+00:00</lastmod>
 </url>
@@ -327,6 +343,10 @@
 <url>
 <loc>http://localhost:4000/the-middle-path/</loc>
 <lastmod>2022-04-26T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/buddhism-resources/</loc>
+<lastmod>2022-04-30T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>
