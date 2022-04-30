@@ -6,9 +6,9 @@ categories:
   - Buddhism
 ---
 
-In this very short article, I will lay out some of the resources which I have used in the past which has helped me considerably with understanding Buddhism a lot more and I also realize I am very new to Buddhism, only recently having learned of its teachings and its wisdoms have already been spoken about by many millions and they have done a very good job at explaining the core concepts better than I ever could.
+In this very short article, I will lay out some of the resources which I have used in the past which has helped me considerably with understanding Buddhism a lot more and I also realize am new to Buddhism.
 
-“Buddhism plain and simple” by Steve Hagen is the number 1 book I recommend to all aspiring to become Buddhist and seeking to free themselves from suffering or dukka as its called in Buddhism. It explains the basics and the four noble truths in good details and easy enough for beginners and so recommend this book to all looking to understand Buddhism.
+“Buddhism plain and simple” by Steve Hagen is a book I recommend to those aspiring to become Buddhist and seeking to free themselves from suffering or dukka as its called in Buddhism. It explains the basics and the four noble truths in good details and easy enough for beginners and so recommend this book to all looking to understand Buddhism.
 
 <https://www.accesstoinsight.org/ptf/index.html> This website has helped me tremendously with understanding the eightfold path a lot more, namely right speech which is something which I really suffered with for some time and so recommend this website and its articles to all who are following the path towards inner enlightenment. 
 
@@ -20,8 +20,6 @@ I assure you that the rewards are very big for reaching nirvana and freeing your
 
 Of course, these books are just my suggestions and the books that have helped me on the path. You can use the website that I listed here instead if you would rather not spend the money. There are plenty of free resources available online to help understand Buddhism a lot more and these two books I suggest here are just the books that have helped me and may or may not help you.
 
-Links to the books on amazon are below.
+You can also check out my articles on the four noble truths on this blog which may help you along the path and they are all free. 
 
-<https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_1?crid=5E4067LCE4VG&keywords=buddhism+plain+and+simple&qid=1651351541&sprefix=buddhism+plain+and+simple%2Caps%2C128&sr=8-1>\\
-<https://www.amazon.co.uk/Unhindered-Mindful-Path-Through-Hindrances/dp/0989833402/ref=sr_1_3?crid=1RCRPKW3Z5TPX&keywords=buddhism+unhindered&qid=1651351185&sprefix=buddhism+unhindere%2Caps%2C92&sr=8-3>
-
+I will also be doing articles on all of the eightfold path so be sure to check out those articles.
