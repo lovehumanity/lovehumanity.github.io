@@ -18,6 +18,8 @@ I also just wanted to add that it takes a long time in meditation and through co
 
 I assure you that the rewards are very big for reaching nirvana and freeing yourself or dukka.
 
+Of course, these books are just my suggestions and the books that have helped me on the path. You can use the website that I listed here instead if you would rather not spend the money. There are plenty of free resources available online to help understand Buddhism a lot more and these two books I suggest here are just the books that have helped me and may or may not help you.
+
 Links to the books on amazon are below.
 
 <https://www.amazon.co.uk/Buddhism-Plain-Simple-Arkana-Steve/dp/0140195963/ref=sr_1_1?crid=5E4067LCE4VG&keywords=buddhism+plain+and+simple&qid=1651351541&sprefix=buddhism+plain+and+simple%2Caps%2C128&sr=8-1>\\
