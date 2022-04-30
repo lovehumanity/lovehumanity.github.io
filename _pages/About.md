@@ -44,10 +44,6 @@ Also a side note that the articles on this blog are not very long in length beca
 
 As a side note I do update this blog very regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
 
-Lastly if you could fill out my survey for this blog as I am trying to improve this blog and make it the best possible blog that I can give to the world. Link for the survey is down below.
-
-<https://docs.google.com/forms/d/e/1FAIpQLSeXpNQfEUUf9cv5JLmOTWGZhdYtutIEZWpv1jMa490b0lGW1g/viewform?usp=sf_link>
-
 ## Awesome Subjects :mag:
 
 - Buddhism _(Desire is the cause of suffering)_   
@@ -61,7 +57,6 @@ I find that all subjects are linked together. Really it comes down to how you de
 
 ## Best Videos on Youtube :tv:
 
-[Can you beat the System? - Inspirational nomad](https://www.youtube.com/watch?v=PJBcuHGw7k4)\\
 [The Philosophy of Kreia: A Critical Examination of Star Wars - esfelectra](https://www.youtube.com/watch?v=-Z0S0Z8lUTg)\\
 [Modern Educayshun -  Neel Kolhatkar](https://www.youtube.com/watch?v=iKcWu0tsiZM)\\
 [How people view you - SNEAKO](https://www.youtube.com/watch?v=guz7hc8RlfI)\\
@@ -90,4 +85,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Updated 20/03/22
+Last Updated 30/04/22

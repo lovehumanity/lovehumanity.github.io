@@ -365,12 +365,6 @@ var store = [{
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
       },{
-        "title": "The True Aliens",
-        "excerpt":"In this article I will give my rough understanding of the alien topic. Which has nowadays become virtually a household topic. Most of the information I have received here has been from The Great White Brotherhood’s book “Aliens the Strange Truth” and you can find a link to that book...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/the-true-aliens/",
-        "teaser": "http://localhost:4000/assets/blogs/Aliens/aliens.webp"
-      },{
         "title": "Being Authentic and True to Yourself",
         "excerpt":"(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself) In this short post I will talk a little about why it’s so important to be authentic and true to...","categories": ["Spiritual"],
         "tags": [],
@@ -491,7 +485,7 @@ var store = [{
         "url": "http://localhost:4000/linking-with-the-god-spirit/",
         "teaser": null
       },{
-        "title": "The Middle Way",
+        "title": "The Middle Path",
         "excerpt":"In this article I will talk a little bit about the middle path. To understand what the middle path is you first need to understand what the right-hand path and left-hand path are. The left-hand path is essentially that you promote individualism and do things for yourself generally at the...","categories": ["Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/the-middle-path/",
