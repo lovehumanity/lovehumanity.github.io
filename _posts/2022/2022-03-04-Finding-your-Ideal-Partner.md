@@ -24,4 +24,4 @@ Related Articles:
 [Self Image]({% post_url 2020-12-25-Self-Image %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
-[Judgement]({% post_url 2021-12-30-Judgement %})\
+[Judgement]({% post_url 2021-12-30-Judgement %})
