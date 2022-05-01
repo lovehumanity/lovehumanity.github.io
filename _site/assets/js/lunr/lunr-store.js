@@ -1,16 +1,4 @@
 var store = [{
-        "title": "Books That Have Changed My Life",
-        "excerpt":"In this post I will talk about the books which have has the biggest impact on my life so far. I am young in my 20s as I write this, and I have gone through some hardship in my life. Life hasn’t been a walk in the park for me...","categories": ["Self-Improvement","Books"],
-        "tags": [],
-        "url": "http://localhost:4000/books-that-have-had-the-biggest-impact-on-me/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-10-31-Books-that-have-changed-my-life/tree.jpg"
-      },{
-        "title": "Creating a Blog for Free",
-        "excerpt":"This guide will look at how to use jekyll to create your own static blog hosted completely free using either GitLab or GitHub. This guide will use Arch Linux as the system, although others distros will have a similar install procedure. First start by installing ruby on your system Arch:...","categories": ["Productivity"],
-        "tags": [],
-        "url": "http://localhost:4000/creating-a-blog-for-free/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-11-03-Creating-a-free-blog/blog.jpeg"
-      },{
         "title": "Managing Your Time and Energy",
         "excerpt":"The first thing I want to make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are...","categories": ["Spiritual","Self-Improvement"],
         "tags": [],
@@ -425,6 +413,12 @@ var store = [{
         "url": "http://localhost:4000/selfishness/",
         "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
       },{
+        "title": "Right Action",
+        "excerpt":"In this short article I will be talking about Right action. Right action is the 3rd element of the eightfold path and is a very important aspect of it. Right action first begins by understanding why exactly your actions lead to suffering. This is key to actually being able to...","categories": ["Spiritual","Buddhism"],
+        "tags": ["Right Action","Noble EightFoldPath","Noble Four Truths"],
+        "url": "http://localhost:4000/right-action/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
         "title": "Right Concentration",
         "excerpt":"In this short article I will be talking about Right Concentration. Which is one element of the eightfold path and one which I think if mastered will be very beneficial to all. The first part in understanding right concentration or any element of the eightfold path is to understand why...","categories": ["Spiritual","Buddhism"],
         "tags": ["Right Concentration","Noble EightFoldPath","Noble Four Truths"],
@@ -515,9 +509,9 @@ var store = [{
         "url": "http://localhost:4000/the-middle-path/",
         "teaser": "http://localhost:4000/assets/blogs/the-middle-way.jpg"
       },{
-        "title": "Buddhism Resources",
-        "excerpt":"In this very short article, I will lay out some of the resources which I have used in the past which has helped me considerably with understanding Buddhism a lot more and I also realize I am very new to Buddhism, only recently having learned of its teachings and its...","categories": ["Buddhism"],
+        "title": "Healing Past Wounds",
+        "excerpt":"In this article I will talk a little bit about how you can heal from your past wounds and traumas that an incarnation on earth bears you with. The first thing you need to appreciate when seeking to heal past wounds and traumas is that you should become more like...","categories": ["Spirituality"],
         "tags": [],
-        "url": "http://localhost:4000/buddhism-resources/",
+        "url": "http://localhost:4000/healing-past-wounds/",
         "teaser": null
       }]

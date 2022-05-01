@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/books-that-have-had-the-biggest-impact-on-me/</loc>
-<lastmod>2020-10-31T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/creating-a-blog-for-free/</loc>
-<lastmod>2020-11-03T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/managing-your-time-and-energy/</loc>
 <lastmod>2020-12-05T00:00:00+00:00</lastmod>
 </url>
@@ -285,6 +277,10 @@
 <lastmod>2022-03-14T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/right-action/</loc>
+<lastmod>2022-03-15T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/right-concentration/</loc>
 <lastmod>2022-03-15T00:00:00+00:00</lastmod>
 </url>
@@ -345,8 +341,8 @@
 <lastmod>2022-04-26T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/buddhism-resources/</loc>
-<lastmod>2022-04-30T00:00:00+01:00</lastmod>
+<loc>http://localhost:4000/healing-past-wounds/</loc>
+<lastmod>2022-05-01T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/About/</loc>
