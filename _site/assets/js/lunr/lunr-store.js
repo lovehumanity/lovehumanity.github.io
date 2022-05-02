@@ -317,6 +317,12 @@ var store = [{
         "url": "http://localhost:4000/possession/",
         "teaser": null
       },{
+        "title": "Crisis in Ukraine",
+        "excerpt":"Hello all, it saddens me to see war in Ukraine. I don’t know much about Ukraine and the politics involved in that area, but I know that all war isn’t good. I don’t actually watch the news, but I have heard from the forums and friends/family that I visit that...","categories": ["Current Affairs"],
+        "tags": [],
+        "url": "http://localhost:4000/crisis-in-ukraine/",
+        "teaser": "http://localhost:4000/assets/blogs/Ukraine/test.webp"
+      },{
         "title": "Fake Spirituality",
         "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
         "tags": [],
@@ -514,4 +520,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/healing-past-wounds/",
         "teaser": null
+      },{
+        "title": "Right Effort",
+        "excerpt":"In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to lead...","categories": ["Buddhism"],
+        "tags": [],
+        "url": "http://localhost:4000/right-effort/",
+        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       }]
