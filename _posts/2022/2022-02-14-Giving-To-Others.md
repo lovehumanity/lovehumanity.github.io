@@ -4,11 +4,7 @@ date: 2022-02-14
 classes: wide
 categories:
   - Spiritual 
-header:
-  teaser: /assets/blogs/giving/giving.png
 --- 
-
-![Giving]({{ site.url }}{{ site.baseurl }}//assets/blogs/giving/giving.png)
 
 You should first start by recognizing that it’s not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others. 
 
