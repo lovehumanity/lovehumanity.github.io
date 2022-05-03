@@ -40,7 +40,7 @@ I also do not ask for **ANY** donations to this blog or myself, but in the past 
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
-As a side note I do update this blog very regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. I am also looking for a volunteer who can go through all my articles and point out any spelling mistakes or gramatical errors that I have on my blog. If you find any yourself please feel free to email me the spelling mistakes and I will be most grateful for you.
+As a side note I do update this blog very regularly and so if you enjoy this content and would like to continue to come back here please do consider bookmarking this blog in your browser or saving the link. Or you have the option to subscribe with RSS if you still use that and you will find an icon for that at the bottom of the page. 
 
 I also advertise my posts on reddit under the username /u/SufficientDistrict10 
 
@@ -85,4 +85,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Updated 30/04/22
+Last Updated 03/05/22
