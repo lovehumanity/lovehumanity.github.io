@@ -273,7 +273,7 @@ var store = [{
         "excerpt":"You should first start by recognizing that it’s not all about you and allowing things like pride and arrogance (ego) have an impact on your ability to give. I myself have allowed pride to affect me a lot and its cost me a lot in life as it has others....","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/giving-to-others/",
-        "teaser": "http://localhost:4000/assets/blogs/giving/giving.png"
+        "teaser": null
       },{
         "title": "The Law of Mutual Attraction",
         "excerpt":"The Law of Mutual Attraction is a univerisal law which quite simply means that like attracts like. A basic example is your own thoughts that you put out to the world you receive in return, so if you are having lots of negative thoughts, then the world will respond to...","categories": ["Spiritual"],
