@@ -46,6 +46,10 @@ As a side note I do update this blog very regularly and so if you enjoy this con
 
 I also advertise my posts on reddit under the username /u/SufficientDistrict10 
 
+And also have a brand new reddit forum which I have created which you can find linked below
+
+<https://www.reddit.com/r/SaintChristopher/>
+
 ## Awesome Subjects :mag:
 
 - Buddhism _(Desire is the cause of suffering)_   
