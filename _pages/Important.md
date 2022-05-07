@@ -12,6 +12,7 @@ Spiritual:
 [Becoming More Christ like]({% post_url 2022-04-13-Becoming-More-Christ-Like %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
+[Serving Others]({% post_url 2022-05-07-Serving-Others %})\\
 [Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})\\
 [Taking the Saw Dust out of Your Own Eyes]({% post_url 2022-01-04-Taking-The-Saw-Dust-Out-Of-Your-Own-Eyes %})\\
 [Practice Spirituality in Secret]({% post_url 2021-09-25-Practice-Spirtuality-in-secret %})\\
