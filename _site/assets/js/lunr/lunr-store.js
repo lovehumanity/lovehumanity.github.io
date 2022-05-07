@@ -532,4 +532,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/right-effort/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
+      },{
+        "title": "Serving Others",
+        "excerpt":"In this article I will be discussing why its so important for each and every individual to find some means of serving others whether that be through a job, volunteering in some way or donating to others. The first thing that needs to be understood is that we all are...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/serving-others/",
+        "teaser": null
       }]
