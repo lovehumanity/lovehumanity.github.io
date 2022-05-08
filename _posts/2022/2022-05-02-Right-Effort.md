@@ -13,7 +13,7 @@ header:
 
 In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to lead to suffering. This is the basic notion of what right effort actually is and how I really understand it.
 
-When I say exertion, I mean that you give way to the right level of energy in a sense and give way to the correct levels of effort at times when you are feeling that you can’t have the correct levels of effort. Right effort doesn’t mean you don’t rest, it means that you see your actions and are able to give way to right action at times when you are feeling like you may give up on that action.
+When I say exertion, I mean that you give way to the right level of efforts at times when you are feeling that you can’t have the correct levels of effort. Right effort doesn’t mean you don’t rest, it means that you see your actions and are able to give way to right action at times when you are feeling like you may give up on that action.
 
 The most important thing to understand when seeking to master any of the parts of the noble eightfold path is to seek to understand how and why not having one of the elements leads to suffering. When the Buddha used the word “Right” with the eightfold path he meant that you give way to that element of the eightfold path at the correct times so as to not allow yourself to suffer or give way to dukka as the Buddha called it.
 
