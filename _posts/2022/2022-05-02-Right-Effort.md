@@ -11,7 +11,7 @@ header:
 ![Eightfoldpath]({{ site.url }}{{ site.baseurl }}/assets/blogs/Buddhism/eightfold-path.jpg)
 
 
-In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to lead to suffering. This is the basic notion of what right effort actually is and how I really understand it.
+In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to cause suffering. This is the basic notion of what right effort actually is and how I really understand it.
 
 When I say exertion, I mean that you give way to the right level of efforts at times when you are feeling that you can’t have the correct levels of effort. Right effort doesn’t mean you don’t rest, it means that you see your actions and are able to give way to right action at times when you are feeling like you may give up on that action.
 
@@ -19,7 +19,7 @@ The most important thing to understand when seeking to master any of the parts o
 
 My advice with all following the path to liberation from dukka is to seek to mediate on how not having one of the elements leads you to suffering or dukka. But it’s important to practice mindfulness also when seeking to master any of the noble eightfold paths and my advice would be to really spend some time studying from online material and books what the Buddha really meant by the different elements of the noble eightfold paths because my way of explaining it may not be best suited for you.
 
-I also advise that you seek to spend some time contemplating and recognizing the ways that you break the any of the eightfold paths in your life. I also just want to add that you don’t master the eightfold path in chronological order i.e right understanding, right intention etc. It really depends on the person in which order they master the noble eightfold path. Generally, those who have strong mental discipline are more likely to find it a lot easier to master those elements on the eightfold path associated with mental discipline; i.e right concentration, right mindfulness, and right effort.
+I also advise that you seek to spend some time contemplating and recognizing the ways that you break any of the eightfold paths in your life. I also just want to add that you don’t master the eightfold path in chronological order i.e right understanding, right intention etc. It really depends on the person in which order they master the noble eightfold path. Generally, those who have strong mental discipline are more likely to find it a lot easier to master those elements on the eightfold path associated with mental discipline; i.e right concentration, right mindfulness, and right effort.
 
 Feel free to read my other articles on Buddhism which may give you some guidance on how you can master the noble eightfold path or seek to read up on them as like I said my means of explaining may not be as clearly spoken as someone with more expertise on the subject.
 
