@@ -125,18 +125,6 @@ var store = [{
         "url": "http://localhost:4000/having-healhy-responses-to-difficult-situations/",
         "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
       },{
-        "title": "Right Thoughts and Happiness",
-        "excerpt":"I wanted to make this short post about thoughts and the importance of them and the importance of not giving way to unhappiness in your life and pushing happiness as best as you can. For the past few months, I’ve been engaging in a lot of negative thought patterns about...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/right-thoughs-and-happiness/",
-        "teaser": null
-      },{
-        "title": "Happiness Part 2",
-        "excerpt":"Happiness part 2: Here are some thought provoking things about happiness that I thought others might enjoy. External events do they contain happiness within it? Is it the travelling to the destination that is what makes us happy? Is it the enjoyment that makes us happy? If it did anyone...","categories": ["Wellbeing","Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/happiness-part-2/",
-        "teaser": null
-      },{
         "title": "Faults",
         "excerpt":"In this short post I will talk a little bit about faults or flaws. Quite simply a fault or flaw is something that isn’t perfect or is hindering you in some way. An example of a fault could be self-sabotage, which in my opinion a lot of people have this...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
@@ -371,12 +359,6 @@ var store = [{
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
       },{
-        "title": "The True Aliens",
-        "excerpt":"In this article I will give my rough understanding of the alien topic. Which has nowadays become virtually a household topic. Most of the information I have received here has been from The Great White Brotherhood’s book “Aliens the Strange Truth” and you can find a link to that book...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/the-true-aliens/",
-        "teaser": "http://localhost:4000/assets/blogs/Aliens/aliens.webp"
-      },{
         "title": "The Third Noble Truth",
         "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
         "tags": [],
@@ -426,7 +408,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
       },{
         "title": "Right Action",
-        "excerpt":"In this short article I will be talking about Right action. Right action is the 3rd element of the eightfold path and is a very important aspect of it. Right action first begins by understanding why exactly your actions lead to suffering. This is key to actually being able to...","categories": ["Spiritual","Buddhism"],
+        "excerpt":"Updated 08/05/22 In this short article I will be talking about Right action. Right action is the 4th element of the eightfold path. Right action first begins by understanding why not having right action lead to suffering. This is key to actually being able to incorporate right action as part...","categories": ["Spiritual","Buddhism"],
         "tags": ["Right Action","Noble EightFoldPath","Noble Four Truths"],
         "url": "http://localhost:4000/right-action/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
@@ -528,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Right Effort",
-        "excerpt":"In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to lead...","categories": ["Buddhism"],
+        "excerpt":"In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to cause...","categories": ["Buddhism"],
         "tags": [],
         "url": "http://localhost:4000/right-effort/",
         "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
