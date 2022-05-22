@@ -520,4 +520,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/serving-others/",
         "teaser": null
+      },{
+        "title": "Change Your Inner World First",
+        "excerpt":"In this short article I will talk about how you should seek to pray for your inner world and seek to change your inner world before you attempt to pray for others outside your inner world. We all live in our own worlds. No person’s world is the same as...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/change-your-inner-world-first/",
+        "teaser": null
       }]
