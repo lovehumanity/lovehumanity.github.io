@@ -24,4 +24,4 @@ What he was saying here is that you shouldn’t judge or condemn others because 
 Further Reading:
 
 <https://www.bruderhof.com/en/topics/the-sermon-on-the-mount> 
-
+<https://www.christianbiblereference.org/jteach.pdf>
