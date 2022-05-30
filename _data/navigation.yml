@@ -2,6 +2,8 @@
 main:
    - title: "Posts"
      url: /year-archive
+   - title: "The Great White Brotherhood"
+     url: /TheGreatWhiteBrotherhood
    - title: "About"
      url: /About
    - title: "Important Articles"
