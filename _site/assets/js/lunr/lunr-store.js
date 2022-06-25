@@ -323,12 +323,6 @@ var store = [{
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
         "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
       },{
-        "title": "Right Speech",
-        "excerpt":"In this short article I will talk about right speech which is one of the eightfold paths. Right speech encompasses anything you say to others and yourself, even with talking in your mind you should practice right speech. A key thing in right speech is to not tell lies to...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Right Speech","Noble EightFoldPath","Noble Four Truths"],
-        "url": "http://localhost:4000/right-speech/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
         "title": "The First Noble Truth",
         "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
         "tags": [],
@@ -377,12 +371,6 @@ var store = [{
         "url": "http://localhost:4000/controlling-others/",
         "teaser": "http://localhost:4000/assets/blogs/anger/anger1.png"
       },{
-        "title": "Right Mindfulness",
-        "excerpt":"In this article I will talk a little bit about Right Mindfulness which is something which really does bring you out of suffering and is something which would say I have mastered. Right mindfulness should first come in recognizing that you are not your mind, which so many people in...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Right Mindfulness","God","Eightfoldpath","Suffering"],
-        "url": "http://localhost:4000/right-mindfulness/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
         "title": "When Someone Does Wrong To You",
         "excerpt":"In this article I will be talking about when someone does wrong to you and how you should respond to that or if you do wrong to yourself and how you should deal with that. This is a touchy subject for me because I have caused myself many wrongs in...","categories": ["Spiritual"],
         "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
@@ -406,18 +394,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/selfishness/",
         "teaser": "http://localhost:4000/assets/blogs/selfishness/coward.webp"
-      },{
-        "title": "Right Action",
-        "excerpt":"Updated 08/05/22 In this short article I will be talking about Right action. Right action is the 4th element of the eightfold path. Right action first begins by understanding why not having right action lead to suffering. This is key to actually being able to incorporate right action as part...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Right Action","Noble EightFoldPath","Noble Four Truths"],
-        "url": "http://localhost:4000/right-action/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
-        "title": "Right Concentration",
-        "excerpt":"In this short article I will be talking about Right Concentration. Which is one element of the eightfold path and one which I think if mastered will be very beneficial to all. The first part in understanding right concentration or any element of the eightfold path is to understand why...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Right Concentration","Noble EightFoldPath","Noble Four Truths"],
-        "url": "http://localhost:4000/right-concentration/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
       },{
         "title": "What Others Think of You",
         "excerpt":"In this article I will talk a little about what other people think of you. This is something which I have struggled with a lot in my life and something I am sure that other people have struggled with a lot of their life. What other people think of you...","categories": ["Spiritual"],
@@ -461,22 +437,10 @@ var store = [{
         "url": "http://localhost:4000/devotion-to-god/",
         "teaser": "http://localhost:4000/assets/blogs/god/god.jpeg"
       },{
-        "title": "The First Aggregate",
-        "excerpt":"In this short article I will talk a little bit about the first aggregate of the five aggregates in Buddhism. If you don’t know the Buddha taught that there is no self and that what you view as yourself just isn’t so and is in reality an illusion. I will...","categories": ["Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-first-aggregate/",
-        "teaser": null
-      },{
         "title": "Understanding",
         "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, is something which has to be given to others with good will for them. Any intent of ill will and understanding will simply...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/understanding/",
-        "teaser": null
-      },{
-        "title": "The Dangers of AI and Machine Learning",
-        "excerpt":"In this short article I wanted to talk a little bit about the risks of AI and machine learning. This is a bit of an oddball article which I thought it was important enough to share to the world and also spirituality doesn’t just have to be about meditation/prayer etc,...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/the-dangers-of-ai-and-machine-learning/",
         "teaser": null
       },{
         "title": "Becoming More Christ Like",
@@ -509,12 +473,6 @@ var store = [{
         "url": "http://localhost:4000/healing-past-wounds/",
         "teaser": null
       },{
-        "title": "Right Effort",
-        "excerpt":"In this article I will talk about my basic understanding of right effort which is 1 of the 3 mental disciplines in the eightfold path in Buddhism. Right effort as I understand it is having the correct level of effort (exertion) at the appropriate times so as not to cause...","categories": ["Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/right-effort/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
         "title": "Serving Others",
         "excerpt":"In this article I will be discussing why its so important for each and every individual to find some means of serving others whether that be through a job, volunteering in some way or donating to others. The first thing that needs to be understood is that we all are...","categories": ["Spiritual"],
         "tags": [],
@@ -525,5 +483,11 @@ var store = [{
         "excerpt":"In this short article I will talk about how you should seek to pray for your inner world and seek to change your inner world before you attempt to pray for others outside your inner world. We all live in our own worlds. No person’s world is the same as...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/change-your-inner-world-first/",
+        "teaser": null
+      },{
+        "title": "Doing Things For Yourself",
+        "excerpt":"Doing Things for yourself In this article I will talk a little bit about doing things for yourself and how having your best interests at heart is the most important thing that you can do. Lately I have been a little down in myself because I have realized that I’ve...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/doing-things-for-yourself/",
         "teaser": null
       }]
