@@ -12,7 +12,7 @@ In this article I will talk a little bit about doing things for yourself and how
 
 Lately I have been a little down in myself because I have realized that I’ve been doing things far, far too much for the good of others at my own expense and this has been the way I have been for the past few years now and is one of the reasons I have had a rough life these past few years in my life.
 
-But I realize now that true spirituality is about yourself. Its not about others, its not about your friends/family and your acquaintances, its about yourself. I realized that I took up meditation/prayer because I followed a certain group which I have a page on “The Great White Brotherhood” and I wouldn’t be the person that I am today without their spiritual wisdoms which they have imparted onto earth.
+But I realize now that true spirituality is about yourself. Its not about others, its not about your friends/family and your acquaintances, its about yourself. I realized that I took up meditation/prayer because I followed a certain group.
 
 My honest advice to all is to put yourself first and just be yourself, I have struggled because I have felt that others have had something more than me these past few years. This doesn’t mean that you go about doing bad deeds onto others, quite the opposite, it means that you have your best interests at heart and always put yourself first no matter what, which means doing good deeds onto others, for the rewards that you shall receive in heaven are big.
 
