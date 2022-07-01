@@ -17,3 +17,9 @@ One thing that needs to be understood with the ten commandments I believe are th
 Therefore, when adhering to the ten commandments, seek to really meditate and spend some time understanding each of them and their implications and how to apply them into your life. I also recommend to all that they recite the 10 commandments by hand and do lines with them and put efforts to contemplate in which ways they break the 10 commandments.
 
 In conclusion, I don’t want to give too many of my own interpretations regarding the ten commandments because it takes away from your own interpretations and really my points are just suggestions in how you may interpret the ten commandments. With each of the ten commandments really try to understand each of them and look for the implications in them, seek to meditate and start a journal to help to understand yourself better and understand how it is you break some of the 10 commandments. We are all far from perfect and as such it is bound that in our lives, we break the ten commandments somehow because if we were able to apply each of the ten commandments to our lives, we would be at Gods side already. But we are all far from perfect on earth and even the great masters such as Buddha, Jesus, Moses etc were not perfect. We each have a long journey ahead of us and its important to keep up our strength in the coming years.
+
+Update 1 01/07/22
+
+I also recommend to all that you spend time in meditation and contemplation on how you break any of the 10 commandments, because we all sin because none of us are perfect.
+
+I also strongly recommend that you recite by hand the ten commandments and do lines on the ten commandments and focus on how you break them in your life.
