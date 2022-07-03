@@ -490,4 +490,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/doing-things-for-yourself/",
         "teaser": null
+      },{
+        "title": "Prayer for Peace",
+        "excerpt":"Prayer for Peace. In this short article I will discuss a little why its so important to pray for peace. Peace is a concept that not many people quite appreciate enough, we nowadays have a lot of military factions always striving for war, but not many people appreciate what they...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/prayer-for-peace/",
+        "teaser": null
       }]
