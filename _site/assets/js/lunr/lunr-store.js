@@ -449,6 +449,12 @@ var store = [{
         "url": "http://localhost:4000/prayer-for-peace/",
         "teaser": null
       },{
+        "title": "Becoming Myself",
+        "excerpt":"I wanted to write this short piece to say here that I realized why I was so “Lost at sea” for so long. Its not because I was lost, its because I found a truth and, in a sense, I denied it and buried it for so long that I...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/becoming-myself/",
+        "teaser": "http://localhost:4000/assets/blogs/Becoming-myself/swan.jpg"
+      },{
         "title": "Real Spirituality",
         "excerpt":"In this article I wanted to spend some time discussing what so called real spirituality is. To first understand what real spirituality is, you first need to understand that we all go on our own journeys. Each journey is different and each journey all has the same end. But the...","categories": ["Spiritual"],
         "tags": [],
