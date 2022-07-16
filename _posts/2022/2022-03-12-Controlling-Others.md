@@ -32,8 +32,6 @@ Related Articles:
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
-[Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
-[Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Black and White Thinking]({% post_url 2021-02-20-Black-And-White-Thinking %})\\

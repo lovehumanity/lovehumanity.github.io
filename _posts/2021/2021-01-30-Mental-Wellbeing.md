@@ -52,8 +52,6 @@ Update 1: 08/03/22
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
-[Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
-[Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
 [Lost at Sea]({% post_url 2022-03-04-Lost-at-Sea-Poem %})\\
 [Found at Sea]({% post_url 2022-03-04-Found-at-Sea %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\

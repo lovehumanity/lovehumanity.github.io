@@ -281,18 +281,6 @@ var store = [{
         "url": "http://localhost:4000/meditation/",
         "teaser": "http://localhost:4000/assets/images/me.jpg"
       },{
-        "title": "Right Intention",
-        "excerpt":"Now I believe that right intention is one of the more important parts of the eightfold path because if you don’t have right intention then all else fails in terms of freeing yourself from suffering. Right intention begins by becoming more mindful of your intentions and so I believe that...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/right-intention/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
-        "title": "Sloth and Torpor",
-        "excerpt":"Sloth and Torpor is described as an unwholesome state whereby the mind is dulled, and it leads one into a thick and irritable depression. It is one of the 5 hindrances in Buddhism and is I think quite a significant hindrance for following the path. I have suffered tremendously from...","categories": ["Spiritual","Buddhism"],
-        "tags": ["Sloth and Torpor","Accomplishments","Death","Life after death"],
-        "url": "http://localhost:4000/sloth-and-torpor/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/eightfold-path.jpg"
-      },{
         "title": "Prayer",
         "excerpt":"My Prayer I made my own prayer if anyone is interested in my prayer feel free to use it as a template. Also you shouldn’t feel embarrassed about taking up prayer, because I know that many people think that only Christians can pray or oft times I feel that people’s...","categories": ["Spiritual"],
         "tags": ["Jesus","God","Christianity"],
@@ -323,18 +311,6 @@ var store = [{
         "url": "http://localhost:4000/doing-the-most-loving-thing/",
         "teaser": "http://localhost:4000/assets/blogs/love/love.jpg"
       },{
-        "title": "The First Noble Truth",
-        "excerpt":"The first noble truth is that the existence is inevitably dukka or usually this is translated as suffering but that doesn’t encompass the entire meaning of this word. It means unsatisfactory, I think what the Buddha really meant by this word is that because everything is temporary, we are not...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-first-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
-      },{
-        "title": "The Second Noble Truth",
-        "excerpt":"In this short article I will talk a little about my understanding of the second noble truth in Buddhism. The second noble truth is that dukka has a cause and that cause is a thirst, craving, wanting or as I put it desire. Essentially what this means it that dukka...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-second-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
-      },{
         "title": "Finding your Ideal Partner",
         "excerpt":"In this short article I will talk a little about finding your ideal partner. Now I feel that many people unfortunately don’t actually know how to find their ideal partner, which I think is unfortunate because I would like to see a world where everyone meets their ideal partner in...","categories": ["Spiritual"],
         "tags": [],
@@ -352,12 +328,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/lost-at-sea-poem/",
         "teaser": "http://localhost:4000/assets/blogs/at-sea/at-sea.jpg"
-      },{
-        "title": "The Third Noble Truth",
-        "excerpt":"In this short article I will talk about the third noble truth that the Buddha described. To recap the first noble truth is that life is inherently dukka and you can read my article about this Here and then the second noble truth is that dukka has a cause and...","categories": ["Spiritual","Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-third-noble-truth/",
-        "teaser": "http://localhost:4000/assets/blogs/Buddhism/Statue.jpg"
       },{
         "title": "Being Authentic and True to Yourself",
         "excerpt":"(No that is not me in the photo, its just a generic photo which I thought would go well with the theme of this article of staying true to yourself) In this short post I will talk a little about why it’s so important to be authentic and true to...","categories": ["Spiritual"],
@@ -413,18 +383,6 @@ var store = [{
         "url": "http://localhost:4000/stop-using-social-media/",
         "teaser": "http://localhost:4000/assets/blogs/social/social.jpg"
       },{
-        "title": "Stop Watching the News",
-        "excerpt":"The news is something which I think only brainwashes the general public and is propaganda. Try finding an old news article and you will be hard find to find an article from three months ago on their own website and this really is how the news thrives by constantly filling...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-watching-the-news/",
-        "teaser": "http://localhost:4000/assets/blogs/news/news.jpeg"
-      },{
-        "title": "Stop Watching Porn",
-        "excerpt":"In this article I will talk a little about Porn. Now Porn is a topic which many people in our society don’t like to discuss, but hide, like its something that should be hidden to the general public, when generally a lot of people watch it and consume it on...","categories": ["Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-watching-porn/",
-        "teaser": "http://localhost:4000/assets/blogs/porn/porn.jpg"
-      },{
         "title": "When You See Wrong do Two Goods Elsewhere",
         "excerpt":"I wanted to write about why it’s so important for people to do two goods in the world or elsewhere for that matter when they see bad or wrongdoing. The world would be a much brighter place and we the public would be much happier the people in charge did...","categories": ["Spiritual"],
         "tags": ["God"],
@@ -460,12 +418,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/linking-with-the-god-spirit/",
         "teaser": null
-      },{
-        "title": "The Middle Path",
-        "excerpt":"In this article I will talk a little bit about the middle path. To understand what the middle path is you first need to understand what the right-hand path and left-hand path are. The left-hand path is essentially that you promote individualism and do things for yourself generally at the...","categories": ["Buddhism"],
-        "tags": [],
-        "url": "http://localhost:4000/the-middle-path/",
-        "teaser": "http://localhost:4000/assets/blogs/the-middle-way.jpg"
       },{
         "title": "Healing Past Wounds",
         "excerpt":"In this article I will talk a little bit about how you can heal from your past wounds and traumas that an incarnation on earth bears you with. The first thing you need to appreciate when seeking to heal past wounds and traumas is that you should become more like...","categories": ["Spirituality"],

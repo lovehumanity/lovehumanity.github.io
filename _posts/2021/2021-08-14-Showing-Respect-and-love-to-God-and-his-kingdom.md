@@ -41,8 +41,6 @@ Feel free to give my other articles a read which will help to further the power 
 [Compassion]({% post_url 2022-02-09-Compassion %})\\
 [Meditation]({% post_url 2022-02-19-Meditation %})\\
 [Prayer]({% post_url 2022-02-22-Prayer %})\\
-[Sloth and Torpor]({% post_url 2022-02-20-Sloth-and-Torpor %})\\
-[Suffuring and the Four Noble Truths]({% post_url 2022-02-10-Suffering-and-the-four-noble-truths %})\\
 [Finding your Ideal Partner]({% post_url 2022-03-04-Finding-your-Ideal-Partner %})\\
 [Being Authentic and True to Yourself]({% post_url 2022-03-08-Being-Authentic-and-True-to-Yourself %})\\
 [Judgement]({% post_url 2021-12-30-Judgement %})\\
