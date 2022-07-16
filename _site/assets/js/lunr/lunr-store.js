@@ -496,4 +496,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/prayer-for-peace/",
         "teaser": null
+      },{
+        "title": "Prayer for Peace",
+        "excerpt":"Prayer for Peace. In this short article I will discuss a little why its so important to pray for peace. Peace is a concept that not many people quite appreciate enough, we nowadays have a lot of military factions always striving for war, but not many people appreciate what they...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/prayer-for-peace/",
+        "teaser": null
+      },{
+        "title": "Real Spirituality",
+        "excerpt":"In this article I wanted to spend some time discussing what so called real spirituality is. To first understand what real spirituality is, you first need to understand that we all go on our own journeys. Each journey is different and each journey all has the same end. But the...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/real-spirtuality/",
+        "teaser": null
       }]
