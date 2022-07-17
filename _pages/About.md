@@ -7,7 +7,7 @@ classes: wide
 
 ## About Me
 
-Generally I don't like talking about myself because I was into privacy a lot in my late teens and young adult years even sharing photos of myself was a big jump for me on this blog, but my general interests right now are computers. I want to learn more about reverse engineering computer software and I'm currently employed in a service desk role in an IT company and hoping to learn alot more about reverse engineering in my free time and am thinking about pursuing this as a full time job or programming for that mattar, something in IT really. I used to be really into ethical hacking and enjoyed the show Mr Robot which really inspired me to become an ethical hacker and did the OSCP, but that took a lot out of me and isn't an easy certification.
+Generally I don't like talking about myself because I was into privacy a lot in my late teens and young adult years even sharing photos of myself was a big jump for me on this blog, but my general interests right now are computers.
 
 In school I was really into History, Business Studies, Maths, Computers, Chess, Programming, Sociology, English, Debate club. I was an introvert in school so didn't really go out too much during my school years or my uni years for that mattar because I guess I was so afaid of what others would think of me and now I would like to make up for that lost time somewhat and be a lot more sociable which I am slowly but surely becoming.
 
@@ -91,4 +91,4 @@ This blog is hosted using gitlab pages and Jekyll using the [Minimal Mistakes th
 
 Refer to my article on how to setup a blog like this yourself for free using Linux linked [here](https://lovehumanity.gitlab.io/productivity/Creating-a-blog-for-free/)
 
-Last Updated 04/05/22
+Last Updated 17/07/22
