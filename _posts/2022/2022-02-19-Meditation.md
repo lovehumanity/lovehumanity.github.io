@@ -45,6 +45,22 @@ This is roughly what I have been taught on the correct way to meditate.
 
 Aim to make meditation apart of your daily routine and you can meditate for longer and as frequnetly as you wish, but aim to be consistent. I will say that I have been meditating fairly consistently for close to 4 years now and I will say that it has allowed me to focus a lot better in my tasks, allowed me to notice reoccuring thought patterns, allowed me to experience bliss, given me a fair amount of enlightnment into myself and has made me alot more peaceful and less egotistical.
 
+Update 1 18/07/22
+
+I also wanted to add that that I learned a new technique for meditation which may be beneficial to you in this article.
+
+I call this meditation mindful, curious non-judgement.
+
+In this meditation you simply sit thank God for protection, put the caccon around you and also thank God that his angels and guides are watching over you.
+
+Then you sit for 15 minutes or longer if you want to.
+
+Then be mindful and just have curious non-judgement.
+
+Of course if you are just starting meditation, it will be difficult initially, but after practice you will get better at it.
+
+But consistency is key with meditation and anything in life for that matter.
+
 Related Articles:
 
 [Understanding]({% post_url 2022-03-31-Understanding %})\\
