@@ -1,21 +1,9 @@
 var store = [{
-        "title": "Managing Your Time and Energy",
-        "excerpt":"The first thing I want to make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are...","categories": ["Spiritual","Self-Improvement"],
-        "tags": [],
-        "url": "http://localhost:4000/managing-your-time-and-energy/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
-      },{
         "title": "Self-Forgiveness",
         "excerpt":"In this post I will talk a little about self-forgiveness. I will start by saying that all forgiveness is a process and takes longer depending on how bad/how many negative acts were taken. The darker and more negative the act the longer that self-forgiveness will take Forgiveness first comes by...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/self-forgiveness/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
-      },{
-        "title": "Stop Consuming New Content",
-        "excerpt":"Everyone is a consumer of some sort. You consume the news, films, music, YouTube, books, essays etc. These could be paid or free it doesn’t matter. Either way everybody consumes something. Think of what you consume as the food you feed your mind, you consume poor and unhealthy content, you...","categories": ["Self-Improvement"],
-        "tags": [],
-        "url": "http://localhost:4000/stop-consuming-new-content/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-12-19-Stop-Consuming-New-Content/new-content.jpg"
       },{
         "title": "Self-Compassion",
         "excerpt":"I have experienced a lot of hardship and difficulty during my life. One thing I learned is that self-compassion is the needed antidote during times of hardship and difficulty. Life has ups and downs. For the ups to be experienced you need to go through the downs. During such times...","categories": ["Wellbeing","Spiritual"],
@@ -40,18 +28,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/self-image/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-25-Self-Image/self-image.jpeg"
-      },{
-        "title": "How Fear Controls You",
-        "excerpt":"Fear is the number one emotion that controls people. I define fear as an instinctive emotion that comes about when a person perceives some kind of danger brining great distress to the person depending on the level of fear felt. A lot of questionable decisions by man can be attributed...","categories": ["Wellbeing","Spiritual","Self-Improvement"],
-        "tags": [],
-        "url": "http://localhost:4000/how-fear-controls-you/",
-        "teaser": "http://localhost:4000/assets/blogs/2020-12-30-How-Fear-Controls-You/fear.jpeg"
-      },{
-        "title": "Taking Responsibility for Your Actions",
-        "excerpt":"Taking responsibility for your actions In this short post I will explain why you should be taking responsibility for your actions, because whether or not you like it, you are the person that dictates your actions, nobody else. When you don’t take responsibility for your actions you push away who...","categories": ["Wellbeing","Spiritual"],
-        "tags": [],
-        "url": "http://localhost:4000/taking-responsbility-for-your-actions/",
-        "teaser": "http://localhost:4000/assets/blogs/2021-01-05-Taking-Responsibility-for-Your-Actions/500.webp"
       },{
         "title": "Mental Wellbeing",
         "excerpt":"In this article I will outline and talk about some things which help to maintain your mental wellbeing. Mental wellbeing is a large topic with a lots of studies and research and isn’t a single set thing and so therefore I will only cover a handful of things which has...","categories": ["Wellbeing","Spiritual"],
@@ -94,12 +70,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/self-respect/",
         "teaser": "http://localhost:4000/assets/blogs/2021-02-27-Self-Respect/respect.jpeg"
-      },{
-        "title": "Less is More",
-        "excerpt":"In this article I will talk a little bit about materialism and why less is more. We live in a materialistic society whereby great focus is put on material things such as clothing, tech, food, appliances etc. The idea being that these things will bring us something more than we...","categories": ["Spiritual"],
-        "tags": ["Less","Minimalism","Consumerism","Efficiency","Light","Captialism"],
-        "url": "http://localhost:4000/less-is-more/",
-        "teaser": "http://localhost:4000/assets/blogs/2021-03-03-less-is-more/less.jpg"
       },{
         "title": "Know Your Limits",
         "excerpt":"In this short post I will talk a little bit about limits. Everyone has their limits. By limits I mean how much a person can tolerate before they have a mental breakdown of some sort. Limits take the form of emotional limits, mental limits, stress limits etc. What I think...","categories": ["Wellbeing"],
@@ -300,7 +270,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/blogs/Ukraine/test.webp"
       },{
         "title": "Fake Spirituality",
-        "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words...","categories": ["Spiritual"],
+        "excerpt":"I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which isn’t true to yourself. As the Buddha once said, “see the truth in my words for yourself”. So essentially...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/fake-spirituality/",
         "teaser": "http://localhost:4000/assets/blogs/fake/grey.jpg"
@@ -346,12 +316,6 @@ var store = [{
         "tags": ["Jesus","Jesus Second Coming","God","Christianity","Extraterrestrials"],
         "url": "http://localhost:4000/when-someone-does-wrong-by-you/",
         "teaser": "http://localhost:4000/assets/blogs/wrong/wrong.jpg"
-      },{
-        "title": "Why You Should Read",
-        "excerpt":"In this article I will be talking about reading and why its so important for all to read this article to take up reading and have it be a part of your daily routine. Now reading doesn’t necessarily need to just be books that your read – it can also...","categories": ["Lifestyle"],
-        "tags": [],
-        "url": "http://localhost:4000/why-you-should-read/",
-        "teaser": "http://localhost:4000/assets/blogs/reading/reading.jpg"
       },{
         "title": "Good vs Evil",
         "excerpt":"Note: That this article was changed on 14/03/22 to be much more accurate. Most people will generally say that one person’s good is different to another person’s good - that good and evil are subjective. However, this isn’t accurate. Good are things that are constructive; things that build things. While...","categories": ["Spiritual"],

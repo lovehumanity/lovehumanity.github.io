@@ -10,7 +10,7 @@ header:
 
 ![Fake]({{ site.url }}{{ site.baseurl }}/assets/blogs/fake/grey.jpg)
 
-I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which is just fake and not true to yourself. As the Buddha once said, “see the truth in my words for yourself”. So essentially what it can mean is that you don’t see the truth for yourself, but act like you see the truth. Also, a side note I see the truth in various things – but fail to accept it. Which is something that I don’t fully understand. 
+I wanted to talk a little about ‘fake spirituality’ which is something I have been a victim of for various points in my life. I define fake spirituality is spirituality which isn't true to yourself. As the Buddha once said, “see the truth in my words for yourself”. So essentially what it can mean is that you don’t see the truth for yourself, but act like you see the truth. Also, a side note I see the truth in various things – but fail to accept it. Which is something that I don’t fully understand. 
 
 Another point I wanted to add is that people identify with being ‘spiritual’… what does that even mean? There is nothing wrong with that, but I think it hinders your ability to make actual spiritual progress because with identifying as being spiritual it could encourage you to share this with others and so ‘virtue signal’ – which isn’t right because the spiritual path should be trod in secret.
 

@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/managing-your-time-and-energy/</loc>
-<lastmod>2020-12-05T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/self-forgiveness/</loc>
 <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/stop-consuming-new-content/</loc>
-<lastmod>2020-12-19T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/self-compassion/</loc>
@@ -27,14 +19,6 @@
 <url>
 <loc>http://localhost:4000/self-image/</loc>
 <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/how-fear-controls-you/</loc>
-<lastmod>2020-12-30T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/taking-responsbility-for-your-actions/</loc>
-<lastmod>2021-01-05T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/mental-wellbeing/</loc>
@@ -63,10 +47,6 @@
 <url>
 <loc>http://localhost:4000/self-respect/</loc>
 <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/less-is-more/</loc>
-<lastmod>2021-03-03T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/know-your-limits/</loc>
@@ -231,10 +211,6 @@
 <url>
 <loc>http://localhost:4000/when-someone-does-wrong-by-you/</loc>
 <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/why-you-should-read/</loc>
-<lastmod>2022-03-13T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/good-vs-evil/</loc>

@@ -27,6 +27,4 @@ It's also about seeing things more clearly, because generally I find a lot of pe
 
 Related Articles:
 
-[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})\\
-[Self-Worth]({% post_url 2022-01-18-Self-Worth %})
-    
+[Becoming a Child]({% post_url 2021-12-28-Becoming-a-Child %})
