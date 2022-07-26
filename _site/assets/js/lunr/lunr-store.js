@@ -424,4 +424,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/real-spirtuality/",
         "teaser": null
+      },{
+        "title": "Control Dramas",
+        "excerpt":"In this article I wanted to discuss a little about this book that I read while I was in University called Celestine Prophecy which was in my article I had on my blog “Books that Changed my Life”. I read it first in 2019 and its been over 3 years...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/control-dramas/",
+        "teaser": null
       }]
