@@ -4,7 +4,11 @@ date: 2022-07-26
 classes: wide
 categories:
   - Spiritual 
+header:
+  teaser: /assets/blogs/control.png
 --- 
+
+![Control]({{ site.url }}{{ site.baseurl }}/assets/blogs/control.png) 
 
 In this article I wanted to discuss a little about this book that I read while I was in University called Celestine Prophecy which was in my article I had on my blog “Books that Changed my Life”. I read it first in 2019 and its been over 3 years since I have read that book. But I wanted to highlight something in the book which I see a lot of truth in, which is the four control dramas.
 

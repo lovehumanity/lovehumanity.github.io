@@ -3,7 +3,11 @@ main:
    - title: "Posts"
      url: /year-archive
    - title: "About"
-     url: /About
+     url: /About 
+   - title: "The Future of Man"
+     url: /TheFutureofMan
+   - title: "The Great White Brotherhood"
+     url: /TheGreatWhiteBrotherhood
    - title: "Important Articles"
      url: /Important
  # url: /Donate
