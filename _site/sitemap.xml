@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/managing-your-time-and-energy/</loc>
+<lastmod>2020-12-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/self-forgiveness/</loc>
 <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/stop-consuming-new-content/</loc>
+<lastmod>2020-12-19T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/self-compassion/</loc>
@@ -19,6 +27,10 @@
 <url>
 <loc>http://localhost:4000/self-image/</loc>
 <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-fear-controls-you/</loc>
+<lastmod>2020-12-30T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/mental-wellbeing/</loc>
@@ -245,6 +257,10 @@
 <lastmod>2022-03-31T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/the-dangers-of-ai-and-machine-learning/</loc>
+<lastmod>2022-04-11T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/becoming-more-christ-like/</loc>
 <lastmod>2022-04-13T00:00:00+01:00</lastmod>
 </url>
@@ -296,6 +312,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/TheFutureofMan/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/TheGreatWhiteBrotherhood/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>

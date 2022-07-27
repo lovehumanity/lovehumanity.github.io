@@ -1,6 +1,7 @@
+---
 title:  "The Great White Brotherhood"
 layout: archive
-permalink: /tgwb
+permalink: /TheGreatWhiteBrotherhood/
 classes: wide
 ---
 

@@ -1,9 +1,21 @@
 var store = [{
+        "title": "Managing Your Time and Energy",
+        "excerpt":"The first thing I want to make clear is that you should be mindful of the people that you hang around with. Are these people pushing you down? Or are they helping you get to where you want to be? Some examples of bad people to hang around with are...","categories": ["Spiritual","Self-Improvement"],
+        "tags": [],
+        "url": "http://localhost:4000/managing-your-time-and-energy/",
+        "teaser": "http://localhost:4000/assets/blogs/2020-05-12-Managing-Your-Time-And-Energy/drops-of-water-578897_1920-768x512.jpg"
+      },{
         "title": "Self-Forgiveness",
         "excerpt":"In this post I will talk a little about self-forgiveness. I will start by saying that all forgiveness is a process and takes longer depending on how bad/how many negative acts were taken. The darker and more negative the act the longer that self-forgiveness will take Forgiveness first comes by...","categories": ["Wellbeing","Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/self-forgiveness/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-17-Self-Forgiveness/yellow-flower.jpeg"
+      },{
+        "title": "Stop Consuming New Content",
+        "excerpt":"Everyone is a consumer of some sort. You consume the news, films, music, YouTube, books, essays etc. These could be paid or free it doesn’t matter. Either way everybody consumes something. Think of what you consume as the food you feed your mind, you consume poor and unhealthy content, you...","categories": ["Self-Improvement"],
+        "tags": [],
+        "url": "http://localhost:4000/stop-consuming-new-content/",
+        "teaser": "http://localhost:4000/assets/blogs/2020-12-19-Stop-Consuming-New-Content/new-content.jpg"
       },{
         "title": "Self-Compassion",
         "excerpt":"I have experienced a lot of hardship and difficulty during my life. One thing I learned is that self-compassion is the needed antidote during times of hardship and difficulty. Life has ups and downs. For the ups to be experienced you need to go through the downs. During such times...","categories": ["Wellbeing","Spiritual"],
@@ -28,6 +40,12 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/self-image/",
         "teaser": "http://localhost:4000/assets/blogs/2020-12-25-Self-Image/self-image.jpeg"
+      },{
+        "title": "How Fear Controls You",
+        "excerpt":"Fear is the number one emotion that controls people. I define fear as an instinctive emotion that comes about when a person perceives some kind of danger brining great distress to the person depending on the level of fear felt. A lot of questionable decisions by man can be attributed...","categories": ["Wellbeing","Spiritual","Self-Improvement"],
+        "tags": [],
+        "url": "http://localhost:4000/how-fear-controls-you/",
+        "teaser": "http://localhost:4000/assets/blogs/2020-12-30-How-Fear-Controls-You/fear.jpeg"
       },{
         "title": "Mental Wellbeing",
         "excerpt":"In this article I will outline and talk about some things which help to maintain your mental wellbeing. Mental wellbeing is a large topic with a lots of studies and research and isn’t a single set thing and so therefore I will only cover a handful of things which has...","categories": ["Wellbeing","Spiritual"],
@@ -363,6 +381,12 @@ var store = [{
         "excerpt":"In this short post I will talk about why it’s so important for each and every one of us to become more understanding to one another. Firstly, is something which has to be given to others with good will for them. Any intent of ill will and understanding will simply...","categories": ["Spiritual"],
         "tags": [],
         "url": "http://localhost:4000/understanding/",
+        "teaser": null
+      },{
+        "title": "The Dangers of AI and Machine Learning",
+        "excerpt":"In this short article I wanted to talk a little bit about the risks of AI and machine learning. This is a bit of an oddball article which I thought it was important enough to share to the world and also spirituality doesn’t just have to be about meditation/prayer etc,...","categories": ["Spiritual"],
+        "tags": [],
+        "url": "http://localhost:4000/the-dangers-of-ai-and-machine-learning/",
         "teaser": null
       },{
         "title": "Becoming More Christ Like",
