@@ -10,5 +10,7 @@ main:
      url: /TheGreatWhiteBrotherhood
    - title: "Important Articles"
      url: /Important
+   - title: "Donate"
+     url: /Donate
  # url: /Donate
   

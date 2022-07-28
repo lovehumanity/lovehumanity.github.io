@@ -308,6 +308,9 @@
 <loc>http://localhost:4000/About/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Donate/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/Important/</loc>
 </url>
 <url>

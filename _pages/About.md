@@ -38,7 +38,7 @@ Please note that I push to my gitlab repo and then this clones to my github repo
 
 I have taken the deliberate action to not place any advertisements on this blog mainly because I think that it takes away from the value of the articles and are just distractions to the eyes.
 
-I also do not ask for **ANY** donations to this blog or myself, but in the past I did have a donation page which has been removed from this blog.
+I also didn't ask for any donations for this blog for several months and am asking for some donations now as I need the money, I don't like asking for donations, but please do give only what you can afford and donating me money doesn't offer any extra spiritual teachings, it simply supports me in my life.
 
 Also a side note that the articles on this blog are not very long in length because I like to keep it quick and to the point and avoid 'filler' as much as possible, which is what I see a lot of articles I read do. Also wanted to add that just because an article is old - that doesn't mean that its of less value, I update each article and each article will stand the test of time. 
 
